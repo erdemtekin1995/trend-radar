@@ -201,15 +201,16 @@ def ask_claude(cfg: dict, prompt: str) -> dict | None:
         "max_tokens": 4000,
         "messages": [{"role": "user", "content": prompt}],
     }).encode("utf-8")
-    req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages",
-        data=body,
-        headers={
-            "x-api-key": key,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json",
-        },
-    )
+    headers = {
+        "x-api-key": key,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+    # Workspace'e bağlı olmayan anahtarlar için hangi workspace kullanılacağı
+    ws = os.environ.get("ANTHROPIC_WORKSPACE_ID", "").strip()
+    if ws:
+        headers["anthropic-workspace-id"] = ws
+    req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=body, headers=headers)
     try:
         with urllib.request.urlopen(req, timeout=120) as r:
             resp = json.loads(r.read().decode("utf-8"))

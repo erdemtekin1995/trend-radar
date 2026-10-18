@@ -53,13 +53,22 @@ case "$KEY" in
   *) echo "Uyarı: anahtar genelde 'sk-ant-' ile başlar. Yine de devam ediliyor." ;;
 esac
 
+# 4b) Workspace ID (sadece workspace'e bağlı olmayan anahtarlar için gerekli)
+echo
+echo "Anahtarın bir workspace'e bağlı değilse Workspace ID gerekiyor (Console > Settings > Workspaces, 'wrkspc_' ile başlar)."
+read -r -p "Workspace ID (yoksa boş bırakıp Enter): " WS
+WS="$(printf %s "$WS" | tr -d '[:space:]')"
+WS_HDR=()
+[ -n "$WS" ] && WS_HDR=(-H "anthropic-workspace-id: $WS")
+
 # 5) (İsteğe bağlı) anahtar çalışıyor mu? Çin içinden bu kontrol başarısız olabilir, sorun değil.
 CODE="$(curl -s -o /dev/null -w '%{http_code}' --max-time 10 \
-  -H "x-api-key: $KEY" -H "anthropic-version: 2023-06-01" \
+  -H "x-api-key: $KEY" -H "anthropic-version: 2023-06-01" ${WS_HDR[@]+"${WS_HDR[@]}"} \
   https://api.anthropic.com/v1/models || true)"
 case "$CODE" in
   200) echo "✓ Anahtar geçerli." ;;
   401) echo "✗ Anthropic anahtarı reddetti (401). Doğru kopyaladığından emin ol."; exit 1 ;;
+  400) echo "✗ İstek reddedildi (400). Anahtar workspace'e bağlı değilse Workspace ID'yi doğru girdiğinden emin ol."; exit 1 ;;
   *)   echo "• Anahtar buradan kontrol edilemedi (kod: ${CODE:-yok}). GitHub üzerinden test edilecek." ;;
 esac
 
@@ -67,6 +76,10 @@ esac
 printf %s "$KEY" | gh secret set ANTHROPIC_API_KEY --repo "$REPO"
 unset KEY
 say "✓ ANTHROPIC_API_KEY, $REPO reposuna kaydedildi."
+if [ -n "$WS" ]; then
+  printf %s "$WS" | gh secret set ANTHROPIC_WORKSPACE_ID --repo "$REPO"
+  echo "✓ ANTHROPIC_WORKSPACE_ID kaydedildi."
+fi
 
 # 7) Bugünün raporunu hemen üret
 read -r -p "Bugünün raporunu fikirlerle şimdi üreteyim mi? [E/h] " ANS

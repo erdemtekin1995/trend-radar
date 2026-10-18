@@ -31,6 +31,7 @@ jobs:
       - name: Raporu oluştur
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
         run: python report.py --date "${{ github.event.inputs.date || 'yesterday' }}"
 
       - name: Raporu kaydet
