@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "generated_at": "2026-10-19T03:18+08:00",
+ "generated_at": "2026-10-19T03:20+08:00",
  "snapshots": 1,
  "countries": [
   {
@@ -1799,6 +1799,154 @@
    ]
   }
  ],
- "ai": null,
- "ai_error": "Claude API hatası 400: tool_choice: type \"tool\" and \"any\" are not supported for this model."
+ "ai": {
+  "summary": "Gün futbolun günü: Real Madrid–Sevilla ABD, Almanya ve Türkiye'de aynı anda zirvede, Kore'de Premier League haftası, ABD'de NFL fantasy start/sit rutini. Asıl kalıcı sinyaller Çin'den geliyor: fiyat şeffaflığı (1980 yuanlık cam 30 yuan toptan), şişirilmiş restoran puanları, Japonya'dan yayılan \"yemek iptali\" tükenmişlik trendi ve kimlik/veri sızıntısı kaynaklı kredi dolandırıcılığı (Kore'de Bithumb sızıntısıyla örtüşüyor).",
+  "countries": {
+   "US": "Real Madrid–Sevilla ve Brezilya ligi maçları artı NFL fantasy Week 6 start/sit aramaları; spor dışı tek büyük konu bir ünlü ailesinin kaybı (video malzemesi yapılmamalı).",
+   "DE": "Futbol (Real, Juve–Lazio, Milan–Atalanta) ve TV: Henssler–Lafer yemek programı, Victoria's Secret şovu, Endgame'in Avatar'ı gişede yeniden geçmesi.",
+   "TR": "Real Madrid–Sevilla 20K ile açık ara önde; İBB davası tahliyeleri, CHP istifası, TSB'nin iflas söylentisini yalanlaması (dezenformasyon) ve PS6 maliyet sızıntısı.",
+   "KR": "Premier League haftası (Forest–Arsenal, Brighton 5 attı) ve TV/ünlü gündemi; Bithumb veri sızıntısı çağrı merkezi çalışanlarına yansıyan bir güven krizine dönüştü.",
+   "CN": "Tüketici şeffaflığı günü: gözlük camı kâr marjı, 4.8 puanlı 'influencer restoranı' tuzağı, baijiu fiyat indirimi, Japonya'nın 'yemek iptali' akımı, sahte ünlü hesaplarıyla satış ve hapisteyken adına çekilen online krediler."
+  },
+  "patterns": [
+   "Tek bir maç (Real Madrid–Sevilla) 3 ülkede aynı anda #1: canlı skor/ilk 11 içerikleri saat bazında trafik getiriyor ama uygulama değeri yok.",
+   "Fiyat ve puan şeffaflığı (gözlük camı marjı, şişirilmiş restoran puanı, baijiu fiyat düşüşü): tüketici 'gerçek değeri' bilmek istiyor, mevcut platformlar bunu göstermiyor.",
+   "Kimlik/veri güvenliği: Kore'de Bithumb sızıntısı, Çin'de adına kredi çekilen adam, sahte ünlü hesabıyla satış — kişisel veri kötüye kullanımına karşı erken fark etme ihtiyacı tekrar ediyor.",
+   "Dezenformasyonu yalanlama hem TR'de (TSB iflas) hem CN'de (Zhengzhou polisi 辟谣) listede: kurumlar artık söylentiyi trend olmadan yalanlamaya çalışıyor.",
+   "Tükenmişlik ve 'minimum çaba' yaşam: Japonya'nın 'yemek iptali' akımı Çin'e sıçradı; düşük enerjili günlerde temel ihtiyaçları karşılama sorunu kalıcı."
+  ],
+  "app_ideas": [
+   {
+    "title": "Düşük Enerji Mutfağı — 'yemek iptal etme' günleri için 2 dakikalık yemek asistanı",
+    "problem": "Tükenmiş/depresif günlerde insanlar yemek yapmayı ve hatta yemeyi iptal ediyor ('飯キャンセル'). Tarif ve diyet uygulamaları planlama, alışveriş ve kalori sayma istiyor; o gün buna enerji yok. İhtiyaç: 'elimdekiyle, 2 dakikada, düşünmeden ne yerim?'",
+    "why_now": "Japonya'da başlayan 'yemek iptali' akımı bugün Baidu'da 热议; genç tükenmişliği KR/CN/TR'de ortak gündem. Mevcut yemek uygulamaları bu kullanıcıyı tamamen ıskalıyor.",
+    "trends": [
+     "日本流行“取消吃饭”"
+    ],
+    "market": "global (önce TR + EN, sonra KR/JP)",
+    "mvp": "1) Enerji seviyesi seçici (yatak/koltuk/ayakta 5 dk) + evdeki 3-4 malzemeyle eşleşen sıfır-pişirme/mikrodalga önerileri; 2) 'Bugün hiç yemedin mi?' nazik hatırlatıcı, yargısız ton; 3) Kolay dönemlerde dolaba atılacak 'acil kit' alışveriş listesi.",
+    "effort": "kolay",
+    "competitors": "Yemek.com/Nefis Yemek, Mealime, Yazio: hepsi planlı, çok adımlı, sağlıklı-beslenme odaklı; Finch gibi self-care uygulamaları yemeği kapsamıyor. Hiçbiri 'sıfır enerji' modunu tasarlamıyor.",
+    "monetization": "Freemium: 30 ücretsiz öneri, sonrası aylık ~49 TL / $2.99 abonelik; ödeyen kişi tükenmişlik yaşayan 20-35 yaş çalışan/öğrenci. Alternatif B2B: ruh sağlığı uygulamalarına içerik lisansı.",
+    "recurring_signal": "飯キャンセル界隈 2024'ten beri Japonya'da her birkaç ayda yeniden trend; 'depression meals' TikTok'ta kalıcı etiket; tükenmişlik aramaları mevsimsel değil, sürekli.",
+    "solo_feasible": "150-200 statik tarif kartı + basit filtre mantığı, backend gerektirmez; 4 haftada Flutter/SwiftUI ile çıkar. En büyük risk: tonun doğru tutturulması (yargılayıcı olmadan) ve içeriğin klinik olmayan ama sorumlu kalması.",
+    "confidence": 6
+   },
+   {
+    "title": "Cam Fiyatı Dedektörü — gözlük camı teklifini anında 'adil fiyat' aralığıyla karşılaştır",
+    "problem": "Optikçide cam fiyatı tamamen opak: aynı indeks/kaplama 10 kat farkla satılabiliyor. Tüketici teklifin makul olup olmadığını bilmiyor; mağazada karşılaştırma yapacak araç yok.",
+    "why_now": "'Önerilen fiyatı 1980 yuan olan camın toptan fiyatı 30 yuan' bugün Baidu'da #1; gözlük marjı Luxottica tartışmasıyla US/EU'da da her yıl yeniden alevleniyor.",
+    "trends": [
+     "建议售价1980的眼镜片批发价30"
+    ],
+    "market": "TR (başlangıç), sonra global EN",
+    "mvp": "1) İndeks (1.5/1.6/1.67/1.74), kaplama, marka seçimi → online referans fiyat aralığı ve 'bu teklif pahalı/normal' göstergesi; 2) Teklif fotoğrafı/el girişiyle kayıt ve kullanıcıların anonim fiyat paylaşımı (crowdsourcing); 3) Pazarlık kartı: 'aynı cam şurada X TL' ekran görüntüsü.",
+    "effort": "orta",
+    "competitors": "Zenni/Lensmart gibi online satıcılar sadece kendi fiyatını gösterir; Akakçe/Cimri gözlük camında yok çünkü ürün standart SKU değil. Hiçbir uygulama mağazadaki teklifi değerlendirmiyor.",
+    "monetization": "Tek seferlik 'sınırsız karşılaştırma' (~99 TL) + online optik mağazalara affiliate yönlendirme; ödeyen kişi yılda 1-2 kez gözlük alan ve teklif karşısında şüpheye düşen tüketici.",
+    "recurring_signal": "Gözlük 1-2 yılda bir alınan tekrarlı harcama; 'gözlük camı neden pahalı' aramaları her yıl Çin'de 315 tüketici gününde ve global'de Luxottica videolarıyla zirve yapıyor.",
+    "solo_feasible": "Çekirdek: 30-50 satırlık kürate fiyat tablosu + basit form, 4 haftada çıkar. En büyük risk: referans fiyat verisinin güvenilirliği ve güncel tutulması — crowdsourcing kritik kütleye ulaşmazsa veri bayatlar.",
+    "confidence": 5
+   }
+  ],
+  "video_ideas": [
+   {
+    "title": "Real Madrid–Sevilla ilk 11 ve 60 saniyede maç öncesi analiz",
+    "format": "Shorts / TikTok",
+    "hook": "Üç ülkede aynı anda 1 numara olan maçın ilk 11'inde bir sürpriz var.",
+    "trends": [
+     "real madrid - sevilla",
+     "real madrid vs sevilla"
+    ],
+    "market": "global (TR, US, DE)",
+    "timing": "bugün"
+   },
+   {
+    "title": "Premier League haftası 45 saniyede: Arsenal Forest'ı geçti, Brighton 5 attı",
+    "format": "Shorts / Reels",
+    "hook": "Bu hafta Premier League'de 3 skor kimsenin beklemediği gibi geldi.",
+    "trends": [
+     "노팅엄 포레스트 대 아스널",
+     "premier league",
+     "brighton vs palace"
+    ],
+    "market": "KR, global",
+    "timing": "bugün"
+   },
+   {
+    "title": "1980 yuanlık gözlük camının toptan fiyatı 30 yuan: camınıza gerçekte ne ödüyorsunuz?",
+    "format": "TikTok / Douyin",
+    "hook": "Gözlüğünüzün camı size 3.000 lira; optikçiye 100 lira.",
+    "trends": [
+     "建议售价1980的眼镜片批发价30"
+    ],
+    "market": "CN, TR, global",
+    "timing": "bu hafta"
+   },
+   {
+    "title": "4.8 puanlı restoranlar neden daha çok hayal kırıklığı yaratıyor?",
+    "format": "Shorts / Douyin",
+    "hook": "Restoran puanı 4.8 mi? İşte bu yüzden 4.3'lük yere gitmelisiniz.",
+    "trends": [
+     "为什么4.8分网红餐厅更容易踩雷"
+    ],
+    "market": "CN, global",
+    "timing": "evergreen"
+   },
+   {
+    "title": "Japonya'da yayılan 'yemek iptali': tükenmişlik yemeği nasıl siliyor?",
+    "format": "Reels / TikTok",
+    "hook": "Japonya'da gençler akşam yemeğini 'iptal' ediyor — ve bu bir diyet değil.",
+    "trends": [
+     "日本流行“取消吃饭”"
+    ],
+    "market": "CN, KR, TR",
+    "timing": "bu hafta"
+   },
+   {
+    "title": "PS6'nın sadece RAM'i ve depolaması 680 dolar mı? Fiyat ne olur?",
+    "format": "Shorts",
+    "hook": "PS6 daha çıkmadan parçaları PS5'in tamamından pahalı.",
+    "trends": [
+     "playstation"
+    ],
+    "market": "TR, global",
+    "timing": "bugün"
+   },
+   {
+    "title": "Fantasy Week 6: Dameon Pierce mi Blake Corum mu? 30 saniyede karar",
+    "format": "Shorts / TikTok",
+    "hook": "Pierce'ı oynatırsan bu haftayı kaybedersin — işte sebebi.",
+    "trends": [
+     "dameon pierce",
+     "tyler shough"
+    ],
+    "market": "US",
+    "timing": "bugün"
+   },
+   {
+    "title": "Sahte ünlü hesabıyla canlı yayın satışı: taklit hesabı 10 saniyede nasıl anlarsınız?",
+    "format": "Douyin / TikTok",
+    "hook": "Bu canlı yayındaki oyuncu gerçek değil — ve binlerce kişi sipariş verdi.",
+    "trends": [
+     "伪造演员吴越形象带货账号被封",
+     "吴越质问“花姐”骗了多少钱"
+    ],
+    "market": "CN, global",
+    "timing": "bu hafta"
+   },
+   {
+    "title": "Adınıza kredi çekildi mi? 5 dakikada ücretsiz kimlik ve kredi kontrolü",
+    "format": "Shorts / Reels",
+    "hook": "Adam 20 gün hapisteydi, çıktığında adına 100 bin yuan kredi vardı.",
+    "trends": [
+     "男子称入狱20多天网贷记录多了十几万",
+     "빗썸"
+    ],
+    "market": "CN, KR, TR",
+    "timing": "evergreen"
+   }
+  ]
+ },
+ "ai_error": null
 }
