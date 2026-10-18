@@ -120,7 +120,11 @@ function renderAI(ai, err) {
       <p><span class="k">Problem</span><br>${esc(a.problem)}</p>
       <p><span class="k">Neden şimdi</span><br>${esc(a.why_now)}</p>
       <p><span class="k">MVP</span><br>${esc(a.mvp)}</p>
-      <div class="chips"><span class="chip m">${esc(a.market)}</span><span class="chip">${esc(a.effort)}</span>${(a.trends||[]).map(t=>`<span class="chip">${esc(t)}</span>`).join("")}</div>
+      ${a.competitors ? `<p><span class="k">Rakipler</span><br>${esc(a.competitors)}</p>` : ""}
+      ${a.monetization ? `<p><span class="k">Gelir modeli</span><br>${esc(a.monetization)}</p>` : ""}
+      ${a.recurring_signal ? `<p><span class="k">Kalıcı sinyal</span><br>${esc(a.recurring_signal)}</p>` : ""}
+      ${a.solo_feasible ? `<p><span class="k">Tek kişi yapabilir mi</span><br>${esc(a.solo_feasible)}</p>` : ""}
+      <div class="chips"><span class="chip m">${esc(a.market)}</span><span class="chip">${esc(a.effort)}</span>${a.confidence ? `<span class="chip">güven ${esc(a.confidence)}/10</span>` : ""}${(a.trends||[]).map(t=>`<span class="chip">${esc(t)}</span>`).join("")}</div>
     </div>`).join("");
   const vids = (ai.video_ideas || []).map((v) => `
     <div class="card">
@@ -130,7 +134,7 @@ function renderAI(ai, err) {
     </div>`).join("");
   $("ai").innerHTML = `
     <div class="summary">${esc(ai.summary)}${pats ? `<ul class="patterns">${pats}</ul>` : ""}</div>
-    ${apps ? `<h2>Uygulama fikirleri</h2><div class="grid">${apps}</div>` : ""}
+    <h2>Uygulama fikirleri</h2>${apps ? `<div class="grid">${apps}</div>` : `<p class="note">Bugün çıtayı geçen uygulama fikri çıkmadı.</p>`}
     ${vids ? `<h2>Video fikirleri</h2><div class="grid">${vids}</div>` : ""}`;
 }
 

@@ -53,10 +53,10 @@ Raporda her trendin yanında:
 | `timezone` | Günlerin hangi saat dilimine göre bölüneceği |
 | `report_top_n` | Raporda ülke başına gösterilen trend sayısı |
 | `ai_top_n_per_country` | Claude'a ülke başına gönderilen trend sayısı |
-| `ai_model` | Kullanılan Claude modeli (`claude-haiku-5-5` ucuz ve yeterli; daha iyi fikirler için `claude-sonnet-5-5`) |
+| `ai_model` | Kullanılan Claude modeli (varsayılan `claude-fable-5-1`; daha ucuz seçenekler `claude-sonnet-5-5`, `claude-haiku-5-5`) |
 | `ai_focus` | Claude'a fikirlerin hangi yöne olmasını istediğini anlatan cümle. Kendi ilgi alanlarına göre değiştir |
 
-Maliyet: Haiku ile günde tek çağrı, ayda birkaç sentlik seviyede.
+Maliyet: günde tek çağrı yapılır; harcamayı Claude Console'daki kullanım sayfasından izleyebilirsin.
 
 ## Kendi bilgisayarında çalıştırmak
 

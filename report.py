@@ -162,8 +162,11 @@ def build_prompt(cfg: dict, day: str, by_geo: dict) -> str:
 Okuyucu bir mobil uygulama geliştiricisi ve içerik üreticisi. Amaç: {cfg.get('ai_focus')}
 
 Kurallar:
-- Tek seferlik haber olaylarını (maç sonucu, piyango çekilişi) doğrudan uygulama fikrine çevirme; arkalarındaki TEKRAR EDEN ihtiyacı bul (ör. "X ne zaman" aramaları -> takvim/hatırlatma ihtiyacı). Tek seferlik olaylar video fikri için daha uygundur.
-- Birden fazla ülkede görülen ya da son günlerde tekrar eden konulara ağırlık ver.
+- Uygulama fikri çıtası yüksek: zayıf 5 fikir yerine güçlü 1-2 fikir ver; hiçbiri çıtayı geçmiyorsa app_ideas boş kalabilir.
+- Bir uygulama fikri tek seferlik bir olaya (maç, piyango çekilişi, tek bir haber, ünlü dedikodusu, hava durumu) dayanamaz. Bu tür trendlerin arkasında TEKRAR EDEN ve insanların bugün kötü çözdüğü bir ihtiyaç göremiyorsan o trendi sadece video fikri için kullan.
+- "Maç takvimi", "haber doğrulama", "fiyat karşılaştırma" gibi büyük oyuncuların zaten iyi çözdüğü genel kategorileri önerme; öneriyorsan mevcut çözümlerin tam olarak neyi kötü yaptığını ve senin fikrinin nereden kazanacağını açıkça yaz.
+- Her uygulama fikri için: mevcut rakipleri, nasıl para kazanacağını, ihtiyacın neden kalıcı olduğunu (hangi tekrar eden sinyal) ve tek bir geliştiricinin neden 4 haftada çıkarabileceğini yaz.
+- Birden fazla ülkede görülen ya da son günlerde tekrar eden ("son 7 günün X'inde" işaretli) konulara ağırlık ver.
 - Ölüm, afet, savaş, suç mağdurları gibi trajedileri sansasyonel video malzemesine çevirme; bu konulardan ancak faydalı/bilgilendirici bir açı varsa bahset.
 - Somut ol: genel "AI asistan uygulaması" gibi fikirler verme.
 - Tüm metinler {cfg.get('ai_language', 'Türkçe')} olsun.
@@ -172,7 +175,7 @@ Trend verisi:
 {data_block}
 
 Sonucu "kaydet_fikirler" aracıyla kaydet. Metinleri kısa ve net tut.
-4-6 app fikri ve 6-10 video fikri ver."""
+En fazla 4 app fikri (çıtayı geçen kadar) ve 6-10 video fikri ver."""
 
 
 
@@ -193,7 +196,7 @@ IDEAS_TOOL = {
             "patterns": {**_SA, "description": "Ülkeler arası veya tekrar eden ihtiyaç kalıpları"},
             "app_ideas": {
                 "type": "array",
-                "description": "4-6 uygulama fikri",
+                "description": "0-4 uygulama fikri; sadece çıtayı geçenler",
                 "items": {
                     "type": "object",
                     "properties": {
@@ -201,8 +204,14 @@ IDEAS_TOOL = {
                         "market": {"type": "string", "description": "TR, US, DE, KR, CN veya global"},
                         "mvp": {"type": "string", "description": "İlk sürümdeki 2-3 özellik"},
                         "effort": {"type": "string", "enum": ["kolay", "orta", "zor"]},
+                        "competitors": {"type": "string", "description": "Mevcut rakipler ve neyi eksik/kötü yaptıkları"},
+                        "monetization": {"type": "string", "description": "Nasıl para kazanır (abonelik, tek seferlik, reklam...) ve kim öder"},
+                        "recurring_signal": {"type": "string", "description": "İhtiyacın kalıcı olduğunu gösteren tekrar eden sinyal"},
+                        "solo_feasible": {"type": "string", "description": "Tek geliştiricinin 4 haftada çıkarabilmesinin sebebi, en büyük teknik risk"},
+                        "confidence": {"type": "integer", "minimum": 1, "maximum": 10, "description": "Fikre güvenin, 1-10"},
                     },
-                    "required": ["title", "problem", "why_now", "trends", "market", "mvp", "effort"],
+                    "required": ["title", "problem", "why_now", "trends", "market", "mvp", "effort",
+                                 "competitors", "monetization", "recurring_signal", "solo_feasible", "confidence"],
                 },
             },
             "video_ideas": {
@@ -237,7 +246,7 @@ def ask_claude(cfg: dict, prompt: str) -> dict | None:
         AI_ERROR = "ANTHROPIC_API_KEY secret'ı bulunamadı."
         return None
     body = json.dumps({
-        "model": os.environ.get("CLAUDE_MODEL") or cfg.get("ai_model", "claude-haiku-5-5"),
+        "model": os.environ.get("CLAUDE_MODEL") or cfg.get("ai_model", "claude-fable-5-1"),
         "max_tokens": 8000,
         "tools": [IDEAS_TOOL],
         "tool_choice": {"type": "tool", "name": IDEAS_TOOL["name"]},
@@ -328,6 +337,12 @@ def write_markdown(cfg: dict, day: str, by_geo: dict, ai: dict | None) -> Path:
                 out.append(f"- **Problem:** {a.get('problem', '')}")
                 out.append(f"- **Neden şimdi:** {a.get('why_now', '')}")
                 out.append(f"- **MVP:** {a.get('mvp', '')}")
+                for k, label in (("competitors", "Rakipler"), ("monetization", "Gelir modeli"),
+                                 ("recurring_signal", "Kalıcı sinyal"), ("solo_feasible", "Tek kişi yapabilir mi")):
+                    if a.get(k):
+                        out.append(f"- **{label}:** {a[k]}")
+                if a.get("confidence"):
+                    out.append(f"- **Güven:** {a['confidence']}/10")
                 if a.get("trends"):
                     out.append(f"- **Trendler:** {', '.join(a['trends'])}")
                 out.append("")

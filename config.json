@@ -5,7 +5,7 @@
   "baidu_skip_pinned": true,
   "report_top_n": 20,
   "ai_top_n_per_country": 12,
-  "ai_model": "claude-haiku-5-5",
+  "ai_model": "claude-fable-5-1",
   "ai_language": "Türkçe",
   "ai_focus": "Mobil uygulama fikirleri (iOS/Android, tek geliştiricinin 2-6 haftada MVP çıkarabileceği ölçekte) ve kısa video içerik fikirleri (YouTube Shorts, TikTok, Reels, Douyin)."
 }
