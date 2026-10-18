@@ -245,13 +245,13 @@ def ask_claude(cfg: dict, prompt: str) -> dict | None:
         print("ANTHROPIC_API_KEY yok, AI fikir adımı atlandı.")
         AI_ERROR = "ANTHROPIC_API_KEY secret'ı bulunamadı."
         return None
-    body = json.dumps({
+    payload = {
         "model": os.environ.get("CLAUDE_MODEL") or cfg.get("ai_model", "claude-fable-5-1"),
         "max_tokens": 8000,
         "tools": [IDEAS_TOOL],
         "tool_choice": {"type": "tool", "name": IDEAS_TOOL["name"]},
         "messages": [{"role": "user", "content": prompt}],
-    }).encode("utf-8")
+    }
     headers = {
         "x-api-key": key,
         "anthropic-version": "2023-06-01",
@@ -261,22 +261,31 @@ def ask_claude(cfg: dict, prompt: str) -> dict | None:
     ws = os.environ.get("ANTHROPIC_WORKSPACE_ID", "").strip()
     if ws:
         headers["anthropic-workspace-id"] = ws
-    req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=body, headers=headers)
-    try:
-        with urllib.request.urlopen(req, timeout=120) as r:
-            resp = json.loads(r.read().decode("utf-8"))
-    except urllib.error.HTTPError as e:
-        detail = ""
+
+    def post(p: dict):
+        req = urllib.request.Request(
+            "https://api.anthropic.com/v1/messages", data=json.dumps(p).encode("utf-8"), headers=headers
+        )
         try:
-            err = json.loads(e.read().decode("utf-8"))
-            detail = (err.get("error") or {}).get("message", "")
-        except Exception:
-            pass
-        AI_ERROR = f"Claude API hatası {e.code}: {detail or e.reason}"
-        print(AI_ERROR, file=sys.stderr)
-        return None
-    except Exception as e:
-        AI_ERROR = f"Claude isteği başarısız: {e}"
+            with urllib.request.urlopen(req, timeout=300) as r:
+                return json.loads(r.read().decode("utf-8")), None, ""
+        except urllib.error.HTTPError as e:
+            detail = ""
+            try:
+                detail = (json.loads(e.read().decode("utf-8")).get("error") or {}).get("message", "")
+            except Exception:
+                pass
+            return None, e.code, detail or str(e.reason)
+        except Exception as e:
+            return None, -1, str(e)
+
+    resp, code, detail = post(payload)
+    if resp is None and code == 400 and "tool_choice" in detail:
+        # Bazı modeller (ör. Fable) aracı zorlamayı desteklemiyor -> serbest modda tekrar dene
+        payload["tool_choice"] = {"type": "auto"}
+        resp, code, detail = post(payload)
+    if resp is None:
+        AI_ERROR = f"Claude API hatası {code}: {detail}" if code != -1 else f"Claude isteği başarısız: {detail}"
         print(AI_ERROR, file=sys.stderr)
         return None
     return extract_ideas(resp)
