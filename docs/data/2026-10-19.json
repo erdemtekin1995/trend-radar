@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "generated_at": "2026-10-19T02:54+08:00",
+ "generated_at": "2026-10-19T03:04+08:00",
  "snapshots": 1,
  "countries": [
   {
@@ -1800,5 +1800,5 @@
   }
  ],
  "ai": null,
- "ai_error": "Claude API hatası 400: This API key is not scoped to a workspace, so this request must include the anthropic-workspace-id header with the ID of the workspace to use. Add the header, or use an API key that is scoped to a workspace."
+ "ai_error": "Claude cevap verdi ama cevap JSON olarak okunamadı."
 }
