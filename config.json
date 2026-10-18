@@ -1,0 +1,11 @@
+{
+  "timezone": "Asia/Shanghai",
+  "google_geos": ["US", "DE", "TR", "KR"],
+  "baidu_china": true,
+  "baidu_skip_pinned": true,
+  "report_top_n": 20,
+  "ai_top_n_per_country": 12,
+  "ai_model": "claude-haiku-5-5",
+  "ai_language": "Türkçe",
+  "ai_focus": "Mobil uygulama fikirleri (iOS/Android, tek geliştiricinin 2-6 haftada MVP çıkarabileceği ölçekte) ve kısa video içerik fikirleri (YouTube Shorts, TikTok, Reels, Douyin)."
+}

@@ -1,0 +1,40 @@
+name: Saatlik trend toplama
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # her saat başı +17 dk (UTC)
+  workflow_dispatch: {}     # Actions sekmesinden elle de çalıştırılabilir
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trend-radar-commit
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Trendleri çek
+        run: python collect.py
+
+      - name: Veriyi kaydet
+        run: |
+          git config user.name  "trend-radar-bot"
+          git config user.email "trend-radar-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok"
+          else
+            git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase
+            git push
+          fi
