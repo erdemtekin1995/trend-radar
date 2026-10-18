@@ -171,20 +171,60 @@ Kurallar:
 Trend verisi:
 {data_block}
 
-SADECE şu yapıda geçerli bir JSON döndür, başka hiçbir şey yazma:
-{{
-  "summary": "günün genel tablosu, 2-3 cümle",
-  "countries": {{"US": "1-2 cümle", "DE": "...", "TR": "...", "KR": "...", "CN": "..."}},
-  "patterns": ["ülkeler arası veya tekrar eden ihtiyaç kalıbı", "..."],
-  "app_ideas": [
-    {{"title": "kısa isim", "problem": "hangi ihtiyacı çözüyor", "why_now": "hangi trend(ler) bunu gösteriyor", "trends": ["terim1", "terim2"], "market": "TR|US|DE|KR|CN|global", "mvp": "ilk sürümde olacak 2-3 özellik", "effort": "kolay|orta|zor"}}
-  ],
-  "video_ideas": [
-    {{"title": "video başlığı", "format": "Shorts/TikTok/uzun video vb.", "hook": "ilk 3 saniyede söylenecek cümle", "trends": ["terim"], "market": "TR|US|DE|KR|CN|global", "timing": "bugün|bu hafta|evergreen"}}
-  ]
-}}
+Sonucu "kaydet_fikirler" aracıyla kaydet. Metinleri kısa ve net tut.
 4-6 app fikri ve 6-10 video fikri ver."""
 
+
+
+_S = {"type": "string"}
+_SA = {"type": "array", "items": {"type": "string"}}
+IDEAS_TOOL = {
+    "name": "kaydet_fikirler",
+    "description": "Günün trend analizini, uygulama fikirlerini ve video fikirlerini kaydeder.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "summary": {"type": "string", "description": "Günün genel tablosu, 2-3 cümle"},
+            "countries": {
+                "type": "object",
+                "description": "Ülke kodu -> o ülkenin 1-2 cümlelik özeti (US, DE, TR, KR, CN)",
+                "additionalProperties": {"type": "string"},
+            },
+            "patterns": {**_SA, "description": "Ülkeler arası veya tekrar eden ihtiyaç kalıpları"},
+            "app_ideas": {
+                "type": "array",
+                "description": "4-6 uygulama fikri",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "title": _S, "problem": _S, "why_now": _S, "trends": _SA,
+                        "market": {"type": "string", "description": "TR, US, DE, KR, CN veya global"},
+                        "mvp": {"type": "string", "description": "İlk sürümdeki 2-3 özellik"},
+                        "effort": {"type": "string", "enum": ["kolay", "orta", "zor"]},
+                    },
+                    "required": ["title", "problem", "why_now", "trends", "market", "mvp", "effort"],
+                },
+            },
+            "video_ideas": {
+                "type": "array",
+                "description": "6-10 kısa video fikri",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "title": _S,
+                        "format": {"type": "string", "description": "Shorts, TikTok, Reels, Douyin, uzun video vb."},
+                        "hook": {"type": "string", "description": "İlk 3 saniyede söylenecek cümle"},
+                        "trends": _SA,
+                        "market": {"type": "string", "description": "TR, US, DE, KR, CN veya global"},
+                        "timing": {"type": "string", "enum": ["bugün", "bu hafta", "evergreen"]},
+                    },
+                    "required": ["title", "format", "hook", "trends", "market", "timing"],
+                },
+            },
+        },
+        "required": ["summary", "countries", "patterns", "app_ideas", "video_ideas"],
+    },
+}
 
 AI_ERROR: str | None = None  # dashboard'da gösterilir
 
@@ -198,7 +238,9 @@ def ask_claude(cfg: dict, prompt: str) -> dict | None:
         return None
     body = json.dumps({
         "model": os.environ.get("CLAUDE_MODEL") or cfg.get("ai_model", "claude-haiku-5-5"),
-        "max_tokens": 4000,
+        "max_tokens": 8000,
+        "tools": [IDEAS_TOOL],
+        "tool_choice": {"type": "tool", "name": IDEAS_TOOL["name"]},
         "messages": [{"role": "user", "content": prompt}],
     }).encode("utf-8")
     headers = {
@@ -228,10 +270,24 @@ def ask_claude(cfg: dict, prompt: str) -> dict | None:
         AI_ERROR = f"Claude isteği başarısız: {e}"
         print(AI_ERROR, file=sys.stderr)
         return None
+    return extract_ideas(resp)
+
+
+def extract_ideas(resp: dict) -> dict | None:
+    """Claude cevabından fikirleri çıkarır: önce araç çağrısı, olmazsa düz metin JSON."""
+    global AI_ERROR
+    for b in resp.get("content", []):
+        if b.get("type") == "tool_use" and isinstance(b.get("input"), dict):
+            data = b["input"]
+            if data.get("app_ideas") or data.get("video_ideas"):
+                return data
     text = "".join(b.get("text", "") for b in resp.get("content", []) if b.get("type") == "text")
-    parsed = parse_json_loose(text)
+    parsed = parse_json_loose(text) if text else None
     if parsed is None:
-        AI_ERROR = "Claude cevap verdi ama cevap JSON olarak okunamadı."
+        AI_ERROR = (
+            f"Claude cevap verdi ama fikirler okunamadı (stop_reason: {resp.get('stop_reason')}). "
+            "Uzunluk sınırına takıldıysa config.json'da ai_top_n_per_country değerini düşür."
+        )
     return parsed
 
 
