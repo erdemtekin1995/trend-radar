@@ -48,6 +48,14 @@ KEY="$(printf %s "$KEY" | tr -d '[:space:]')"
 if [ -z "$KEY" ]; then
   echo "Boş anahtar girildi, iptal."; exit 1
 fi
+LEN=${#KEY}
+echo "Yapıştırılan anahtar: ${KEY:0:13}…${KEY: -4}  (${LEN} karakter)"
+case "$KEY" in
+  *…*|*...*) echo "✗ Bu kısaltılmış (gizlenmiş) bir anahtar gibi görünüyor. Console'da YENİ anahtar oluşturup ilk gösterildiğinde kopyala."; exit 1 ;;
+esac
+if [ "$LEN" -lt 80 ]; then
+  echo "✗ Anahtar çok kısa (normalde ~100+ karakter). Tamamını kopyaladığından emin ol."; exit 1
+fi
 case "$KEY" in
   sk-ant-*) ;;
   *) echo "Uyarı: anahtar genelde 'sk-ant-' ile başlar. Yine de devam ediliyor." ;;
