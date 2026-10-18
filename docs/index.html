@@ -106,9 +106,11 @@ async function getJSON(path) {
   return r.json();
 }
 
-function renderAI(ai) {
+function renderAI(ai, err) {
   if (!ai) {
-    $("ai").innerHTML = `<div class="summary">Bu gün için AI fikir özeti yok. (GitHub'da <b>ANTHROPIC_API_KEY</b> secret'ı ekleyince her gün otomatik oluşur.)</div>`;
+    $("ai").innerHTML = err
+      ? `<div class="summary">AI fikirleri bu gün üretilemedi: <b>${esc(err)}</b></div>`
+      : `<div class="summary">Bu gün için AI fikir özeti yok. (GitHub'da <b>ANTHROPIC_API_KEY</b> secret'ı ekleyince her gün otomatik oluşur.)</div>`;
     return;
   }
   const pats = (ai.patterns || []).map((p) => `<li>${esc(p)}</li>`).join("");
@@ -166,7 +168,7 @@ async function loadDay(day) {
   }
   if (!state.data.countries.some((c) => c.geo === state.geo)) state.geo = state.data.countries[0]?.geo;
   $("meta").textContent = `${state.data.date} · ${state.data.snapshots} ölçüm · güncellendi ${state.data.generated_at.replace("T", " ")}`;
-  renderAI(state.data.ai);
+  renderAI(state.data.ai, state.data.ai_error);
   renderTabs();
   renderTable();
 }

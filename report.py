@@ -23,6 +23,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.request
 from collections import defaultdict
 from datetime import datetime, timedelta
@@ -185,10 +186,15 @@ SADECE şu yapıda geçerli bir JSON döndür, başka hiçbir şey yazma:
 4-6 app fikri ve 6-10 video fikri ver."""
 
 
+AI_ERROR: str | None = None  # dashboard'da gösterilir
+
+
 def ask_claude(cfg: dict, prompt: str) -> dict | None:
-    key = os.environ.get("ANTHROPIC_API_KEY")
+    global AI_ERROR
+    key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
     if not key:
         print("ANTHROPIC_API_KEY yok, AI fikir adımı atlandı.")
+        AI_ERROR = "ANTHROPIC_API_KEY secret'ı bulunamadı."
         return None
     body = json.dumps({
         "model": os.environ.get("CLAUDE_MODEL") or cfg.get("ai_model", "claude-haiku-5-5"),
@@ -207,11 +213,25 @@ def ask_claude(cfg: dict, prompt: str) -> dict | None:
     try:
         with urllib.request.urlopen(req, timeout=120) as r:
             resp = json.loads(r.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        detail = ""
+        try:
+            err = json.loads(e.read().decode("utf-8"))
+            detail = (err.get("error") or {}).get("message", "")
+        except Exception:
+            pass
+        AI_ERROR = f"Claude API hatası {e.code}: {detail or e.reason}"
+        print(AI_ERROR, file=sys.stderr)
+        return None
     except Exception as e:
-        print(f"Claude isteği başarısız: {e}", file=sys.stderr)
+        AI_ERROR = f"Claude isteği başarısız: {e}"
+        print(AI_ERROR, file=sys.stderr)
         return None
     text = "".join(b.get("text", "") for b in resp.get("content", []) if b.get("type") == "text")
-    return parse_json_loose(text)
+    parsed = parse_json_loose(text)
+    if parsed is None:
+        AI_ERROR = "Claude cevap verdi ama cevap JSON olarak okunamadı."
+    return parsed
 
 
 def parse_json_loose(text: str) -> dict | None:
@@ -294,6 +314,7 @@ def write_json(cfg: dict, day: str, by_geo: dict, ai: dict | None, n_snap: int) 
             for g in order
         ],
         "ai": ai,
+        "ai_error": None if ai else AI_ERROR,
     }
     p = DOCS_DATA / f"{day}.json"
     p.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
