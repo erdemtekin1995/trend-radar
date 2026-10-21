@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-22T01:50+08:00",
+ "generated_at": "2026-10-22T04:23+08:00",
  "snapshots": 5,
  "countries": [
   {
@@ -4308,70 +4308,71 @@
   }
  ],
  "ai": {
-  "summary": "Günün ortak teması Şampiyonlar Ligi gecesi (PSG-Barcelona, Liverpool-Villarreal, Stuttgart-Atlético üç pazarda birden). Bunun dışında her ülkede \"cebimi/geleceğimi ilgilendiren hesap\" sinyali var: Almanya'da gaz kazanı vs ısı pompası, Kore'de deneme sınavı not sınırları, Türkiye'de İŞKUR başvurusu ve benzin indirimi, Çin'de WeChat yazışmalarının delil sayılma şartları. Uygulama tarafında tekrar eden ihtiyaçlar Almanya ve Kore'den çıkıyor; maçlar ve ünlü haberleri sadece video malzemesi.",
+  "summary": "Günün ortak teması Şampiyonlar Ligi gecesi (PSG-Barcelona, Liverpool-Villarreal, Stuttgart-Atlético) ve bunun ABD, Almanya ve Türkiye'de aynı anda patlaması; Almanya ve Türkiye'de Arapça aramalar diaspora etkisini gösteriyor. İkinci katman ekonomi/maliyet baskısı: Almanya'da gaz-ısı pompası hesabı ve fırın zinciri kapanışları, Türkiye'de tekstil işten çıkarmaları ve benzin indirimi, Çin'de çeyrek ekonomi karnesi. Üçüncü katman gençlik/eğitim: İŞKUR gençlik programı (TR), 10월 모의고사 등급컷 (KR), Gen Z protestoları (DE).",
   "countries": {
-   "US": "Liste neredeyse tamamen spor (ŞL maçları, NBA sezon önizlemesi, NHL) ve ünlü magazini. Tek ilginç anomali Brewers'ın 'timeless ticket' koltuk sorunu; uygulama sinyali yok.",
-   "DE": "ŞL maçlarının yanında Gasheizung/Wärmepumpe (WWF çalışması) ve büyük fırın zincirinin her 3 şubeden birini kapatması gibi ekonomik endişe aramaları var. GenZ protest günü (31 Ekim) ve fırtına/feribot iptalleri de listede.",
-   "TR": "İŞKUR Gençlik Programı başvurusu (10K+), tekstil devinin 7 fabrika kapatması ve benzine ikinci indirim öne çıkıyor; işsizlik ve geçim kaygısı net. Ezan vakti ve 'bu akşam hangi diziler var' gibi günlük rutin aramalar da sürüyor.",
-   "KR": "Süper tayfun Champi (20K+) ve 10 Ekim deneme sınavı not sınırları (10K+) en büyük iki konu. Galaxy S27 tasarım sızıntısı ve altın/petrol fiyatı ilgisi devam ediyor.",
-   "CN": "Baidu'da jeopolitik (Filipinler, 'Çin AI yasağı', Ukrayna) hakim; ama pratik açıdan WeChat yazışmalarının delil sayılma şartları, ulusal kanser merkezinin en sık 5 kanser listesi ve üniversitelerde 'ders boyunca PPT yasağı' dikkat çekiyor. Huawei'nin geniş düz telefon tasarımını Android'in kopyalaması da gündemde."
+   "US": "Liste neredeyse tamamen Şampiyonlar Ligi ve NBA sezon açılışı ile dolu; ünlü haberleri ikinci planda. Brewers bilet oturma sorunu küçük ama 'stadyum deneyimi' acısını hatırlatıyor.",
+   "DE": "Stuttgart-Atlético için 'kim yayınlıyor?' sorusu başı çekiyor; gaz kalorifer vs ısı pompası hesabı, fırın zinciri kapanışı ve fırtına kaynaklı feribot iptalleri günlük hayata dair pratik ihtiyaçlar. 31 Ekim Gen Z protest günü yaklaşıyor.",
+   "TR": "İŞKUR Gençlik Programı 2026 başvurusu ve tekstil devinin 5 bin kişiyi işten çıkarması aynı anda listede: iş/istihdam kaygısı belirgin. Benzin indirimi, ezan vakti ve 'bu akşam hangi diziler var' tipik tekrar eden günlük aramalar.",
+   "KR": "Süper tayfun Chanthu ve 10월 모의고사 등급컷 en güçlü iki konu; Galaxy S27 söylentileri, altın/petrol fiyatları ve KBO playoff ikinci sırada. Vietnamca hava durumu araması diaspora işareti.",
+   "CN": "Baidu'da jeopolitik (Filipinler, 'Çin AI yasağı', Zelenski) ağırlıkta; pratik taraflarda WeChat sohbet kayıtlarının delil sayılma şartları, Ulusal Kanser Merkezi'nin ilk 5 kanser listesi ve üniversitelerde 'tamamen PPT'ye dayalı ders yasağı' öne çıkıyor. Huawei'nin geniş düz telefon formunu Android'in kopyalaması tüketici teknoloji konusu."
   },
   "patterns": [
-   "Şampiyonlar Ligi maçları US, DE ve TR'de aynı anda trend; Arapça 'PSG - Barcelona' araması DE ve TR'de birden görünüyor (Arapça konuşan diaspora kitlesi iki pazarda da büyük).",
-   "Geçim/ekonomi kaygısı üç pazarda: DE fırın zinciri kapanıyor + ısıtma maliyeti, TR tekstil işten çıkarma + İŞKUR başvurusu, CN üçüncü çeyrek ekonomi karnesi.",
-   "'Bu benim için ne anlama geliyor' hesap ihtiyacı: DE ısı pompası geri ödeme süresi, KR deneme sınavı not sınırı, TR benzin indirimi sonrası fiyat, CN kanser risk listesi. İnsanlar genel haberi kendi durumuna çevirmek istiyor ve bunu haber sitelerinde kötü yapıyor.",
-   "Telefon tasarım gündemi KR ve CN'de paralel: Galaxy S27 'Pro kalkıyor mu' + Huawei geniş düz gövde trendi.",
-   "Takvime bağlı tekrar eden aramalar: Kore'de her ay deneme sınavı sonrası '등급컷', Türkiye'de her kamu programı açılışında 'başvuru nasıl yapılır', Almanya'da her ısınma sezonunda 'Gasheizung/Wärmepumpe'."
+   "Şampiyonlar Ligi maçları US, DE, TR'de aynı anda trend; DE ve TR'de Arapça 'PSG-Barcelona' araması, KR'de Vietnamca hava durumu: diaspora kitleleri yerel dilde içerik bulamıyor.",
+   "'Nerede/ne zaman izlenir?' ihtiyacı tekrar ediyor: DE 'Wer überträgt heute live', TR 'salı günü hangi diziler var', 'maç hangi kanalda' — yayın hakları parçalandıkça bu arama her gün yenileniyor.",
+   "Enerji ve yakıt maliyeti: DE gasheizung/Wärmepumpe, TR benzin indirimi, KR petrol/altın fiyatı; her sonbahar ve her fiyat değişiminde aynı sorular geri geliyor.",
+   "Ekonomik daralma işaretleri: DE fırın zinciri her 3 şubesinden birini kapatıyor, TR tekstil 7 fabrika kapattı, Netflix yavaşlıyor, CN çeyrek karnesi — istihdam kaygısı üç pazarda ortak.",
+   "Gençlik ve eğitim başvuru/sonuç döngüsü: TR İŞKUR gençlik programı başvurusu, KR aylık mock sınav 등급컷, DE Gen Z protest günü; periyodik tarihlere bağlı yüksek hacimli aramalar.",
+   "Hava afetleri: KR tayfun, DE çift fırtına + feribot iptali, CN en güçlü El Niño — kısa vadede hazırlık/bilgilendirme içeriği için uygun, app için değil."
   ],
   "app_ideas": [
    {
-    "title": "WärmeCheck – Gaz kazanı mı ısı pompası mı, kendi faturamla hesapla",
-    "problem": "Alman ev sahipleri ısı pompasına geçişin kendileri için ne zaman karlı olacağını bilmiyor; mevcut web hesaplayıcılar genel ortalama kullanıyor, teşvik (BEG) kurallarını eksik yansıtıyor ve sonucu saklamıyor.",
-    "why_now": "WWF çalışması 'ne zaman gerçekten karlı' sorusunu yeniden gündeme getirdi, ısınma sezonu başladı, Gasheizung araması trend.",
-    "trends": [
-     "gasheizung",
-     "Wärmepumpe WWF-Studie"
-    ],
-    "market": "DE",
-    "mvp": "1) Son gaz faturası + ev yaşı/m² + yalıtım seviyesi girişi → yıllık maliyet karşılaştırması ve geri ödeme yılı; 2) Gaz/elektrik fiyat senaryosu kaydırıcısı (fiyat %20 artarsa ne olur); 3) BEG teşvik tahmini ve sonucu PDF olarak paylaşma.",
-    "effort": "orta",
-    "competitors": "co2online WärmepumpenCheck, Verbraucherzentrale hesaplayıcıları, Thermondo/Enpal lead formları. Hepsi web, tek seferlik, kişisel fatura yerine ortalama kullanıyor, senaryo karşılaştırması yok ve lead formları tarafsız değil.",
-    "monetization": "Ücretsiz temel hesap; 4,99€ tek seferlik 'detaylı rapor + senaryo' kilidi. İkinci aşama: tarafsız tesisatçı teklif yönlendirmesi (lead başı ücret).",
-    "recurring_signal": "Her ısınma sezonu ve her enerji fiyat değişiminde aynı arama yükseliyor; GEG (ısıtma yasası) nedeniyle 2045'e kadar her gaz kazanı sahibi bu kararı vermek zorunda.",
-    "solo_feasible": "Tamamen istemci tarafı hesap, backend gerekmez; formüller kamuya açık (BDEW, co2online metodolojisi). En büyük risk: teşvik kurallarının güncel tutulması ve 'yanlış hesap' sorumluluğu — uygulama içinde 'tahmini' uyarısı ve kaynak linkleri şart.",
-    "confidence": 6
-   },
-   {
-    "title": "등급컷 노트 – Deneme sınavı not takip ve tahmini sınıf hesaplayıcı",
-    "problem": "Koreli lise öğrencileri her deneme sınavından sonra ham puanlarını kurum kurum (메가, 대성, 이투스, 진학사) farklı not sınırlarıyla karşılaştırıyor; sonuçlar dağınık web sayfalarında, geçmiş sınavlarla kıyas yok.",
-    "why_now": "10월 모의고사 등급컷 aramaları 10K+; Kasım'da 수능 var, bu dönemde her sınav sonrası aynı panik tekrarlanıyor.",
-    "trends": [
-     "10 월 모의고사 등급 컷"
-    ],
-    "market": "KR",
-    "mvp": "1) Ders bazlı ham puan girişi → birden fazla kurumun tahmini sınırına göre sınıf aralığı; 2) Mart–Ekim tüm denemeler için kişisel trend grafiği (ders bazlı yükseliş/düşüş); 3) Yeni sınır yayınlandığında push bildirimi.",
-    "effort": "kolay",
-    "competitors": "진학사 등급컷 (web, reklam yoğun, giriş zorunlu), 메가스터디/대성 uygulamaları (kendi sınırlarını gösterir, karşılaştırma yok), EBSi (resmi sonuç 2 hafta sonra). Hiçbiri kurumlar arası karşılaştırma + kişisel zaman serisi sunmuyor.",
-    "monetization": "Ücretsiz; 3.900₩/ay premium: detaylı trend analizi, hedef üniversite sınıf eşiği karşılaştırması. Veli hesabı eklenmesi ödeme oranını artırır.",
-    "recurring_signal": "Yılda 6-7 deneme sınavı (3,4,6,7,9,10월) + 수능; her birinde '등급컷' aramaları zirve yapıyor, yıllardır değişmeyen döngü.",
-    "solo_feasible": "Kurum sınırları kamuya açık, yılda 7 kez elle girilebilir; uygulama basit form + lokal depolama + grafik. Risk: kurumların sınır verilerini kullanma hakkı — 'kaynak belirterek tahmini aralık' şeklinde sunmak, birebir tablo kopyalamamak gerekir.",
-    "confidence": 6
-   },
-   {
-    "title": "Başvuru Takvimi – Kamu program/burs/kurs son başvuru hatırlatıcısı",
-    "problem": "İŞKUR Gençlik Programı, KYK bursu, belediye kursları gibi başvurular her ay açılıyor; insanlar tarihi ve şartları reklam dolu haber sitelerinden öğreniyor, kaçırıyor. e-Devlet bunları tek listede ve bildirimle sunmuyor.",
-    "why_now": "İŞKUR gençlik programı başvurusu 10K+ ile Türkiye'nin 1 numaralı araması; aynı hafta tekstil işten çıkarmaları ile işsizlik kaygısı yükseldi.",
+    "title": "Başvuru Takvimi — kamu programı ve burs son tarih takipçisi (TR)",
+    "problem": "İŞKUR Gençlik Programı, KYK bursu, TOKİ, Aile Destek, KPSS/YKS başvuruları gibi kamu başvuruları açıldığında herkes aynı anda 'başvuru ne zaman, şartlar ne, nereden yapılır' diye arıyor; cevap SEO çöplüğü haber sitelerine ve dağınık e-Devlet sayfalarına bölünmüş durumda.",
+    "why_now": "İŞKUR Gençlik Programı 2026 başvurusu bugün 10.000+ ile TR listesinin tepesinde; tekstilde 5 bin kişilik işten çıkarma istihdam kaygısını artırıyor, gençler devlet destekli programlara daha çok yöneliyor.",
     "trends": [
      "işkur gençlik programı 2026 başvuru",
      "tekstil"
     ],
     "market": "TR",
-    "mvp": "1) Elle derlenmiş başvuru listesi (program adı, kimler başvurabilir, son tarih, resmi link); 2) Yaş/öğrenci/işsiz filtresi; 3) 'Son 3 gün' push hatırlatması.",
+    "mvp": "1) Elle küratörlü başvuru listesi (program adı, şartlar, başlangıç/bitiş, resmi link) 2) Yaş/öğrenci/il filtresi ile 'bana uygun olanlar' 3) Son tarihten 3 gün ve 1 gün önce push bildirimi",
     "effort": "kolay",
-    "competitors": "memurlar.net, kamuilan, haber siteleri: SEO odaklı, reklam yoğun, bildirim yok, uygunluk filtresi yok. e-Devlet: başvuru yapılır ama keşif/hatırlatma yok.",
-    "monetization": "Reklam + 'kurs/sınav hazırlık' affiliate. Zayıf nokta: TR'de abonelik ödeme isteği düşük; kullanıcı hacmine dayanır.",
-    "recurring_signal": "Her ay en az 3-5 ulusal program açılıyor (İŞKUR, KOSGEB, KYK, TÜBİTAK burs, belediye meslek kursları); 'başvuru nasıl yapılır' aramaları yıl boyu tekrar ediyor.",
-    "solo_feasible": "Teknik olarak liste + bildirim, 2 haftada çıkar. Asıl risk teknik değil: içerik kürasyonu haftada 2-3 saat sürekli emek ister; para kazanma modeli zayıf olduğu için güven puanı düşük.",
+    "competitors": "Haber siteleri (reklam dolu, tarih güncellemiyor), Instagram/Telegram 'burs' sayfaları (arama yok, bildirim yok), e-Devlet (sadece başvuru yapar, toplu takvim yok), İŞKUR/KYK uygulamaları (tek kuruma bağlı). Hiçbiri tek yerde 'uygunluk filtresi + son tarih bildirimi' vermiyor.",
+    "monetization": "Ücretsiz + reklam; 'Pro' aylık ~30 TL: sınırsız hatırlatma, uygunluk kontrolü, belge checklist'i. Öder: üniversite öğrencileri ve 18-29 yaş iş arayanlar, veliler.",
+    "recurring_signal": "TR trend listesinde 'X başvurusu ne zaman / nasıl yapılır' kalıbı neredeyse her hafta tekrar ediyor (KYK, İŞKUR, TOKİ, askerlik celp, YKS, KPSS); her dönem aynı sorunun yeniden aranması ihtiyacın kalıcı olduğunu gösteriyor.",
+    "solo_feasible": "Teknik olarak basit: statik/CMS tabanlı liste, lokal bildirimler, filtre. 4 haftada çıkar. En büyük risk teknik değil operasyonel: tarihleri güncel tutmak için haftalık 2-3 saat elle küratörlük gerekiyor; kullanıcı 'hata bildir' butonu ile hafifletilebilir.",
+    "confidence": 7
+   },
+   {
+    "title": "Heizcheck — Gaz kalorifer mi, ısı pompası mı? Tarafsız 15 yıl maliyet hesaplayıcı (DE)",
+    "problem": "Alman ev sahipleri her sonbahar 'ısı pompasına geçmek bana değer mi?' sorusunu soruyor; mevcut hesaplayıcılar ya üretici siteleri (taraflı) ya da web formları (kaydetmiyor, teşvik ve CO2 fiyat yolunu güncel tutmuyor).",
+    "why_now": "'gasheizung' bugün DE trendde, WWF çalışması ısı pompasının ne zaman kârlı olduğunu tartışıyor; ısıtma sezonu başladı, BEG teşvikleri ve CO2 fiyatı 2027 ETS2 geçişi gündemde.",
+    "trends": [
+     "gasheizung",
+     "aktienwelt360"
+    ],
+    "market": "DE",
+    "mvp": "1) Bina yaşı, m², yıllık kWh gaz tüketimi, PLZ girişi → 15 yıl toplam maliyet karşılaştırması (gaz vs ısı pompası, CO2 fiyat senaryoları dahil) 2) Güncel BEG teşvik oranı hesabı (gelir bonusu dahil) 3) Sonucu PDF olarak paylaş",
+    "effort": "orta",
+    "competitors": "co2online ve Verbraucherzentrale web hesaplayıcıları (mobil kötü, senaryo karşılaştırması yok), Stiebel Eltron/Vaillant hesaplayıcıları (satış odaklı, taraflı), Enpal/thermondo (lead toplama amaçlı). Eksik: tarafsız, senaryo bazlı, kaydedilebilir, teşvik güncellemeli mobil deneyim.",
+    "monetization": "Tek seferlik 4,99 € 'detaylı rapor + senaryo kaydetme'; ikinci kanal olarak tesisatçı teklif yönlendirme (affiliate/lead, kullanıcı isteğiyle). Öder: 35-65 yaş ev sahipleri.",
+    "recurring_signal": "'gasheizung', 'wärmepumpe lohnt sich', 'heizkosten' her Ekim-Şubat arasında ve her yasa/teşvik değişikliğinde DE trendlerine giriyor; Heizungsgesetz tartışması 2023'ten beri bitmedi.",
+    "solo_feasible": "Saf hesaplama uygulaması: formüller, kamuya açık teşvik tabloları ve enerji fiyat varsayımları; backend gerekmez. 4 hafta yeterli. En büyük risk doğruluk/güven: varsayımları şeffaf göstermek ve teşvik kurallarını düzenli güncellemek şart; aksi halde yorumlar uygulamayı bitirir.",
+    "confidence": 6
+   },
+   {
+    "title": "등급컷 Now — mock sınav sonrası anlık tahmini not kesme ve bildirim (KR)",
+    "problem": "Her 모의고사 sonrası (3, 6, 9, 10월 + 수능) öğrenciler ham puanlarını girip 'kaç 등급 oldum?' sorusuna hemen cevap arıyor; cevap EBSi, 메가스터디, 진학사 arasında dağılmış, kayıt istiyor, resmi kesmeler haftalar sonra geliyor.",
+    "why_now": "'10월 모의고사 등급 컷' bugün 10.000+ ile KR'de 2. sırada; 수능'e haftalar kaldı, son mock sınav sonrası kaygı zirvede.",
+    "trends": [
+     "10 월 모의고사 등급 컷"
+    ],
+    "market": "KR",
+    "mvp": "1) Ders bazlı ham puan girişi → kurumların yayımladığı tahmini kesmelerin tek ekranda karşılaştırması 2) Kullanıcıların anonim puan girişiyle canlı dağılım (n büyüdükçe doğruluk artar) 3) Resmi 등급컷 açıklanınca push",
+    "effort": "orta",
+    "competitors": "메가스터디/대성/EBSi/진학사 (büyük, güvenilir ama her biri sadece kendi tahminini verir, üyelik ister, mobil deneyim ağır), Play Store'daki küçük '등급컷' uygulamaları (güncellenmiyor, tek kaynak). Eksik: tüm tahminleri yan yana + kendi puanına göre tek dokunuşla sonuç + bildirim.",
+    "monetization": "Ücretsiz + reklam (sınav günleri çok yüksek trafik); premium ₩3.900/yıl: geçmiş sınavlarla gelişim grafiği, 수능 hedef simülasyonu. Öder: lise 2-3 öğrencileri ve veliler.",
+    "recurring_signal": "'N월 모의고사 등급컷' yılda en az 5 kez KR trendinin tepesine çıkıyor; 수능 döneminde kat kat artıyor. Sınav sistemi değişmedikçe ihtiyaç her yıl aynen tekrarlıyor.",
+    "solo_feasible": "Puan tablosu + basit interpolasyon + Firebase ile anonim dağılım; 4 haftada MVP çıkar. En büyük risk: kurumların tahmin verilerini toplamanın yasal/telif sınırı (kaynak göstererek özet verme) ve başlangıçta crowd verisinin yetersiz olması; ilk sürüm sadece kaynak karşılaştırması ile açılabilir.",
     "confidence": 5
    }
   ]
