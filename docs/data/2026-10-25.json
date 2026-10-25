@@ -1,0 +1,4481 @@
+{
+ "date": "2026-10-25",
+ "generated_at": "2026-10-26T03:16+08:00",
+ "snapshots": 6,
+ "countries": [
+  {
+   "geo": "US",
+   "name": "ABD",
+   "flag": "🇺🇸",
+   "trends": [
+    {
+     "term": "texas tech score",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 20000,
+     "traffic_label": "20000+",
+     "best_rank": 4,
+     "news": [
+      {
+       "title": "5 things you need to know from Kentucky’s 76-65 exhibition win vs. Texas Tech",
+       "url": "https://www.kentucky.com/sports/spt-columns-blogs/mark-story/article317687049.html",
+       "source": "Lexington Herald Leader"
+      },
+      {
+       "title": "Kentucky wins second straight exhibition game",
+       "url": "https://www.wkyt.com/2026/10/24/kentucky-wins-second-straight-exhibition-game/",
+       "source": "WKYT"
+      },
+      {
+       "title": "No. 23 Kentucky Tops No. 19 Texas Tech on Friday",
+       "url": "https://ukathletics.com/news/2026/10/23/no-23-kentucky-tops-no-19-texas-tech-on-friday/",
+       "source": "UKAthletics"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=texas%20tech%20score&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9brSFkeXZ-PacJk1XRZ_OiboE2EQT55XKfgoCB7sAkbsHiWtAF9zCmV89kgM",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "mosquito bowl",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 10000,
+     "traffic_label": "10000+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "'The Mosquito Bowl' Review: Peter Berg's Netflix Football War Drama",
+       "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-mosquito-bowl-review-peter-berg-netflix-1236738732/",
+       "source": "The Hollywood Reporter"
+      },
+      {
+       "title": "Nicholas Galitzine, Bill Skarsgård, Ray Nicholson, Tom Francis Present The Mosquito Bowl to Real-Life Marines (Exclusive Images)",
+       "url": "https://people.com/mosquito-bowl-nicholas-galitzine-bill-skarsgard-ray-nicholson-tom-francis-marine-corps-exclusive-images-12188830",
+       "source": "People.com"
+      },
+      {
+       "title": "‘The Mosquito Bowl’ AFI Fest Red Carpet: Bill Skarsgård, Nicholas Galitzine, Ray Nicholson & More",
+       "url": "https://deadline.com/gallery/the-mosquito-bowl-afi-fest-red-carpet-bill-skarsgard-nicholas-galitzine-ray-nicholson-more/",
+       "source": "Deadline"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=mosquito%20bowl&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQN-gvyMv644GvYnctN_SUVkPtZ0Pq_rclebNdq8Q89F1x_JbjJ0QkcyspQBuI",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "james hoye world series umpire",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 10000,
+     "traffic_label": "10000+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "World Series winners and losers: Amazing Ashby, manager misfires, check-swing drama",
+       "url": "https://www.usatoday.com/story/sports/mlb/2026/10/25/winners-losers-brewers-rays-world-series-game-2/92428261007/",
+       "source": "USA Today"
+      },
+      {
+       "title": "Dodgers announcer calls for MLB to make major change after Rays' Yandy Diaz check swing controversy",
+       "url": "https://sports.yahoo.com/articles/dodgers-announcer-calls-mlb-major-053111117.html",
+       "source": "Yahoo Sports"
+      },
+      {
+       "title": "Fans debate check-swing call to end Brewers' World Series Game 2 win",
+       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/25/fans-debate-check-swing-call-brewers-game-2-win/92427745007/",
+       "source": "Milwaukee Journal Sentinel"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=james%20hoye%20world%20series%20umpire&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpIZJMzqnxiUSEvpgJ5yGU9DC5ujVdioLFAp2WpOIhOcT7HvMKSgptXVzJ3jE",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "brandon miller",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 10000,
+     "traffic_label": "10000+",
+     "best_rank": 10,
+     "news": [
+      {
+       "title": "Hawks 128-81 Hornets (Oct 23, 2026) Game Recap",
+       "url": "https://www.espn.com/nba/recap/_/gameId/401909843",
+       "source": "ESPN"
+      },
+      {
+       "title": "Charlotte Hornets booed repeatedly in 47-point blowout home opener loss to Hawks",
+       "url": "https://www.charlotteobserver.com/sports/charlotte-hornets/article317663243.html",
+       "source": "Charlotte Observer"
+      },
+      {
+       "title": "Hawks bury Charlotte; set record ahead of Rockets",
+       "url": "https://sports.yahoo.com/articles/hawks-bury-charlotte-set-record-193300844.html",
+       "source": "Yahoo Sports"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=brandon%20miller&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfdOME5vCFpVe0Ju2VlEVeunB3cOBZB5hMEgaE0LkBeF4AFNze_btc2MDvNQA",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "nets vs cavaliers",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 5000,
+     "traffic_label": "5000+",
+     "best_rank": 5,
+     "news": [
+      {
+       "title": "How to watch Cavaliers vs Nets: NBA, live stream, TV channel",
+       "url": "https://sports.yahoo.com/articles/watch-cavaliers-vs-nets-nba-222000831.html",
+       "source": "Yahoo Sports"
+      },
+      {
+       "title": "Cavs vs Nets Through the Lens",
+       "url": "https://www.nba.com/cavaliers/photos/photogallery-bkncle-261024",
+       "source": "NBA.com"
+      },
+      {
+       "title": "Nets vs Cavs: Nets take to road in Cleveland",
+       "url": "https://www.netsdaily.com/nets-game-previews/114872/brooklyn-nets-cleveland-cavaliers-preview",
+       "source": "NetsDaily"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=nets%20vs%20cavaliers&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkYEOtbRNyvLdSEjrsdJRJZ3AHtjuZL3INhYaX5LC502XOHxGWYBpIV4WMBys",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "baylor football",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 5000,
+     "traffic_label": "5000+",
+     "best_rank": 8,
+     "news": [
+      {
+       "title": "Jayhawks to Host Bears for 114th Homecoming Game - University of Kansas",
+       "url": "https://kuathletics.com/news/2026/10/19/football-jayhawks-to-host-bears-for-114th-homecoming-game",
+       "source": "Kansas Jayhawks"
+      },
+      {
+       "title": "Baylor Football Gets Good News on Two Starters Ahead of Kansas Matchup",
+       "url": "https://sports.yahoo.com/articles/baylor-football-gets-good-news-153849827.html",
+       "source": "Yahoo Sports"
+      },
+      {
+       "title": "Preview: KU continues search for first Big 12 win against Baylor",
+       "url": "https://www2.kusports.com/sports/college/football/2026/oct/23/preview-ku-continues-search-for-first-big-12-win-against-baylor/",
+       "source": "KU Sports"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=baylor%20football&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS508tkSYP3Lsri8ucWk5w_NPoPaeL_-5KI5wmdbZEvK6lqHrCHoiGkXDJBcEA",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "front row amy",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 5000,
+     "traffic_label": "5000+",
+     "best_rank": 9,
+     "news": [
+      {
+       "title": "Who is Front Row Amy? Brewers superfan's World Series wish comes true",
+       "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/23/who-is-front-row-amy-what-to-know-about-milwaukee-brewers-superfan/92396941007/",
+       "source": "Milwaukee Journal Sentinel"
+      },
+      {
+       "title": "Who is Front Row Amy? Brewers superfan basks in World Series glory",
+       "url": "https://www.usatoday.com/story/sports/mlb/2026/10/24/who-is-front-row-amy-brewers-world-series/92416705007/",
+       "source": "USA Today"
+      },
+      {
+       "title": "Who Is Front Row Amy? Meet the Famous Milwaukee Brewers Superfan",
+       "url": "https://sports.yahoo.com/articles/front-row-amy-meet-famous-234812314.html",
+       "source": "Yahoo Sports"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=front%20row%20amy&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1gNAJ1D3zUKc5KGiCBTpHVAhQNklwimC1QpQ41NRcxvzOcaJzv9FuAFxCQiE",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "cj carr",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 5000,
+     "traffic_label": "5000+",
+     "best_rank": 10,
+     "news": [
+      {
+       "title": "CJ Carr watches brother Tommy's first Michigan start from Big House",
+       "url": "https://www.espn.com/college-football/story/_/id/50266897/cj-carr-tommy-first-start-notre-dame-michigan",
+       "source": "ESPN"
+      },
+      {
+       "title": "Who is Tommy Carr? Get to know new Michigan QB a little better",
+       "url": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/10/24/tommy-carr-grandpa-lloyd-cj-jason-notre-dame-michigan/92380105007/",
+       "source": "Detroit Free Press"
+      },
+      {
+       "title": "‘You see the upside’ with Michigan QB Tommy Carr, FOX’s Matt Leinart says",
+       "url": "https://www.mlive.com/wolverines/football/2026/10/you-see-the-upside-with-michigan-qb-tommy-carr-foxs-matt-leinart-says.html",
+       "source": "MLive.com"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=cj%20carr&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYNQyuVaiFjbLFPkMQD8lxxO2wr4oWk01W-cH_c7wG0vNsjub7k6g7UqR5Sys",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "barcelona - granada cf",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "Las imágenes de la goleada rojiblanca al Valencia",
+       "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261023/1004242442/imagenes-goleada-rojiblanca-valencia.html",
+       "source": "Mundo Deportivo"
+      },
+      {
+       "title": "FC Barcelona femenino vs Granada CF: horario y dónde ver hoy por TV y online Liga F 2026/27 a través de DAZN",
+       "url": "https://www.dazn.com/es-ES/news/f%C3%BAtbol/fc-barcelona-femenino-granada-horario-donde-ver-tv-online-liga-f-202627-dazn/nciu6hvqmdk31lu3p7crnywk7",
+       "source": "DAZN"
+      },
+      {
+       "title": "¡Cuarta victoria seguida en Alcalá!",
+       "url": "https://www.atleticodemadrid.com/noticias/cuarta-victoria-seguida",
+       "source": "Página oficial del Atlético de Madrid"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=barcelona%20-%20granada%20cf&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVLkALTQdWcMyGm23QhD8j65zblle6t-aHhpCp479Q9nQdZ8TTCjQS_UyzBVI",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "yandy diaz",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "Bauers, Díaz reunite in World Series 8 years after trade that altered their careers",
+       "url": "https://www.mlb.com/news/jake-bauers-yandy-diaz-discuss-2018-trade-world-series",
+       "source": "MLB.com"
+      },
+      {
+       "title": "Guardians News: Quiet Before the World Series Storm",
+       "url": "https://www.coveringthecorner.com/cleveland-guardians-news/76350/guardians-news-quiet-before-the-world-series-storm",
+       "source": "Covering the Corner"
+      },
+      {
+       "title": "World Series a Painful Reminder of What Could Have Been for Guardians",
+       "url": "https://sports.yahoo.com/articles/world-series-painful-reminder-could-213019983.html",
+       "source": "Yahoo Sports"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=yandy%20diaz&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_iXKW9OCI5VOR-s9y3V0IDfNDEaRBdZ_vrL2JA1juZwoJKF2I7O8RPBNc5B8",
+     "hours": 1,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "flyers",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "Flyers must decide how returning vets mix with young upstarts: ‘Internal competition always makes your team better’",
+       "url": "https://www.inquirer.com/flyers/oliver-bonk-cole-knuble-minutes-cam-york-rasmus-ristolainen-20261023.html",
+       "source": "Inquirer.com"
+      },
+      {
+       "title": "Rasmus Ristolainen Finally Returns from Injury for Flyers vs. Ducks",
+       "url": "https://sports.yahoo.com/articles/rasmus-ristolainen-finally-returns-injury-170442824.html",
+       "source": "Yahoo Sports"
+      },
+      {
+       "title": "Flyers Activate Rasmus Ristolainen Off IR",
+       "url": "https://www.prohockeyrumors.com/2026/10/flyers-activate-rasmus-ristolainen-off-ir.html",
+       "source": "Pro Hockey Rumors"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=flyers&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_4YamVSaT2eST5vuNMkM_mWmdw6DmYY7oKQGrtkI7jianLNsMt1AcOgkz9cI",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "naz reid",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "Game Recap: Hornets 110, Nets 103",
+       "url": "https://www.nba.com/watch/video/game-recap-hornets-110-nets-103",
+       "source": "NBA.com"
+      },
+      {
+       "title": "Brooklyn Nets drop season opener to Charlotte Hornets, 110-103",
+       "url": "https://www.netsdaily.com/nets-scores-results/115000/brooklyn-nets-vs-charlotte-hornets-110-103-julius-randle-michael-porter-jr",
+       "source": "NetsDaily"
+      },
+      {
+       "title": "Hornets 110-103 Nets (Oct 21, 2026) Game Recap",
+       "url": "https://www.espn.com/nba/recap/_/gameId/401909836",
+       "source": "ESPN"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=naz%20reid&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0A5BNENpx9WHuDYHv5J3mKho2pZLROldN_TyD99g2tJx0ilAbNln9TSMqF0o",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "willson contreras",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "William Contreras & Willson Contreras: Meet the MLB Brothers",
+       "url": "https://heavy.com/sports/mlb/milwaukee-brewers/william-willson-contreras-brothers-family/",
+       "source": "Heavy.com"
+      },
+      {
+       "title": "Red Sox fans love William Contreras’ comments on Willson Contreras, but not the way you think",
+       "url": "https://bosoxinjection.com/red-sox-fans-love-william-contreras-comments-on-willson-contreras-but-not-the-way-you-think",
+       "source": "BoSox Injection"
+      },
+      {
+       "title": "Will the 2026 Red Sox have any Silver Slugger Award winners?",
+       "url": "https://www.bostonherald.com/2026/10/24/red-sox-silver-slugger-awards-preview-wilyer-abreu-ceddanne-rafaela-willson-contreras-caleb-durbin-jarren-duran-mlb/",
+       "source": "Boston Herald"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=willson%20contreras&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIdY_h7Z4c665cdWo_NglBAs2KcDfWSbmK2ZQOWESUpNKB2_bMD7d4eXus9ek",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "dennis schröder",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 4,
+     "news": [
+      {
+       "title": "Brewers 6-2 Dodgers (Oct 14, 2026) Final Score",
+       "url": "https://www.espn.com/mlb/game/_/gameId/401908032/brewers-dodgers",
+       "source": "ESPN"
+      },
+      {
+       "title": "Rays 3-1 Guardians (Oct 18, 2026) Final Score",
+       "url": "https://www.espn.com/mlb/game/_/gameId/401930515/rays-guardians",
+       "source": "ESPN"
+      },
+      {
+       "title": "Jalen Duren with the slam",
+       "url": "https://www.nba.com/watch/video/jalen-duren-with-the-slam-34",
+       "source": "NBA.com"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=dennis%20schr%C3%B6der&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu40dP1bFMHdx-rIHaZWwZXJVBr7l2sfIAeLMpUvFipDJlIhn2ov7K9UTQCnU",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "iowa state vs arizona",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 6,
+     "news": [
+      {
+       "title": "No. 25 Wildcats Welcome Cyclones for Homecoming",
+       "url": "https://arizonawildcats.com/news/2026/10/19/football-no-25-wildcats-welcome-cyclones-for-homecoming",
+       "source": "University of Arizona Athletics"
+      },
+      {
+       "title": "How to watch Iowa State vs Arizona: Live stream NCAA College Football, TV channel",
+       "url": "https://sports.yahoo.com/articles/watch-iowa-state-vs-arizona-221500535.html",
+       "source": "Yahoo Sports"
+      },
+      {
+       "title": "Where to watch Iowa State football vs Arizona, time, TV info, odds",
+       "url": "https://www.desmoinesregister.com/story/sports/college/iowa-state/football/2026/10/24/iowa-state-football-vs-arizona-channel-today-time-tv-stream/92344932007/",
+       "source": "The Des Moines Register"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=iowa%20state%20vs%20arizona&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAB9K9JWSEHpNxTqYkj-kDW0Hk6vSnJlXzkvEipPSK0uLStFZpisAgOodeTAI",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "kyrie irving",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 6,
+     "news": [
+      {
+       "title": "Mavericks' Cooper Flagg lands on shoulder after hard foul, exits win vs. Pacers",
+       "url": "https://www.espn.com/nba/story/_/id/50262142/mavericks-cooper-flagg-exits-vs-pacers-left-shoulder-soreness",
+       "source": "ESPN"
+      },
+      {
+       "title": "Mavericks' Cooper Flagg forced to exit game after shoulder injury in 1st half",
+       "url": "https://www.nba.com/news/cooper-flagg-shoulder-injury",
+       "source": "NBA.com"
+      },
+      {
+       "title": "Mavericks star Cooper Flagg exits game after hard foul sparks shoving match vs Pacers",
+       "url": "https://www.foxnews.com/outkick-sports/mavericks-star-cooper-flagg-exits-game-hard-foul-sparks-shoving-match-pacers",
+       "source": "Fox News"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=kyrie%20irving&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQrkS59-elzpPlt_Z81qOcHcn03Nx-BjNVq0LZ08N7iOUXTwGZ-Hrl7CzYm4o",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "daniil medvedev",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 9,
+     "news": [
+      {
+       "title": "Medvedev into Almaty final after Bublik retirement, faces Basilashvili for trophy",
+       "url": "https://www.atptour.com/en/news/medvedev-bublik-almaty-2026-saturday",
+       "source": "ATP Tour"
+      },
+      {
+       "title": "Bublik ends his season due to an injury and alters the draw in Basel",
+       "url": "https://www.puntodebreak.com/en/2026/10/24/bublik-ends-his-season-due-to-an-injury-and-alters-the-draw-in-basel",
+       "source": "Puntodebreak"
+      },
+      {
+       "title": "How to watch the men’s Almaty Open: Streaming options for the Semifinal",
+       "url": "https://www.nytimes.com/athletic/7719122/2026/10/23/mens-almaty-open-stream-how-to-watch-october-24/",
+       "source": "The New York Times"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=daniil%20medvedev&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_4dIblWJxHtwLtcqOPVdqEHjBd5LRC-Fyb4ZDuleF_dq5tjKUWqpgR7_X0M",
+     "hours": 1,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "jonathan aranda",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "With 12 years as a Ray, Series berth just means more for Jonathan Aranda",
+       "url": "https://www.tampabay.com/sports/rays/2026/10/24/jonathan-aranda-world-series-alejandro-kirk-mexico/",
+       "source": "Tampa Bay Times"
+      },
+      {
+       "title": "The Rays didn't even mean to scout him ... now he's integral to this World Series run",
+       "url": "https://www.mlb.com/news/jonathan-aranda-journey-to-major-leagues",
+       "source": "MLB.com"
+      },
+      {
+       "title": "Rays Must Fix Their Biggest Weakness Before It's Too Late Against Brewers",
+       "url": "https://sports.yahoo.com/articles/rays-must-fix-biggest-weakness-223008412.html",
+       "source": "Yahoo Sports"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=jonathan%20aranda&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8o-v0lHTP1NYMIZJSqAMM4qmDarUUBHpiaYiU57KFJH-W5II0JkHpio3OELE",
+     "hours": 1,
+     "is_new": false,
+     "days_seen_7d": 3
+    },
+    {
+     "term": "inter vs fiorentina",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 4,
+     "news": [
+      {
+       "title": "Serie A Liveblog: Inter-Fiorentina, Lecce-Juventus, Udinese-Milan and more",
+       "url": "https://sports.yahoo.com/articles/serie-liveblog-inter-fiorentina-lecce-104000817.html",
+       "source": "Yahoo Sports"
+      },
+      {
+       "title": "Inter Milan vs Fiorentina: Italian Serie A stats & head-to-head",
+       "url": "https://www.bbc.com/sport/football/live/cqrmye9drvk3t",
+       "source": "BBC"
+      },
+      {
+       "title": "Follow all the action around Europe with our Football Tracker!",
+       "url": "https://www.flashscore.com/news/football-tracker-live-scores-updates-results-october-24-25-2026/j7Gn4uln/",
+       "source": "Flashscore.com"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=inter%20vs%20fiorentina&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFia1GyVVEVpJ21v4WFyGeQkkxCkUZtl5CPLvoEnuKtR-yo5fz8OyM3vYg7PM",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "leonardo dicaprio",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 5,
+     "news": [
+      {
+       "title": "Charli xcx Joins Martin Scorsese's 'What Happens at Night'",
+       "url": "https://variety.com/2026/film/global/charli-xcx-martin-scorsese-what-happens-at-night-1236919507/",
+       "source": "Variety"
+      },
+      {
+       "title": "Charli XCX Will Appear in a Martin Scorsese Film",
+       "url": "https://pitchfork.com/story/charli-xcx-will-appear-in-a-martin-scorsese-film/",
+       "source": "Pitchfork"
+      },
+      {
+       "title": "Charli XCX to Cameo in Martin Scorsese's New Horror Film With Leonardo DiCaprio, Jennifer Lawrence",
+       "url": "https://www.rollingstone.com/music/music-news/charli-xcx-martin-scorsese-horror-film-1235646987/",
+       "source": "Rolling Stone"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=leonardo%20dicaprio&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEfF9BXVx29kO0fWFaNF-EphiBpv1K2aAQp3ODINHo5uQkzmH9-EdqPAwcL5s",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "darian mensah",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "Miami’s Mario Cristobal shares every reason why Darian Mensah is so special ahead of Pitt clash",
+       "url": "https://sports.yahoo.com/articles/miami-mario-cristobal-shares-every-154547104.html",
+       "source": "Yahoo Sports"
+      },
+      {
+       "title": "VIDEO: Darian Mensah previews Pittsburgh",
+       "url": "https://247sports.com/college/miami/article/video-miami-hurricanes-football-darian-mensah-previews-pittsburgh-291580976/",
+       "source": "247Sports"
+      },
+      {
+       "title": "Miami's Mario Cristobal shares every reason why Darian Mensah is so special ahead of Pitt clash",
+       "url": "https://clutchpoints.com/ncaa-football/miami-football-news-mario-cristobal-shares-reason-darian-mensah-special-pitt",
+       "source": "ClutchPoints"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=darian%20mensah&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMOrMKeOMNRmcq-co2UGmueyn08BJNfMLUPftaaYSNVqmoaffZ8J2a6-cvP28",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "chicago vs atlanta united",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "Matchday | Chicago Fire FC Looks for Points on the Road against Atlanta United",
+       "url": "https://www.chicagofirefc.com/news/matchday-chicago-fire-fc-looks-for-points-on-the-road-against-atlanta-united",
+       "source": "Chicago Fire"
+      },
+      {
+       "title": "Availability report: Only one 5-Stripe listed as ineligible for Saturday's clash with Chicago Fire",
+       "url": "https://www.atlutd.com/news/availability-report-5-stripes-chicago-fire-october-2026",
+       "source": "Atlanta United FC"
+      },
+      {
+       "title": "Saletros to take learnings from recent Chicago losses into playoffs",
+       "url": "https://www.beinsports.com/en-us/soccer/mls/articles/saletros-to-take-learnings-from-recent-chicago-losses-into-playoffs-2026-10-22",
+       "source": "beIN SPORTS"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=chicago%20vs%20atlanta%20united&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQH9R8wPWQIRXOopptrazU73C-IMZWXDYiV8gwJ-UkXgRB30pPpPKFcyb4CRSo",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "utah state vs texas state",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 8,
+     "news": [
+      {
+       "title": "Utah State football vs Texas State preview: How to Watch, Availability Report & 3 Keys to the Game",
+       "url": "https://www.cachevalleydaily.com/sports/utah-state-football-vs-texas-state-preview-how-to-watch-availability-report-3-keys-to/article_4761b3ce-0948-4f02-b7f4-288f536326be.html",
+       "source": "Cache Valley Daily"
+      },
+      {
+       "title": "Utah State at Texas State: How to watch, listen to or stream the game",
+       "url": "https://www.deseret.com/sports/2026/10/23/utah-state-texas-state-how-to-watch-stream-game/",
+       "source": "Deseret News"
+      },
+      {
+       "title": "USU football: Aggies face big challenge in potent Texas State offense",
+       "url": "https://www.hjnews.com/sports/usu/usu-football-aggies-face-big-challenge-in-potent-texas-state-offense/article_6f0c628f-2f88-450f-9b4b-1d041191b107.html",
+       "source": "The Herald Journal"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=utah%20state%20vs%20texas%20state&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQC2xIcJVXAI8anW_TGrj8_Op5IDJX7knD_nGpZ4U6c7TpRkxthIFuWxvEskWY",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "louisiana vs southern miss",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 9,
+     "news": [
+      {
+       "title": "Louisiana football vs Southern Miss | Live score, game updates from Week 8",
+       "url": "https://www.theadvertiser.com/story/sports/college/ul/2026/10/24/louisiana-football-vs-southern-miss-score-updates-stats-live-coverage/92284992007/",
+       "source": "The Daily Advertiser | Lafayette, Louisiana"
+      },
+      {
+       "title": "Southern Miss Playoff Chances: What Southern Miss Needs — Week 8",
+       "url": "https://atozsports.com/college-football-playoff-predictor/teams/southern-miss/",
+       "source": "A to Z Sports"
+      },
+      {
+       "title": "Southern Miss Homecoming Preview: Everything to Know as Golden Eagles Take On Ragin' Cajuns",
+       "url": "https://sports.yahoo.com/articles/southern-miss-homecoming-preview-everything-050100084.html",
+       "source": "Yahoo Sports"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=louisiana%20vs%20southern%20miss&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIT3DDu2uD8ZEUgZCew8AtLfE4gHhZW12973dyeiK7U57VIR138CkP6ndIIQk",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "new england vs philadelphia",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 9,
+     "news": [
+      {
+       "title": "Know Before You Go | October 24",
+       "url": "https://www.philadelphiaunion.com/news/know-before-you-go-102426",
+       "source": "Philadelphia Union"
+      },
+      {
+       "title": "Philadelphia Union look to clinch playoff berth, extend historic 15-match unbeaten run against New England",
+       "url": "https://www.fox29.com/news/union-look-clinch-playoff-berth-extend-historic-15-match-unbeaten-run-against-new-england",
+       "source": "FOX 29 Philadelphia"
+      },
+      {
+       "title": "Cavan Sullivan will miss Union’s big game vs. New England with an ankle injury",
+       "url": "https://www.inquirer.com/soccer/cavan-sullivan-injury-union-mls-table-20261023.html",
+       "source": "Inquirer.com"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=new%20england%20vs%20philadelphia&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEEX0E3B_acPwQhu3eBCL081JSyEomviWcKPP43J9XtgbJKh1rbBXy0mVe_QQ",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "chef damu",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 9,
+     "news": [
+      {
+       "title": "Cooku with Comali judge chef Damodharan passes away at 72",
+       "url": "https://timesofindia.indiatimes.com/tv/news/tamil/cooku-with-comali-judge-chef-damodharan-passes-away-at-72/articleshow/135183901.cms",
+       "source": "The Times of India"
+      },
+      {
+       "title": "Chef Damu dies at 72; Cooku With Comali judge, Guinness World Record holder and Padma Shri-winning Tamil c",
+       "url": "https://m.economictimes.com/news/new-updates/chef-damu-dies-at-72-cooku-with-comali-judge-guinness-world-record-holder-and-padma-shri-winning-tamil-chef/articleshow/135183807.cms",
+       "source": "The Economic Times"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=chef%20damu&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIFq4Ds5fh9XECd-SnN4I_7VO3yWHPbfMP5je6TJnFG7RFcdIJc1dlcJJ-kfc",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "tyler herro",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 10,
+     "news": [
+      {
+       "title": "Tyler Herro Explains Bucks' Crucial Mistake in Loss vs Bulls",
+       "url": "https://sports.yahoo.com/articles/tyler-herro-explains-bucks-crucial-231047740.html",
+       "source": "Yahoo Sports"
+      },
+      {
+       "title": "Tyler Herro leads offense in Friday's loss to Bulls",
+       "url": "https://www.fantasypros.com/nba/news/615609/tyler-herro-leads-offense-fridays-loss-to-bulls.php",
+       "source": "FantasyPros"
+      },
+      {
+       "title": "Postgame Recap: Herro Shines Again but Bucks Get Outmuscled by the Bulls in Home Opener",
+       "url": "https://www.wbir.com/video/sports/locked-on/lo-wisconsin/bucks-show/postgame-recap-herro-shines-again-but-bucks-get-outmuscled-by-the-bulls-in-home-opener/535-b5ba37d0-6977-47a1-a3df-a382f560244b",
+       "source": "WBIR"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=tyler%20herro&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc20hIjQKglMXR2LhGsZATxJGB33C4stcPT3Dh1QJd1XrwmixNVcl0RxtRAHI",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "isaiah horton",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "Texas A&M transfer WR's father calls out son's play vs. The Citadel",
+       "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/10/22/texas-aggies-football-isaiah-hortons-father-calls-out-sons-play-in-week-7/92372090007/",
+       "source": "Aggies Wire"
+      },
+      {
+       "title": "Isaiah Horton's father calls out his lack of effort— which Aggies should appreciate",
+       "url": "https://gigemgazette.com/isaiah-horton-s-father-calls-out-his-lack-of-effort-which-aggies-should-appreciate",
+       "source": "Gig Em Gazette"
+      },
+      {
+       "title": "As college football becomes more business-like, Texas A&M transfers returning to Alabama brings mixed emotions",
+       "url": "https://www.kbtx.com/2026/10/24/college-football-becomes-more-business-like-texas-am-transfers-returning-alabama-brings-mixed-emotions/",
+       "source": "KBTX News 3"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=isaiah%20horton&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk1WUeOGLkpUQpJgX9oNqeFtUubvVgjjkqdqIVyWh4EuWVLhO5SIA6IfAyZtE",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "salt lake city weather",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "Another Snow Teaser and Impressive Rain Storm",
+       "url": "https://opensnow.com/dailysnow/utah/post/44657",
+       "source": "OpenSnow"
+      },
+      {
+       "title": "Cool and dry weekend for most, flood threat returns for some",
+       "url": "https://www.abc4.com/weather/cool-dry-weekend-flood-threat/",
+       "source": "ABC4 Utah"
+      },
+      {
+       "title": "Cool temperatures stick around this weekend, showers for some",
+       "url": "https://www.fox13now.com/weather/cool-temperatures-stick-around-this-weekend-showers-for-some",
+       "source": "FOX 13 News Utah"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=salt%20lake%20city%20weather&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNa5sc-tRxUuD3qU61gxPNG-3hZNfrfUzudHQ5s1MOxicyl1PjlOEOo2xXihY",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "southern utah vs idaho",
+     "geo": "US",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "Vandals look to keep momentum rolling against SUU on Homecoming",
+       "url": "https://www.lmtribune.com/sports/vandals-look-to-keep-momentum-rolling-against-suu-on-homecoming-d5285884",
+       "source": "The Lewiston Tribune"
+      },
+      {
+       "title": "Idaho faces another efficient rushing attack in Southern Utah | Things to watch",
+       "url": "https://www.spokesman.com/stories/2026/oct/23/idaho-faces-another-efficient-rushing-attack-in-so/",
+       "source": "The Spokesman-Review"
+      },
+      {
+       "title": "Vandals Welcome Thunderbirds for Homecoming Showdown",
+       "url": "https://govandals.com/news/2026/10/20/football-vandals-welcome-thunderbirds-for-homecoming-showdown.aspx",
+       "source": "University of Idaho Athletics"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=southern%20utah%20vs%20idaho&geo=US&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUDgu7f45eJ4nLOa45oKEhKSMAmQuDLsn6ZClWArrhXypGsl8S6ALNQ7p48co",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    }
+   ]
+  },
+  {
+   "geo": "DE",
+   "name": "Almanya",
+   "flag": "🇩🇪",
+   "trends": [
+    {
+     "term": "ig metall",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 10000,
+     "traffic_label": "10000+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "Volkswagen: VW will weitere 12.000 Stellen abbauen",
+       "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-weitere-12-000-stellen-abbauen-a-ff3dbc88-1f93-4109-b777-fcc141802bba",
+       "source": "Spiegel"
+      },
+      {
+       "title": "Stellenabbu \"auf Kosten der Steuerzahler\"? Konflikt bei VW spitzt sich zu",
+       "url": "https://www.tagesschau.de/inland/regional/niedersachsen/stellenabbau-per-transfergesellschaft-konflikt-bei-vw-spitzt-sich-zu,vw-1634.html",
+       "source": "tagesschau.de"
+      },
+      {
+       "title": "Neuer Hammer bei VW! Weitere 12.000 Jobs bei Volkswagen sollen weg",
+       "url": "https://www.bild.de/politik/inland/neuer-hammer-bei-vw-weitere-12-000-volkswagen-jobs-sollen-weg-6adb94e0ea9d017b539b0253",
+       "source": "BILD"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=ig%20metall&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYv7UBnsVxtjk7uMTgG_RRGQEksgXJZKGAtagQNkxvhNWDFOiYELqBMcBv7YA",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "ard programm",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 10000,
+     "traffic_label": "10000+",
+     "best_rank": 4,
+     "news": [
+      {
+       "title": "The Taste im TV - Sendung",
+       "url": "https://www.tvspielfilm.de/tv-programm/sendung/the-taste,6abdfb2f207c32108a31444f.html",
+       "source": "TV Spielfilm"
+      },
+      {
+       "title": "Sternekoch scheitert bei „The Taste“ am Schnellkochtopf: Tim Raue: „Technisch bin ich eine Pfeife“",
+       "url": "https://www.ksta.de/panorama/promis/the-taste-sternekoch-scheitert-am-schnellkochtopf-technisch-eine-pfeife-1-1400646",
+       "source": "Kölner Stadt-Anzeiger"
+      },
+      {
+       "title": "Kochen mit Henssler, Raue und Co.: Student aus Weimar kämpft um Platz in TV-Kochshow",
+       "url": "https://www.thueringer-allgemeine.de/lokales/weimar-und-weimarer-land/article413462474/kochen-mit-henssler-raue-und-co-student-aus-weimar-kaempft-um-platz-in-tv-kochshow.html",
+       "source": "Thüringer Allgemeine"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=ard%20programm&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREqgp5A0ru7q2Sj3gvi3qzgU8jjdaQB3w4hiGEcqSJLJKz810EiqiOJskSUGY",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "tabelle 2. bundesliga",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 5000,
+     "traffic_label": "5000+",
+     "best_rank": 6,
+     "news": [
+      {
+       "title": "Die Tabelle der 2. Liga ohne Fehlentscheidungen vor dem 9. Spieltag",
+       "url": "https://www.90min.de/die-tabelle-der-2-liga-ohne-fehlentscheidungen-vor-dem-9-spieltag",
+       "source": "90min.de"
+      },
+      {
+       "title": "Eintracht Braunschweig gegen Hannover 96: Darum ist das 185. Niedersachsenderby besonders brisant",
+       "url": "https://www.ndr.de/sport/fussball/darum-ist-185-niedersachsenderby-besonders-brisant,niedersachsenderby-160.html",
+       "source": "NDR.de"
+      },
+      {
+       "title": "96-Derby am Sonntag: Das ist sportlich zu erwarten",
+       "url": "https://www.haz.de/lokales/hannover/96-derby-am-sonntag-das-ist-sportlich-zu-erwarten-0555e0ce-d144-4e67-8f0d-c235cde6e095.html",
+       "source": "HAZ"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=tabelle%202.%20bundesliga&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrEWNVp_3W4Bd7zG_-bNTPETXApC42MROBSWO7kBXRHFf9U46P9Y69NkRCSPU",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "skispringen",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "Sommer-Skispringen 2026: Das große Finale – Zeitplan und TV-Übertragung am 24. Oktober",
+       "url": "https://www.rnd.de/sport/skispringen-heute-zeitplan-und-tv-uebertragung-des-sommer-grand-prix-am-24-oktober-WLXKRZSARFB3JGVHNPNSXVRRLA.html",
+       "source": "RND.de"
+      },
+      {
+       "title": "Sommer-Grand-Prix: Midtskogen gewinnt in Klingenthal, Gesamtsieg für Klinec",
+       "url": "https://www.skispringen.com/sommer-grand-prix-midtskogen-gewinnt-in-klingenthal-gesamtsieg-fuer-klinec/",
+       "source": "skispringen.com"
+      },
+      {
+       "title": "Sieg mit Traumweite! Lindvik in Klingenthal nicht zu schlagen",
+       "url": "https://www.eurosport.de/skispringen/klingenthal-marius-lindvik-147-meter-sieg-bei-sommer-grand-prix-finale-weiter-als-offizieller-schanzenrekord_vid60104377/video.shtml",
+       "source": "Eurosport"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=skispringen&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrk57GAFR7A8xpnsmChc87E3ao4m7nX5kkUcvfmDEqZmS7jZiXtjAk4Bm7r8E",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "meteo",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "Die Meetingpoint-Wettervorhersage",
+       "url": "https://meetingpoint-brandenburg.de/artikel/21283-die-meetingpoint-wettervorhersage",
+       "source": "meetingpoint. Brandenburg"
+      },
+      {
+       "title": "Die Meetingpoint-Wettervorhersage",
+       "url": "https://meetingpoint-potsdam.de/artikel/20608-die-meetingpoint-wettervorhersage",
+       "source": "meetingpoint. Potsdam"
+      },
+      {
+       "title": "Die Meetingpoint-Wettervorhersage",
+       "url": "https://meetingpoint-brandenburg.de/artikel/21213-die-meetingpoint-wettervorhersage",
+       "source": "meetingpoint. Brandenburg"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=meteo&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsTb_ARCfKMUPHvOS7Dh8_8_hhjEuRjYx9TH66bm2z1D9JgG4G-s0bmB5WhOM",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "darts live",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "Darts-EM 2026: Übertragung, Spielplan, Ergebnisse",
+       "url": "https://www.rnd.de/sport/darts-em-heute-live-woodhouse-schmeisst-van-veen-raus-schindler-ab-20-uhr-im-einsatz-D66UP7KQSNDALDYEOMHDTL74JU.html",
+       "source": "RND.de"
+      },
+      {
+       "title": "Turnier in Dortmund: Littler und Schindler bei Darts-EM weiter - Springer raus",
+       "url": "https://www.zeit.de/news/2026-10/23/littler-und-schindler-bei-darts-em-weiter-springer-raus",
+       "source": "DIE ZEIT"
+      },
+      {
+       "title": "Zu Besuch in Dortmund: Viele Minions, ein paar Pfiffe und ein Ohrwurm mit Olé",
+       "url": "https://www.kicker.de/zu-besuch-in-dortmund-viele-minions-ein-paar-pfiffe-und-ein-ohrwurm-mit-ole-1264569/artikel",
+       "source": "Kicker"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=darts%20live&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3eq9zWJfR2lXqBcAcF7a4dyg3LR8zj-KIAATcQqkQMdgQJ-AXi4g-628pvb4",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "погода",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 8,
+     "news": [
+      {
+       "title": "Прогноз погоды в Израиле, 25.10.2026 Newsru.co.il",
+       "url": "https://www.newsru.co.il/israel/25oct2026/pogoda.html",
+       "source": "NEWSru.co.il"
+      },
+      {
+       "title": "Погода в Израиле на субботу, 24 октября",
+       "url": "https://www.9tv.co.il/item/270845",
+       "source": "9 Канал Израиль"
+      },
+      {
+       "title": "Прогноз погоды в Израиле на день выборов: дожди и подтопления",
+       "url": "https://www.vesty.co.il/main/article/hjtmrj52mg",
+       "source": "Vesty.co.il"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgY1yhuY0REKGD_YPJl8VL_3u0DTkKQwYZ3fh278vOL9gX0fKPNmq6qHEO-vA",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "weather",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 9,
+     "news": [
+      {
+       "title": "New maps reveal who could see more snow during this year’s super El Niño",
+       "url": "https://www.cnn.com/2026/10/24/weather/new-snow-maps-el-nino-climate",
+       "source": "CNN"
+      },
+      {
+       "title": "Super El Niño then and now: How this year's strengthening event compares to historic extremes",
+       "url": "https://www.foxweather.com/weather-news/super-el-nino-now-how-years-record-breaking-warming-compares-past",
+       "source": "FOX Weather"
+      },
+      {
+       "title": "El Niño then and now",
+       "url": "https://phys.org/news/2026-10-el-nio-1.html",
+       "source": "Phys.org"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=weather&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWi8fbUT-Mepuj4p5w7cw2Pdxc_auheosJtTUuBZEZ-rdTlWhu1rzstnWpSpI",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "saatler ne zaman geri alınacak 2026 almanya",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "Yarın saatler bir saat geri alınacak",
+       "url": "https://www.sozcu.com.tr/yarin-saatler-bir-saat-geri-alinacak-p372215",
+       "source": "Sözcü Gazetesi"
+      },
+      {
+       "title": "Kış saati geliyor: Saatler bir saat geri alınacak",
+       "url": "https://www.hurriyet.com.tr/avrupa/kis-saati-geliyor-saatler-bir-saat-geri-alinacak-43352059",
+       "source": "Hürriyet"
+      },
+      {
+       "title": "Kış saati ya da yaz saati: Sağlığımız için en iyi seçenek hangisi?",
+       "url": "https://tr.euronews.com/2026/10/24/kis-saati-mi-yaz-saati-mi-bilim-sagligimiz-icin-en-iyi-secenegi-anlatiyor",
+       "source": "Euronews.com"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=saatler%20ne%20zaman%20geri%20al%C4%B1nacak%202026%20almanya&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSExZYpGhtpXnSBJX3Ixsb_ixxyt7eJ9poX3OZZ1Q7EEu0CWismnI4cdj_Mu0o",
+     "hours": 2,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "motogp",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "Marco Bezzecchi (1.) wurde von der möglichen Riesenkatastrophe angezogen",
+       "url": "https://www.speedweek.com/a/motogp/-marco-bezzecchi-1-wurde-von-der-moeglichen-riesenkatastrophe-angezogen",
+       "source": "SPEEDWEEK.com"
+      },
+      {
+       "title": "MotoGP-Start des Australien-GP verschoben: Zu schlechtes Wetter auf Phillip Island!",
+       "url": "https://www.motorsport-magazin.com/motogp/news-300895-schlechtwetter-trifft-phillip-island-motogp-start-des-australien-gp-verschoben/",
+       "source": "Motorsport-Magazin.com"
+      },
+      {
+       "title": "Schwerer Sturz im Sprint: Jorge Martin bricht sich den rechten Arm",
+       "url": "https://www.motorsport-total.com/motogp/news/schwerer-sturz-im-sprint-jorge-martin-bricht-sich-den-rechten-arm-26102405",
+       "source": "Motorsport-Total.com"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=motogp&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlA7O7eKhTs6ROsffeVITsIaxkatigDAaXtW_m0RYi6OuP7UggCmAh8O0HwQ",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "lebensmittel",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "Krisen und Katastrophen: Die Vorbereitung entscheidet den Schweregrad",
+       "url": "https://www.pharmazeutische-zeitung.de/die-vorbereitung-entscheidet-den-schweregrad-171408/",
+       "source": "Pharmazeutische Zeitung"
+      },
+      {
+       "title": "Gut vorbereitet sein für den Ernstfall - in Hohberg",
+       "url": "https://bo.de/gut-vorbereitet-sein-fur-den-ernstfall-in-hohberg/",
+       "source": "Baden Online"
+      },
+      {
+       "title": "Bundesregierung rät zu 10-Tage-Notvorrat: Diese Lebensmittel sollten Sie immer zuhause haben",
+       "url": "https://www.chip.de/news/haushalt-garten/bundesregierung-raet-zu-10-tage-notvorrat-diese-lebensmittel-sollten-sie-immer-zuhause-haben_6c014bec-c409-4bff-bda2-80941cd74966.html",
+       "source": "CHIP"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=lebensmittel&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTU2fgeoBBwDyPNq42YGX6apj8H6YI4sbItgGo7ooyUNYo0ONU_S7NlycPp7Ik",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "felipe vi.",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "El Rey, operado en Oviedo por una catarata en el ojo izquierdo",
+       "url": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
+       "source": "EL PAÍS"
+      },
+      {
+       "title": "Felipe VI, intervenido de cataratas en su ojo izquierdo",
+       "url": "https://www.elmundo.es/espana/2026/10/24/6add1778fdddff48738b457b.html",
+       "source": "El Mundo"
+      },
+      {
+       "title": "El rey Felipe es operado de cataratas y ha pasado la noche ingresado en Oviedo",
+       "url": "https://www.hola.com/realeza/casa_espanola/20261024931100/rey-felipe-operado-cataratas-noche-ingresado-oviedo/",
+       "source": "HOLA"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=felipe%20vi.&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSeQ7hgpt3lzRs78BI5FuBrNEqkqeFFaWW6j-xJyK5ApViOvXNBl3Kt7tfxS8",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "a99",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "Tesla Cybertruck auf der A99 gestoppt: Schwede braucht Lkw-Führerschein",
+       "url": "https://www.merkur.de/lokales/ebersberg/vaterstetten-ort29638/tesla-cybertruck-auf-der-a99-gestoppt-schwede-braucht-lkw-fuehrerschein-94557049.html",
+       "source": "Merkur"
+      },
+      {
+       "title": "A99: Polizei stoppt Tesla Cybertruck",
+       "url": "https://www.br.de/nachrichten/bayern/a99-polizei-stoppt-tesla-cybertruck,VZ38skj",
+       "source": "BR"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=a99&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0uv3fOOBoLmGQJozlbEFUOoEKiBwSN10fnUPCV7mKPn03Fu8nvFmH7qrejSE",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "inter – fiorentina",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 5,
+     "news": [
+      {
+       "title": "Serie A Liveblog: Inter-Fiorentina, Lecce-Juventus, Udinese-Milan and more",
+       "url": "https://sports.yahoo.com/articles/serie-liveblog-inter-fiorentina-lecce-104000817.html",
+       "source": "Yahoo Sports"
+      },
+      {
+       "title": "Inter Milan vs Fiorentina: Italian Serie A stats & head-to-head",
+       "url": "https://www.bbc.com/sport/football/live/cqrmye9drvk3t",
+       "source": "BBC"
+      },
+      {
+       "title": "Follow all the action around Europe with our Football Tracker!",
+       "url": "https://www.flashscore.com/news/football-tracker-live-scores-updates-results-october-24-25-2026/j7Gn4uln/",
+       "source": "Flashscore.com"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=inter%20%E2%80%93%20fiorentina&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFia1GyVVEVpJ21v4WFyGeQkkxCkUZtl5CPLvoEnuKtR-yo5fz8OyM3vYg7PM",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "james bond filme",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "James Bond: Entscheidung über neuen 007-Darsteller steht bevor",
+       "url": "https://www.spiegel.de/kultur/kino/james-bond-entscheidung-ueber-neuen-007-darsteller-steht-bevor-a-7d0a9f18-2417-4e0c-8559-3745d8b1d21b",
+       "source": "Spiegel"
+      },
+      {
+       "title": "Probeaufnahmen mit Favoriten: James-Bond-Suche soll finale Phase erreicht haben",
+       "url": "https://www.n-tv.de/leute/James-Bond-Suche-soll-finale-Phase-erreicht-haben-id31452172.html",
+       "source": "n-tv.de"
+      },
+      {
+       "title": "Suche nach James Bond: Diese drei Kandidaten sprechen vor",
+       "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/james-bond/suche-james-bond-kandidaten-sprechen-42867320",
+       "source": "WEB.DE"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=james%20bond%20filme&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsKtcZ2eiQ0W31y-TKjYx2ptk-c38gbCt8prwynRch2mZxnT3wIDnD4YdIcS0",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "lol worlds",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "Worlds 2026 player breakdown: Age, nationalities, and Korean presence",
+       "url": "https://escharts.com/news/worlds-2026-player-breakdown",
+       "source": "Esports Charts"
+      },
+      {
+       "title": "The S16 Swiss Draw Gave LPL Two Nightmare Matchups and One Clean Escape",
+       "url": "https://vocal.media/gamers/the-s16-swiss-draw-gave-lpl-two-nightmare-matchups-and-one-clean-escape",
+       "source": "Vocal"
+      },
+      {
+       "title": "Gen.G Leads Kalshi Worlds 2026 Odds After LCK Sweeps Swiss Opener",
+       "url": "https://rg.org/news/esports/gen-g-leads-kalshi-worlds-2026-odds-lck-sweep-swiss-round-1",
+       "source": "RG.org"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=lol%20worlds&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYmCPFOrA_V5v_gcVFtfgDw22JG3pM6S70WZO6mgLWV-LO805YwpajD2GJEvc",
+     "hours": 2,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "südwestrundfunk",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "Proteste in Europas Großstädten: Halbe Million in Frankreich auf den Straßen!",
+       "url": "https://www.bild.de/news/ausland/grossdemos-in-europas-grossstaedten-soldaten-vor-dem-mailaender-dom-6adc8fa4ba080c37bf6cfdb5",
+       "source": "BILD"
+      },
+      {
+       "title": "Proteste in Frankreich: Ausschreitungen und 1000 Festnahmen",
+       "url": "https://www.faz.net/aktuell/politik/ausland/proteste-in-frankreich-ausschreitungen-und-1000-festnahmen-accg-201617989.html",
+       "source": "FAZ"
+      },
+      {
+       "title": "Großdemonstrationen: 110.000 Menschen demonstrieren in Paris – Tränengaseinsatz in Lyon, Brüssel und Tirana",
+       "url": "https://www.welt.de/politik/ausland/article6adc7e882fdeb2201fba965a/grossdemonstrationen-110-000-menschen-demonstrieren-in-paris-traenengaseinsatz-in-lyon-bruessel-und-tirana.html",
+       "source": "WELT"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=s%C3%BCdwestrundfunk&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYFq5o8_dL7bya6HOSsadyDKI9rZh5KIxI3lTUHkCJaqb87Yp9wR55BBj75SA",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "vrijeme",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 2,
+     "news": [],
+     "url": "https://trends.google.com/trends/explore?q=vrijeme&geo=DE&date=now%207-d",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "mafia",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 4,
+     "news": [
+      {
+       "title": "Organisierte Kriminalität: Die Blutspur der türkisch-kurdischen „Gen-Z-Mafia“ und die Spur nach Russland",
+       "url": "https://www.welt.de/politik/deutschland/plus6ada07f77d7d59c2a19ee470/organisierte-kriminalitaet-die-blutspur-der-tuerkisch-kurdischen-gen-z-mafia-und-die-spur-nach-russland.html",
+       "source": "WELT"
+      },
+      {
+       "title": "Unheilige Allianz: Drogendeals, Dschihad und Mafia",
+       "url": "https://mena-watch.com/unheilige-allianz-drogendeals-dschihad-und-mafia/",
+       "source": "Mena-Watch"
+      },
+      {
+       "title": "Deutsch-Syrer (19) verhaftet: Gen-Z-Mafia soll hinter Schuss-Serie in Bielefeld stecken",
+       "url": "https://www.bild.de/regional/nordrhein-westfalen/deutsch-syrer-19-verhaftet-gen-z-mafia-soll-hinter-schuss-serie-in-bielefeld-stecken-6adb561ad8be1e987154e960",
+       "source": "BILD"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=mafia&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5t5P8qJWadlOeoxrmEehjBIADia80pMevAjeLPHgdlZSoltf6ys6iyIm6fPM",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "dominick reyes",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 6,
+     "news": [
+      {
+       "title": "[LIVESTREAM]FREE!!] Azamat Murzakanov vs Dominick Reyes UFC Live Free Match",
+       "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vZXZlbnQvemIueG1sIi8+PC9rcnBhbm8+&id=video-livestreamfree-azamat-murzak-lnfuj57j",
+       "source": "小豆島町"
+      },
+      {
+       "title": "[[4K]LIVE]* Ufc Dominick Reyes vs Azamat Murzakanov Live Free Streams On Sport'sTvｌ HS Football 2026",
+       "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2FsaWJhYmFub3I0MS11eC5naXRodWIuaW8vbm93bWUvaW5kZXgueG1sIi8+PC9rcnBhbm8+&id=4k-live-ufc-dominick-reyes-vs-azamat-murzakanov-live-fr",
+       "source": "小豆島町"
+      },
+      {
+       "title": "[*LIVE*] Dominick Reyes vs Azamat Murzakanov Live Free Streams On Sport'sTv HS Football 2026",
+       "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2FsaWJhYmFub3I0MS11eC5naXRodWIuaW8vbm93bWUvaW5kZXgueG1sIi8+PC9rcnBhbm8+&id=live-dominick-reyes-vs-azamat-murzakanov-live-free-stre",
+       "source": "小豆島町"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=dominick%20reyes&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkz0mJ8ZDVG2jWo4eKuJDVf1Nxsng3GS1QusSkNeUITgazZek2A9zhfwYojTo",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "inter - fiorentina",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 6,
+     "news": [
+      {
+       "title": "Inter-Fiorentina LIVE diretta testuale: racconto della partita, risultato, formazioni e voti Fantacalcio",
+       "url": "https://www.dazn.com/it-IT/news/calcio/inter-fiorentina-live-diretta-testuale/78k6g28k9oqb1419jdqio9hu3",
+       "source": "DAZN"
+      },
+      {
+       "title": "Pomeriggio libero, ma notte ad Appiano: lo strano miniritiro dell'Inter prima della Fiorentina",
+       "url": "https://www.gazzetta.it/Calcio/Serie-A/Inter/24-10-2026/inter-fiorentina-il-ritiro-breve-di-chivu-ad-appiano.shtml",
+       "source": "La Gazzetta dello Sport"
+      },
+      {
+       "title": "『DIRETTA STREAMING』 Inter - Fiorentina Calcio in diretta tv e in streaming",
+       "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vdHJhdmlzLWF1c3Rpbi5naXRodWIuaW8vZW5tL2VudS54bWwiLz48L2tycGFubz4=&id=video-inter-fiorentina-calcio-match-lie-fxnimrk",
+       "source": "FC東京オフィシャルホームページ"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=inter%20-%20fiorentina&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzv7XbU3x8UL2-Bh1e5BEO9u0vKo8ehjIaweyOBbMOlKcLaFF6YTFsYS6giKw",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "jesc 2026",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "Junior Eurovision 2026: All you need to know",
+       "url": "https://www.eurovision.com/stories/junior-eurovision-2026-all-you-need-to-know/",
+       "source": "Eurovision.tv"
+      },
+      {
+       "title": "Junior Eurovision 2026: The Betting Odds and Predictions Before the Contest",
+       "url": "https://eurovisionfun.com/en/2026/10/junior-eurovision-2026-the-betting-odds-and-predictions-before-the-contest/",
+       "source": "Eurovision News | Music"
+      },
+      {
+       "title": "Vote for Georgia at JESC 2026; Live Broadcast on GPB First Channel",
+       "url": "https://1tv.ge/lang/en/news/vote-for-georgia-at-jesc-2026-live-broadcast-on-gpb-first-channel/",
+       "source": "1TV.GE"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=jesc%202026&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr0OASYWKUo3TRhNKuD3MEsw60U2Yy6tADx7PMbrNjR01nq_e7MjzSkSgMtqM",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "könig charles iii.",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "König Charles steht vor dem \"größten Risiko seiner Regentschaft\"",
+       "url": "https://web.de/magazine/unterhaltung/adel/britische-royals/koenig-charles-groessten-risiko-regentschaft-42873160",
+       "source": "WEB.DE"
+      },
+      {
+       "title": "König Charles: Deshalb ist die Karibik-Reise ein Risiko",
+       "url": "https://mail.freenet.de/unterhaltung/royals/koenig-charles-deshalb-ist-die-karibik-reise-ein-risiko-40522050.html",
+       "source": "freenet Mail"
+      },
+      {
+       "title": "Spannungen vor Karibik-Reise - Guyana fordert Reparationen vor dem Besuch von König Charles",
+       "url": "https://de.nachrichten.yahoo.com/spannungen-karibik-reise-guyana-fordert-180908475.html",
+       "source": "Yahoo Nachrichten"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=k%C3%B6nig%20charles%20iii.&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt1zbWQfYmLG1MVin315TXQJN57P2rKKdoIteEc5LOqvMA5pGJ3iFIA9LzSx0",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "bargeld",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 8,
+     "news": [
+      {
+       "title": "Geldautomaten müssen wegen EU-Gesetz umgebaut werden: Was sich jetzt ändert",
+       "url": "https://www.chip.de/news/geld-finanzen-recht/geldautomaten-muessen-wegen-eu-gesetz-umgebaut-werden-was-sich-jetzt-aendert_1187f7d3-8aff-45b9-860f-330f9478d96e.html",
+       "source": "CHIP"
+      },
+      {
+       "title": "Bargeld in der EU: Ab dieser Summe gelten ab Sommer 2027 neue Regeln",
+       "url": "https://www.boerse-online.de/nachrichten/geldundvorsorge/bargeld-in-der-eu-ab-dieser-summe-gelten-ab-sommer-2027-neue-regeln--20423341.html",
+       "source": "Börse Online"
+      },
+      {
+       "title": "Bargeld: Neue Meldepflicht – das gilt bald beim Bezahlen",
+       "url": "https://www.futurezone.de/digital-life/verbraucher/article701318/bargeld-zusatz-extra-meldepflicht-bei-zahlungen-ab-3000-eu-intern-2027-gilt.html",
+       "source": "futurezone.de"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=bargeld&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwNvQZFCwVOQLbjOI7zyVD0NDDKV5F6yMvp8Q5iv8dqz_UrdD4OLSh4-vsDY",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "oilers – maple leafs",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 8,
+     "news": [
+      {
+       "title": "GDB 11.0: Oilers get their first look at Gavin McKenna and the Maple Leafs (5 PM MT, SNW)",
+       "url": "https://oilersnation.com/news/game-11-preview-edmonton-oilers-first-look-gavin-mckenna-toronto-maple-leafs-5-pm-mt-snw",
+       "source": "Oilers Nation"
+      },
+      {
+       "title": "Preview: Maple Leafs start the road trip in Edmonton",
+       "url": "https://www.pensionplanpuppets.com/preview-maple-leafs-start-the-road-trip-in-edmonton/",
+       "source": "PPP Leafs"
+      },
+      {
+       "title": "WAY tO LIVE Maple Leafs Oilers LIVE NHL TV channel 24 Oct 2026",
+       "url": "https://www.prpeak.com/classifieds/garage-sales/garage-sales/2158597",
+       "source": "Powell River Peak"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=oilers%20%E2%80%93%20maple%20leafs&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2tCvDeGGMhLzm4dZHWwj8W3Ne_IXDL8-ReqA3KvVyWzg3BYT3DHX3cUjyqmQ",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "landung",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 10,
+     "news": [
+      {
+       "title": "\"Schwere Störung\": Behörde zur Lufthansa-Landepanne in München",
+       "url": "https://www.br.de/nachrichten/bayern/schwere-stoerung-behoerde-zur-lufthansa-landepanne-in-muenchen,VYsbl7k",
+       "source": "BR"
+      },
+      {
+       "title": "Flughafen München: Airbus A380 der Lufthansa setzte zu früh auf – Behörde stuft Vorfall als schwere Störung ein",
+       "url": "https://www.sueddeutsche.de/muenchen/muenchen-flughafen-lufthansa-airbus-a380-landung-probleme-li.3568051",
+       "source": "SZ.de"
+      },
+      {
+       "title": "Beinahe-Katastrophe in München: Piloten sollen fatalen Fehler begangen haben",
+       "url": "https://www.morgenpost.de/panorama/article413488256/beinahe-katastrophe-in-muenchen-piloten-sollen-fatalen-fehler-begangen-haben.html",
+       "source": "Berliner Morgenpost"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=landung&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRUn4QRGEx1ZHf4vyPIerT11fMRDk6YRh9skeEnp5P1_h2etkdScfo1b-RdDU",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "elif",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "Almanya Başbakanı Merz'den SPD ve Yeşiller'e: Elif Eralp'in partisi ile koalisyon kurmayın",
+       "url": "https://www.dw.com/tr/merzden-spd-ve-ye%C5%9Fillere-sol-parti-ile-koalisyon-kurmay%C4%B1n/a-79750895",
+       "source": "DW.com"
+      },
+      {
+       "title": "(Yayın Tarihi: 21.10.2026) | Elif Eralp, Berlin Belediye Başkanı olabilecek mi?",
+       "url": "https://www1.wdr.de/radio/cosmo/programm/sendungen/koeln-radyosu/aktuelles/elif-eralp-berlin-belediye-baskani-olabilecek-mi-100.html",
+       "source": "WDR"
+      },
+      {
+       "title": "Hasan Çötok: Şu Bizim Elif Eralp, Anti-Semitizm ve “Demokratik Sosyalistler” Meselesi",
+       "url": "https://www.yeniduzen.com/hasan-cotok-su-bizim-elif-eralp-anti-semitizm-ve-demokratik-sosyalistler-meselesi-200830h.htm",
+       "source": "YENİDÜZEN Gazetesi"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=elif&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRP3TqihbTc_s99bFhoYp_Zx0FyVkwtepZTMhoAMIj0iELcM49HDY8tpNc3DJU",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "boeing 737",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "Gefahr von oben: Hunderte Boeing 737 müssen wegen herabfallender Monitore umgerüstet werden",
+       "url": "https://www.aerotelegraph.com/sicherheit/gefahr-des-herabfallens-faa-verpflichtet-airlines-zum-austausch-von-kabinenmonitoren/nkxwehc",
+       "source": "aeroTELEGRAPH"
+      },
+      {
+       "title": "Luftfahrtbehörde ordnet Kontrollen an fast 2000 Boeing 737 an",
+       "url": "https://www.aerotelegraph.com/ticker/luftfahrtbehoerde-ordnet-kontrollen-an-fast-2000-boeing-737-an/jqkbybc",
+       "source": "aeroTELEGRAPH"
+      },
+      {
+       "title": "Aufrüstung: Jetzt zeichnet sich eine Richtung für Deutschlands großes Kampfjet-Projekt ab",
+       "url": "https://www.welt.de/politik/deutschland/plus6ad8c95f842f9bd88130b27d/aufruestung-jetzt-zeichnet-sich-eine-richtung-fuer-deutschlands-grosses-kampfjet-projekt-ab.html",
+       "source": "WELT"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=boeing%20737&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmc7rcJ6UsV26Bi9bnY2zl5JJWo3xmCKLAS2XBCkX7Ej0z3qqzZj4hrYxzBfc",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "keanu reeves",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "Keanu Reeves in Talks to Star in James Wan’s ‘The Gangster, The Cop, The Devil’ (Exclusive)",
+       "url": "https://www.hollywoodreporter.com/movies/movie-news/keanu-reeves-james-wan-the-gangster-the-cop-the-devil-1236736550/",
+       "source": "The Hollywood Reporter"
+      },
+      {
+       "title": "Keanu Reeves Officially Joins Forces With Fellow Action Icon for Remake of Modern Crime Thriller Classic",
+       "url": "https://www.imdb.com/news/ni66077286/?ref_=nmnw_art_perm",
+       "source": "IMDb"
+      },
+      {
+       "title": "A Modern Horror Master’s Korean Thriller Remake Just Nabbed An A-List Star",
+       "url": "https://www.fangoria.com/james-wan-korean-thriller-remake/",
+       "source": "Fangoria"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=keanu%20reeves&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbtzi46Kxv04Qtp4S9ORgmzigG1x5kL8AxltI2Y2oqCgf3qbXUw3dVgwdUdMk",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "zeit",
+     "geo": "DE",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "Block-Prozess: LG lässt Aufnahmen vorerst unangetastet",
+       "url": "https://www.lto.de/recht/nachrichten/n/block-prozess-lg-laesst-aufnahmen-vorerst-unangetastet-in-tresor-pressefreiheit",
+       "source": "Legal Tribune Online"
+      },
+      {
+       "title": "Landgericht Hamburg: Gericht wird beschlagnahmte Aufnahmen der ZEIT vorerst nicht auswerten",
+       "url": "https://www.zeit.de/gesellschaft/2026-10/christina-block-die-zeit-landgericht-hamburg-durchsuchung",
+       "source": "DIE ZEIT"
+      },
+      {
+       "title": "Redaktionen sind kein Beweisarchiv: Wer die Presse nicht versteht, wird ihre Freiheit nicht schützen",
+       "url": "https://www.noz.de/deutschland-welt/politik/artikel/pressefreiheit-im-fall-zeit-warum-recherche-schutz-braucht-51632941",
+       "source": "noz.de"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=zeit&geo=DE&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMH3kW62Q8vVqMS-R7pVeC5RvsagYPZUBMydWULXlgWA6ZeBlB9gZp8pf_l60",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    }
+   ]
+  },
+  {
+   "geo": "TR",
+   "name": "Türkiye",
+   "flag": "🇹🇷",
+   "trends": [
+    {
+     "term": "süper lig maçları",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 10000,
+     "traffic_label": "10000+",
+     "best_rank": 4,
+     "news": [
+      {
+       "title": "GÜNÜN MAÇ PROGRAMI, SAATLERİ VE CANLI YAYIN BİLGİSİ 24 EKİM 2026: Bugün maç var mı? Bu akşam hangi maçlar var, ne zaman, saat kaçta oynanacak?",
+       "url": "https://www.hurriyet.com.tr/sporarena/galeri-bugun-mac-var-mi-bu-aksam-hangi-maclar-var-ne-zaman-saat-kacta-oynanacak-43353383",
+       "source": "Hürriyet"
+      },
+      {
+       "title": "CUMARTESİ HANGİ MAÇLAR VAR? 24 Ekim bugünkü maçların saatleri ve kanalları: Günün futbol fikstürü ve canlı yayın bilgileri...",
+       "url": "https://www.cnnturk.com/spor/cumartesi-hangi-maclar-var-24-ekim-bugunku-maclarin-saatleri-ve-kanallari-gunun-futbol-fiksturu-ve-canli-yayin-bilgileri-3483850",
+       "source": "CNN Türk"
+      },
+      {
+       "title": "24 Ekim 2026 maç programı: Süper Lig'de bugün kimin maçı var, hangi kanalda, saat kaçta?",
+       "url": "https://www.gzt.com/spor/bugun-hangi-maclar-var-24-ekim-2026-mac-programi-super-ligde-bugun-kimin-maci-var-hangi-kanalda-saat-kacta-4272404",
+       "source": "GZT"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=s%C3%BCper%20lig%20ma%C3%A7lar%C4%B1&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTBsYA8FmxsnRx4s2Yik_r2Q6bSuDEZHb51_e7PN6ycyIdmL4KNFPHzEIuNBc",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "batman petrolspor - erokspor",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 10000,
+     "traffic_label": "10000+",
+     "best_rank": 9,
+     "news": [
+      {
+       "title": "Batman Petrolspor - Turka Esenler Erokspor canlı takip et! Maç saati ve yayın kanalı",
+       "url": "https://www.fotomac.com.tr/birincilig/2026/10/25/batman-petrolspor-turka-esenler-erokspor-maci-saat-kacta-hangi-kanalda",
+       "source": "Fotomaç"
+      },
+      {
+       "title": "Petrolspor, Esenler Erokspor’u konuk ediyor",
+       "url": "https://www.batmancagdas.com/petrolspor-esenler-eroksporu-konuk-ediyor",
+       "source": "Batman Çağdaş"
+      },
+      {
+       "title": "KPSS Yüzünden Petrolspor Tribünleri Boş Kalacak “Ji Xwe Rezê Me Ne Baş Bû, Ser De Jî Teyrokê Lê Xist”",
+       "url": "https://batmanrehbergazetesi.com/kpss-yuzunden-petrolspor-tribunleri-bos-kalacak-ji-xwe-reze-me-ne-bas-bu-ser-de-ji-teyroke-le-xist",
+       "source": "Batman Rehber Gazetesi"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=batman%20petrolspor%20-%20erokspor&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxzRddudZhsf0qREJbUtdIdkXuAFDQM5Nhxi5TUrGXZhsMQBBaKrXj2ImubQ",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "pendikspor - kayserispor",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 5000,
+     "traffic_label": "5000+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "Kayserispor, Pendikspor maçının hazırlıklarını tamamladı",
+       "url": "https://yerel-haberler.haberturk.com/kayseri-haberleri/kayserispor-pendikspor-macinin-hazirliklarini-tamamladi-119502531",
+       "source": "Habertürk"
+      },
+      {
+       "title": "Kayserispor'un rakibi maç fazlasıyla puanları eşitledi",
+       "url": "https://www.kayseriolay.com/kayserispor-un-rakibi-mac-fazlasiyla-puanlari-esitledi/196896/",
+       "source": "Kayseri Olay Haber"
+      },
+      {
+       "title": "Kayserispor, Pendikspor deplasmanında yenilmezlik serisini 7 maça çıkarmak istiyor",
+       "url": "https://www.sondakika.com/spor/haber-kayserispor-pendikspor-deplasmaninda-yenilmezlik-s-20361502/",
+       "source": "Son Dakika"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=pendikspor%20-%20kayserispor&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTemrk5aw3YcOZr6rQI6pyKQNuj20AZ2oD4UyJOGEWIop01X_rUakFJqimP92o",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "hawks - rockets",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "Fred VanVleet (knee injury management) and Steven …",
+       "url": "https://sports.yahoo.com/articles/fred-vanvleet-knee-injury-management-232155780.html",
+       "source": "Yahoo Sports"
+      },
+      {
+       "title": "+*^[Here's Way To Watch] Houston Rockets vs. Atlanta Hawks 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 24 October 2026",
+       "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3VybW5reTEyNC5naXRodWIuaW8vbmV3cy9uaS54bWwiLz48L2tycGFubz4=&id=rockets-hawks-nba-opening-night-game15",
+       "source": "FC東京オフィシャルホームページ"
+      },
+      {
+       "title": "Atlanta plays Houston for out-of-conference matchup",
+       "url": "https://abcnews.com/Sports/wireStory/atlanta-plays-houston-conference-matchup-137532534",
+       "source": "ABC News - Breaking News, Latest News and Videos"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=hawks%20-%20rockets&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOWY2CDpNgwJjSs58k-ggHUxgacmd2USvIt-YFhpEFODdaDY1sbVnkGdjYvjg",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "bim aktüel",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "SATIŞTA! BİM AKTÜEL 25-27-28-30 EKİM 2026 KATALOĞU GÜNCEL BROŞÜRÜ || Bim'de gelecek hafta ürünleri neler? Bim afişi Yağlı Radyatör Isıtıcı, Dinozora Dönüşen Robot, Sahte Balık Kaşık getiriyor!",
+       "url": "https://www.hurriyet.com.tr/bilgi/galeri/bimde-gelecek-hafta-urunleri-neler-43353893",
+       "source": "Hürriyet"
+      },
+      {
+       "title": "BİM GÜNCEL AFİŞ: BU HAFTA RAFLARA GELECEK ÜRÜNLER BELLİ OLDU! (BİM 30 EKİM-5 KASIM)",
+       "url": "https://www.ekonomim.com/foto-galeri/aktuel/bim-guncel-afis-bu-hafta-raflara-gelecek-urunler-belli-oldu-bim-30-ekim-5-kasim-s1-galeri-926766",
+       "source": "Ekonomim"
+      },
+      {
+       "title": "BİM markete bu hafta Pazar günü Olta Takımı, Olta Sehpası, Karbon Olta Kamışı, Kamp Termosu, Çift Yönlü Şömine Isıtıcı geliyor! 27-30 Ekim BİM aktüel kataloglarında hangi ürünler satışa çıkacak?",
+       "url": "https://www.milliyet.com.tr/galeri/yeni-haftanin-bim-aktuel-kataloglari-bim-25-ekim-pazar-aktuel-katalogunda-hangi-urunler-satisa-cikacak-11-dilim-yagli-radyator-7686620",
+       "source": "Milliyet"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=bim%20akt%C3%BCel&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZMbWQ0nJq7nL1N1EVWAqfLBDE-IKwVOzQUfnRR08VeyI0DqeqH6INTjtWSrk",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "inter - fiorentina",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "Inter, vigilia diversa in vista della Fiorentina. Chivu cambia le regole: il nuovo ritiro light",
+       "url": "https://www.fcinter1908.it/news/rassegna-stampa/inter-fiorentina-ritiro-light-chivu/",
+       "source": "FC Inter 1908"
+      },
+      {
+       "title": "Inter-Fiorentina | ✅UFFICIALI: le scelte su Thuram, Provedel e Pellegrino",
+       "url": "https://onefootball.com/it/notizie/inter-fiorentina-ufficiali-le-scelte-su-thuram-provedel-e-pellegrino-43669009",
+       "source": "OneFootball"
+      },
+      {
+       "title": "🚨 Thuram, Esposito, Mastantuono... ecco le FORMAZIONI di Inter-Fiorentina",
+       "url": "https://onefootball.com/it/notizie/thuram-esposito-mastantuono-ecco-le-formazioni-di-inter-fiorentina-43669015",
+       "source": "OneFootball"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=inter%20-%20fiorentina&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmc0zIs108ZM3E5ZmKldstcUqpB43mkjQZ3PAKGC03Qb4bU6Zi57HihbaLOqM",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "anadolu efes - körfez basket",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 10,
+     "news": [
+      {
+       "title": "Anadolu Efes-Körfez Basket maçı saat kaçta, hangi kanalda?",
+       "url": "https://www.yenialanya.com/anadolu-efes-korfez-basket-maci-saat-kacta-hangi-kanalda",
+       "source": "Yeni Alanya"
+      },
+      {
+       "title": "Anadolu Efes- Körfez Basket maçı hangi kanalda?",
+       "url": "https://www.alanyapostasi.com.tr/anadolu-efes-korfez-basket-maci-hangi-kanalda",
+       "source": "Alanya Postası"
+      },
+      {
+       "title": "Anadolu Efes – Biotekno Körfez Basket maçı ne zaman ve hangi kanalda?",
+       "url": "https://www.bolgegundemi.com/antalya/anadolu-efes-biotekno-korfez-basket-maci-ne-zaman-ve-hangi-kanalda-219790.html",
+       "source": "Bölge Gündemi"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=anadolu%20efes%20-%20k%C3%B6rfez%20basket&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_qdgqn1jH5nui3XwVsErDqkdrn_R4cH-qH2XaFLS2qQAlwOVGD_FPJWDWDM0",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "mustafa sarıgül ve koruması",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 9,
+     "news": [
+      {
+       "title": "SON DAKİKA | Altınbaş Holding ile Titanic Hotel'in iki üst düzey yöneticisi gözaltına alındı",
+       "url": "https://www.sozcu.com.tr/son-dakika-veya-altinbas-holding-ile-titanic-hotel-in-iki-ust-duzey-yoneticisi-gozaltina-alindi-p372300",
+       "source": "Sözcü Gazetesi"
+      },
+      {
+       "title": "Sarıgül kardeşlerin tutuklandığı soruşturmada 12 gözaltı daha",
+       "url": "https://www.ntv.com.tr/turkiye/sarigul-kardeslerin-tutuklandigi-sorusturmada-12-gozalti-daha-1747773",
+       "source": "NTV Haber"
+      },
+      {
+       "title": "İstanbul'da mal varlığı aklama soruşturması: 3 şüpheliye tutuklama, Mustafa Sarıgül'ün korumasına adli kontrol",
+       "url": "https://www.hurriyet.com.tr/gundem/istanbulda-mal-varligi-aklama-sorusturmasi-3-supheliye-tutuklama-mustafa-sarigulun-korumasina-adli-kontrol-43353323",
+       "source": "Hürriyet"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=mustafa%20sar%C4%B1g%C3%BCl%20ve%20korumas%C4%B1&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPCe9wbOZiZxM7XT-eO6vZCxNmgPbDmb5481VLiZDT1leGvq59kb925jR6Qy0",
+     "hours": 2,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "cumartesi tv yayın akışı",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 4,
+     "news": [
+      {
+       "title": "TV YAYIN AKIŞI 24 EKİM 2026 (TÜM KANALLAR) || Bu akşam TV'de ne var? Star TV, Kanal D, ATV, TRT 1, TV8, NOW TV ve Show TV Yayın Akışı Listesi",
+       "url": "https://www.hurriyet.com.tr/galeri-tv-yayin-akisi-24-ekim-2026-tum-kanallar-bu-aksam-tvde-ne-var-star-tv-kanal-d-atv-trt-1-tv8-now-tv-ve-show-tv-43353767",
+       "source": "Hürriyet"
+      },
+      {
+       "title": "Cumartesi Günü Hangi Diziler Var? 24 Ekim Cumartesi Akşamı Televizyonda Ne Var?",
+       "url": "https://onedio.com/haber/cumartesi-gunu-hangi-diziler-var-24-ekim-cumartesi-aksami-televizyonda-ne-var-1390921",
+       "source": "Onedio"
+      },
+      {
+       "title": "TV yayın akışı 25 Ekim Pazar! Bugün hangi kanalda ne var?",
+       "url": "https://www.cumhuriyet.com.tr/tv-rehberi/tv-yayin-akisi-25-ekim-pazar-bugun-hangi-kanalda-ne-var-2549976",
+       "source": "Cumhuriyet"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=cumartesi%20tv%20yay%C4%B1n%20ak%C4%B1%C5%9F%C4%B1&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNzrCjesPLuiURKF-_V9jq6ND7nQuGOL3WQbvDg3DeaRUKnnBx43rBlLW33fs",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "25 ekim bim kataloğu 2026",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "YENİLERİ KEŞFET! BİM AKTÜEL 25-27-28-30 EKİM 2026 KATALOĞU GÜNCEL BROŞÜRÜ || Bim'de gelecek hafta ürünleri neler? Bim afişi Yağlı Radyatör Isıtıcı, Dinozora Dönüşen Robot, Sahte Balık Kaşık getiriyor!",
+       "url": "https://www.hurriyet.com.tr/bilgi/galeri/bimde-gelecek-hafta-urunleri-neler-43353893",
+       "source": "Hürriyet"
+      },
+      {
+       "title": "BİM aktüel katalog 25-27-28-30 Ekim 2026: Bu hafta BİM'de vitrin kitaplık, battaniye, saklama kapları...",
+       "url": "https://www.sabah.com.tr/yasam/bim-aktuel-25-27-28-30-ekim-katalogu-bim-aktuel-firsatlarinda-vitrin-kitaplik-battaniye-saklama-kaplari-7687120",
+       "source": "Sabah"
+      },
+      {
+       "title": "BİM markete bu hafta Pazar günü Olta Takımı, Olta Sehpası, Karbon Olta Kamışı, Kamp Termosu, Çift Yönlü Şömine Isıtıcı geliyor! 27-30 Ekim BİM aktüel kataloglarında hangi ürünler satışa çıkacak?",
+       "url": "https://www.milliyet.com.tr/galeri/yeni-haftanin-bim-aktuel-kataloglari-bim-25-ekim-pazar-aktuel-katalogunda-hangi-urunler-satisa-cikacak-11-dilim-yagli-radyator-7686620",
+       "source": "Milliyet"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=25%20ekim%20bim%20katalo%C4%9Fu%202026&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZMbWQ0nJq7nL1N1EVWAqfLBDE-IKwVOzQUfnRR08VeyI0DqeqH6INTjtWSrk",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "türkiye cumhuriyeti kimlik kartı",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 8,
+     "news": [
+      {
+       "title": "Milyonların TC kimlik kartı iptal olacak: Geri sayım başladı",
+       "url": "https://www.sozcu.com.tr/milyonlarin-tc-kimlik-karti-iptal-olacak-geri-sayim-basladi-p372458",
+       "source": "Sözcü Gazetesi"
+      },
+      {
+       "title": "Kimlikten Ehliyete 2026’Da Belge Ve Kart Yenilemenin Bedeli...",
+       "url": "https://www.memurlar.net/album/28345/kimlikten-ehliyete-2026-da-belge-ve-kart-yenilemenin-bedeli.html",
+       "source": "Memurlar.Net"
+      },
+      {
+       "title": "Kimlik kartınızda bu tarih yazıyorsa dikkat. 2027'de geçersiz olacak",
+       "url": "https://www.nefes.com.tr/kimlik-kartinizda-bu-tarih-yaziyorsa-dikkat-2027de-gecersiz-olacak-160436",
+       "source": "Nefes Gazetesi"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=t%C3%BCrkiye%20cumhuriyeti%20kimlik%20kart%C4%B1&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTB9-MZAwbGWaBquCI2yUqSK-K5NWhanqAtMR0mBEp4wpNo6BUFflOBtfbxTMY",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "futbolcu",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 10,
+     "news": [
+      {
+       "title": "Yeşil sahalarda kordu dolu anlar! Son dakikalarda kalp krizi geçirdi",
+       "url": "https://www.sozcu.com.tr/yesil-sahalarda-kordu-dolu-anlar-son-dakikalarda-kalp-krizi-gecirdi-p372372",
+       "source": "Sözcü Gazetesi"
+      },
+      {
+       "title": "Bartın'da maç sırasında rahatsızlanan futbolcu hastaneye kaldırıldı",
+       "url": "https://yerel-haberler.haberturk.com/bartin-haberleri/bartinda-mac-sirasinda-rahatsizlanan-futbolcu-hastaneye-kaldirildi-119502541",
+       "source": "Habertürk"
+      },
+      {
+       "title": "90+3. dakikada aniden yere yığıldı! Amatör ligde korkutan anlar",
+       "url": "https://www.aspor.com.tr/futbol/2026/10/24/amator-ligde-korkutan-anlar-903-dakikada-aniden-yere-yigildi",
+       "source": "A Spor"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=futbolcu&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtTocwLVq_WZzD0V2mtthy-926diL7X5bwchOFbhkRXxGmhQQAXc-hzglstBU",
+     "hours": 1,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "kompany",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "Vincent Kompany under medical care",
+       "url": "https://fcbayern.com/en/news/2026/10/vincent-kompany-under-medical-care",
+       "source": "FC Bayern"
+      },
+      {
+       "title": "Bayern coach Kompany to miss weeks after collapsing at training",
+       "url": "https://www.aa.com.tr/en/sports/bayern-coach-kompany-to-miss-weeks-after-collapsing-at-training/4099677",
+       "source": "Anadolu Ajansı"
+      },
+      {
+       "title": "Bayern Munich boss Vincent Kompany's recovery will take 'weeks'",
+       "url": "https://www.bbc.com/sport/football/articles/cm2l4vq9k84yo",
+       "source": "BBC"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=kompany&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQxrAJuazzNroMmF1haacBrwyvQkP25_Hd6iQkniVDBmP9kM5kkivkPqu5rS0",
+     "hours": 2,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "prim",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "GSS borçları için yeni düzenleme; 1 milyondan fazla kişinin borcu silinecek",
+       "url": "https://www.sozcu.com.tr/gss-borclari-silinmesi-icin-duzenleme-hazirligi-p372153",
+       "source": "Sözcü Gazetesi"
+      },
+      {
+       "title": "Borç affı hazırlığı: 1 milyon kişinin GSS borcu silinecek",
+       "url": "https://www.tr724.com/akpden-yeni-borc-affi-hazirligi-1-milyon-kisinin-gss-borcu-silinecek/",
+       "source": "TR724"
+      },
+      {
+       "title": "Prim borçlarına devletten af geldi! Borçlar silinecek",
+       "url": "https://www.cagdaskocaeli.com.tr/foto/29042426/prim-borclarina-devletten-af-geldi-borclar-silinecek",
+       "source": "Çağdaş Kocaeli Gazetesi"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=prim&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkItpqqKInIG-CqH-mKaQKwF8RHZGI3s6hY9lnnDqv8wM_1wfM7YIGVqh9enA",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "behzat ç yeni sezon",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "Behzat Ç yeni sezon ne zaman? HBO Max yayın tarihini duyurdu",
+       "url": "https://www.donanimhaber.com/behzat-c-yeni-sezon-ne-zaman-hbo-max-yayin-tarihini-duyurdu--211964",
+       "source": "DonanımHaber"
+      },
+      {
+       "title": "Erdal Beşikçioğlu merakı sona erdi: Behzat Ç.'nin yeni sezonu yayınlandı",
+       "url": "https://www.odatv.com/kultur-sanat/erdal-besikcioglu-meraki-sona-erdi-behzat-cnin-yeni-sezonu-yayinlandi-120167966",
+       "source": "Odatv"
+      },
+      {
+       "title": "Behzat Amir Geri Döndü: \"Çekiç ve Gül: Bir Behzat Ç. Hikayesi\" 4. Sezonu Hakkında Bilmeniz Gereken Her Şey!",
+       "url": "https://www.beyazperde.com/haberler/diziler/haberler-1000228882/",
+       "source": "Beyazperde"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=behzat%20%C3%A7%20yeni%20sezon&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV4y1FHCUHBWXMxBlDjNUbK4WTkJitKMsmGbA6YcNO__XyJsF34KiLWlb9rCQ",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "dominick reyes",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 5,
+     "news": [
+      {
+       "title": "[LIVESTREAM]FREE!!] Azamat Murzakanov vs Dominick Reyes UFC Live Free Match",
+       "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vZXZlbnQvemIueG1sIi8+PC9rcnBhbm8+&id=video-livestreamfree-azamat-murzak-lnfuj57j",
+       "source": "小豆島町"
+      },
+      {
+       "title": "[[4K]LIVE]* Ufc Dominick Reyes vs Azamat Murzakanov Live Free Streams On Sport'sTvｌ HS Football 2026",
+       "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2FsaWJhYmFub3I0MS11eC5naXRodWIuaW8vbm93bWUvaW5kZXgueG1sIi8+PC9rcnBhbm8+&id=4k-live-ufc-dominick-reyes-vs-azamat-murzakanov-live-fr",
+       "source": "小豆島町"
+      },
+      {
+       "title": "[*LIVE*] Dominick Reyes vs Azamat Murzakanov Live Free Streams On Sport'sTv HS Football 2026",
+       "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2FsaWJhYmFub3I0MS11eC5naXRodWIuaW8vbm93bWUvaW5kZXgueG1sIi8+PC9rcnBhbm8+&id=live-dominick-reyes-vs-azamat-murzakanov-live-free-stre",
+       "source": "小豆島町"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=dominick%20reyes&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkz0mJ8ZDVG2jWo4eKuJDVf1Nxsng3GS1QusSkNeUITgazZek2A9zhfwYojTo",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "porto",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 5,
+     "news": [
+      {
+       "title": "“Temos de nos manter unidos para ultrapassarmos as adversidades”",
+       "url": "https://www.fcporto.pt/pt/noticias/20261023-pt-temos-de-nos-manter-unidos-para-ultrapassarmos-as-adversidades",
+       "source": "FC Porto"
+      },
+      {
+       "title": "FC Porto continua invicto",
+       "url": "https://www.sporttv.pt/noticias/846851/fc-porto-continua-invicto",
+       "source": "Sport TV"
+      },
+      {
+       "title": "FC Porto aplica 47 golos ao Ginásio Santo Tirso antes do clássico",
+       "url": "https://sapo.pt/artigo/fc-porto-aplica-47-golos-ao-ginasio-santo-tirso-antes-do-classico-6adcfdd24afee827c689556c",
+       "source": "SAPO"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=porto&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0Nc7gjDUySs1iiybo8q6KO0vajGJF0a9u4-wlAW996ThxMfXbv7NxhVqEets",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "28 ekim",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 6,
+     "news": [
+      {
+       "title": "29 Ekim resmi tatil mi, kaç gün tatil? 28 Ekim yarım gün mü, kimlere tatil? (2026 Resmî Tatil Takvimi)",
+       "url": "https://www.hurriyet.com.tr/bilgi/galeri/29-ekim-resmi-tatil-mi-kac-gun-tatil-28-ekim-yarim-gun-mu-kimlere-tatil-2026-resmi-tatil-takvimi-43353860",
+       "source": "Hürriyet"
+      },
+      {
+       "title": "Turizmde Cumhuriyet coşkusu",
+       "url": "https://www.sabah.com.tr/ekonomi/turizmde-cumhuriyet-coskusu-7687064",
+       "source": "Sabah"
+      },
+      {
+       "title": "29 Ekim'de Okullar, Bankalar ve Kargolar Açık mı? 28 Ekim Yarım Gün mü?",
+       "url": "https://onedio.com/haber/29-ekim-de-okullar-bankalar-ve-kargolar-acik-mi-28-ekim-yarim-gun-mu-1390924",
+       "source": "Onedio"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=28%20ekim&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuVwP9lhj6KrfcrYgisVfHMuownurj7hT78QzCXoUNsTnCAx5AJOvrMTMcjLI",
+     "hours": 1,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "bingöl hava durumu",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 9,
+     "news": [
+      {
+       "title": "Bingöl’de Pazar Günü Sağanak Alarmı! Sıcaklık 3 Dereceye Kadar Düşecek",
+       "url": "https://www.malatyasoz.com/bingolde-pazar-gunu-saganak-alarmi-sicaklik-3-dereceye-kadar-dusecek",
+       "source": "Malatya Söz"
+      },
+      {
+       "title": "Bingöl’de Hafta Sonu Hava Nasıl Olacak?",
+       "url": "https://www.bingolkenthaber.com/bingolde-hafta-sonu-hava-nasil-olacak-25",
+       "source": "bingöl kent haber"
+      },
+      {
+       "title": "Bingöl’de Gece Yağış Bekleniyor! 7 İlçeye Sağanak Tahmini",
+       "url": "https://www.malatyasoz.com/bingolde-gece-yagis-bekleniyor-7-ilceye-saganak-tahmini",
+       "source": "Malatya Söz"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=bing%C3%B6l%20hava%20durumu&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZgg7rIe2a0oRYLLkNIOtE9aP3egjUmUbeiYaz1BkNXCzBvGVQvwFh2b7-mus",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "datça",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 10,
+     "news": [
+      {
+       "title": "Akdeniz açıklarında deprem",
+       "url": "https://www.cumhuriyet.com.tr/turkiye/akdeniz-aciklarinda-deprem-2549900",
+       "source": "Cumhuriyet"
+      },
+      {
+       "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 24 Ekim 2026",
+       "url": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-24-ekim-2026-1747815",
+       "source": "NTV Haber"
+      },
+      {
+       "title": "Muğla’da korkutan deprem! AFAD büyüklüğü duyurdu...",
+       "url": "https://www.yeniasir.com.tr/ege/mugla/2026/10/24/muglada-korkutan-deprem-afad-buyuklugu-duyurdu",
+       "source": "Yeni Asır"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=dat%C3%A7a&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxWOwmVmSeitGXQ2nwv1FACZCo7K-JiCAsNaAuXFDyOKpk-N4yoHlNshpCYoc",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "ريد بولز ضد إنتر ميامي",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "تشكيل إنتر ميامي ضد نيويورك ريد بولز في الدوري الأمريكي 2026/2027",
+       "url": "https://www.365scores.com/ar/news/magazine/%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%A5%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D8%A7%D9%85%D9%8A-%D8%B6%D8%AF-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%B1%D9%8A%D8%AF-%D8%A8%D9%88%D9%84%D8%B2/",
+       "source": "365Scores"
+      },
+      {
+       "title": "كيفية مشاهدة البث المباشر لمباراة إنتر ميامي ونيويورك ريد بولز في الدوري الأمريكي 2026",
+       "url": "https://al-ain.com/article/rbny-vs-inter-miami-mls-date-2026",
+       "source": "العين الإخبارية"
+      },
+      {
+       "title": "مباشر.. مباراة نيويورك رد بولز وإنتر ميامي في الدوري الأمريكي",
+       "url": "https://twaslnews1.twaslnews.com/6536768/",
+       "source": "شبكة تواصل الإخبارية"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%D8%B1%D9%8A%D8%AF%20%D8%A8%D9%88%D9%84%D8%B2%20%D8%B6%D8%AF%20%D8%A5%D9%86%D8%AA%D8%B1%20%D9%85%D9%8A%D8%A7%D9%85%D9%8A&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGbYN0p4SdLE94PwbzcrtE9pV2R0s4Yp6mIyefXOLjqv-BNG6Qe76Dfawcy1A",
+     "hours": 2,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "helin kandemir",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 10,
+     "news": [
+      {
+       "title": "Helin Kandemir sette yanlış taksiye bindi. \"Zincirlikuyu turu yaptığım kamera arkası\"",
+       "url": "https://www.ntv.com.tr/yasam/galeri-helin-kandemir-sette-yanlis-taksiye-bindi-zincirlikuyu-turu-yaptigim-kamera-arkasi-1747595",
+       "source": "NTV Haber"
+      },
+      {
+       "title": "Dizi çekerken gerçek taksiye bindi: Ortalık karıştı",
+       "url": "https://www.gzt.com/hayat/dizi-cekerken-gercek-taksiye-bindi-ortalik-karisti-4272035",
+       "source": "GZT"
+      },
+      {
+       "title": "Sevdiğim Sensin setinde yaşandı! Helin Kandemir yanlış taksiye bindi",
+       "url": "https://www.internethaber.com/sevdigim-sensin-setinde-yasandi-helin-kandemir-yanlis-taksiye-bindi-foto-galerisi-2465369.htm",
+       "source": "İnternet Haber"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=helin%20kandemir&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9LXXFTENhDDeILI0frXhsBREpnnsfM6PQHpQQudhe1qS3vG8EXkjRuTcNEzo",
+     "hours": 2,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "uzak şehir oyuncuları",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 1,
+     "news": [],
+     "url": "https://trends.google.com/trends/explore?q=uzak%20%C5%9Fehir%20oyuncular%C4%B1&geo=TR&date=now%207-d",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "gümüşhane haberleri",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "Dünya Güzeli Azra Akın Gümüşhane'de",
+       "url": "https://www.gumuskoza.com.tr/haber/29031380/dunya-guzeli-azra-akin-gumushanede",
+       "source": "Gümüşkoza Gazetesi"
+      },
+      {
+       "title": "Azra Akın’dan Gümüşhane Belediyesi’ne Ziyaret",
+       "url": "https://www.gumushane.gen.tr/gumushane/azra-akindan-gumushane-belediyesine-ziyaret/74194",
+       "source": "Dünyanın En Büyük Gümüşhane Sitesi"
+      },
+      {
+       "title": "Pazaryeri'nde Cumhuriyet'in 103. yılı için pedal çevirdiler",
+       "url": "https://yerel-haberler.haberturk.com/bilecik-haberleri/pazaryerinde-cumhuriyetin-103-yili-icin-pedal-cevirdiler-119501979",
+       "source": "Habertürk"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=g%C3%BCm%C3%BC%C5%9Fhane%20haberleri&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHlW3UD0FTJO5rPjlJdRs8JnP-IonFlhxnsJei85OJw0SeFaPlomPjxIf5ot4",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "ismail jakobs",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "Galatasaraylı futbolcudan şaşırtan seri: 73 maçta gol atamadı hedefi Fenerbahçe",
+       "url": "https://www.yenisafak.com/galeri/spor/galatasarayli-futbolcudan-sasirtan-seri-73-macta-gol-atamadi-hedefi-fenerbahce-4867110",
+       "source": "Yeni Şafak"
+      },
+      {
+       "title": "30 yıldır böylesi görülmedi: Ismail Jakobs'tan Galatasaray'da ilginç istatistik",
+       "url": "https://www.cumhuriyet.com.tr/spor/30-yildir-boylesi-gorulmedi-ismail-jakobs-tan-galatasaray-da-ilginc-istatistik-2550027",
+       "source": "Cumhuriyet"
+      },
+      {
+       "title": "Galatasaray-Fenerbahçe maçında 30 yıllık seriyi bitirmek için dua ediyor",
+       "url": "https://www.nefes.com.tr/galatasaray-fenerbahce-macinda-30-yillik-seriyi-bitirmek-icin-dua-ediyor-160443",
+       "source": "Nefes Gazetesi"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=ismail%20jakobs&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYfJw6GPwJbrGW6xFbn7NbsHtmMHXoxfla88IyewCOZ9no0bYjIakLR59vjlc",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "islam makhachev",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 5,
+     "news": [
+      {
+       "title": "Carlos Prates reacts to Islam Makhachev's reported UFC 336 withdrawal with iconic Nate Diaz moment",
+       "url": "https://bloodyelbow.com/2026/10/24/carlos-prates-reacts-to-islam-makhachevs-reported-ufc-336-withdrawal-with-iconic-nate-diaz-moment/",
+       "source": "Bloody Elbow"
+      },
+      {
+       "title": "Islam Makhachev Fight Rumors Yield Interesting Response From Dana White",
+       "url": "https://www.sportscapemagazine.com/blog/islam-makhachev-fight-rumors-yield-interesting-response-from-dana-white",
+       "source": "Sportscape Magazine"
+      },
+      {
+       "title": "Joshua Van vs. Manel Kape set for UFC 336",
+       "url": "https://www.mmafighting.com/ufc/517377/joshua-van-vs-manel-kape-set-for-ufc-336",
+       "source": "MMA Fighting"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=islam%20makhachev&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYkFdv4HdeP217AoOQDWCrJsO5N73--DSOiFPFar0GNjnbbsRmdVC3a60Qqwo",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "fc porto",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 5,
+     "news": [
+      {
+       "title": "Mensagem de Bednarek nas redes sociais: \"Todos unidos, todos juntos\"",
+       "url": "https://www.ojogo.pt/futebol/artigo/mensagem-de-bednarek-nas-redes-sociais-todos-unidos-todos-juntos/18139872",
+       "source": "O Jogo"
+      },
+      {
+       "title": "Jogadores do FC Porto \"unidos\" contra a crise europeia",
+       "url": "https://www.cmjornal.pt/desporto/futebol/detalhe/unidos-contra-a-crise-europeia",
+       "source": "Correio da Manhã"
+      },
+      {
+       "title": "Bednarek e Kiwior não gostaram das críticas dos adeptos do FC Porto",
+       "url": "https://www.abola.pt/video/bednarek-e-kiwior-nao-gostaram-das-criticas-dos-adeptos-do-fc-porto-2026102021010035697",
+       "source": "A Bola"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=fc%20porto&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm66wXwlZCLb35BNKefZ6WzhKRAxtiKb3dWWI0lPQYypPchv3tm8liTqaj8Po",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "orban",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "Itthon: Havasi arról, hogy Orbán Párizsban van: „Jelenleg min tudna változtatni, ha itthon lenne?”",
+       "url": "https://hvg.hu/itthon/20261023_orban-viktor-parizs-foto-fidesz-havasi-bertalan",
+       "source": "| hvg.hu"
+      },
+      {
+       "title": "Ezért van Párizsban Orbán október 23-án",
+       "url": "https://24.hu/belfold/2026/10/23/orban-viktor-parizs-oktober-23-havasi-bertalan/",
+       "source": "24.hu"
+      },
+      {
+       "title": "Belföld - Kiszúrtunk valamit az Orbán Viktorról Párizsban készült lesifotón",
+       "url": "https://index.hu/belfold/2026/10/24/orban-viktor-okostelefon-parizs-foto-nokia-nyomogombos/",
+       "source": "Index.hu"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=orban&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYSFS_eAViLN3MeOvH3JkVzbZnCXD1tyU3C2ziX753zJSNpxaiBa1iqfNPmeU",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "itır esen",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "1,80’lik Itır Esen ile eşi Engin Aykanat arasındaki boy farkı gündem oldu",
+       "url": "https://www.ahaber.com.tr/galeri/magazin/itir-esen-ve-engin-aykanatin-boy-farki-dikkat-cekti",
+       "source": "A Haber"
+      },
+      {
+       "title": "Hızlı ve yakışıklı",
+       "url": "https://www.hurriyet.com.tr/kelebek/hayat/hizli-ve-yakisikli-43350457",
+       "source": "Hürriyet"
+      },
+      {
+       "title": "Paris'te evlenmişti! Itır Esen gelinlikli yeni pozlarını paylaştı",
+       "url": "https://www.milliyet.com.tr/magazin/galeri/pariste-evlenmisti-itir-esen-gelinlikli-yeni-pozlarini-paylasti-7686855",
+       "source": "Milliyet"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=it%C4%B1r%20esen&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAoafgGnxEN_if4XYqnxWDy2Z12Wvu1XKLLumfxCe5o5vO07Ni8tXx0NB6N8E",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "movsar evloev",
+     "geo": "TR",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 8,
+     "news": [
+      {
+       "title": "Movsar Evloev says hijab request was ploy to skip interview with Nina Drama",
+       "url": "https://www.mundodeportivo.com/en/20261024/1004242549/movsar-evloev-says-hijab-request-was-ploy-to-skip-interview-with-nina-drama.html",
+       "source": "Mundo Deportivo"
+      },
+      {
+       "title": "Movsar Evloev’s Hijab Request to Nina-Marie Daniele Was Tied to Interview Reluctancy",
+       "url": "https://www.essentiallysports.com/ufc-mma-news-movsar-evloev-s-hijab-request-to-nina-marie-daniele-was-tied-to-interview-reluctancy/",
+       "source": "EssentiallySports"
+      },
+      {
+       "title": "Nina Drama denies being 'forced' to wear hijab for Movsar Evloev interview",
+       "url": "https://www.sherdog.com/news/news/Nina-Drama-denies-being-forced-to-wear-hijab-for-Movsar-Evloev-interview-203297",
+       "source": "Sherdog"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=movsar%20evloev&geo=TR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZvlDbKigiaUFgl-vjHHgQRe3cA-B3D7OtULj7CRIVlMmBs0U5Pt3YcVQMW5A",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    }
+   ]
+  },
+  {
+   "geo": "KR",
+   "name": "Güney Kore",
+   "flag": "🇰🇷",
+   "trends": [
+    {
+     "term": "kia 대 삼성",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 100000,
+     "traffic_label": "100000+",
+     "best_rank": 9,
+     "news": [
+      {
+       "title": "태풍 '참피'에 프로야구 플레이오프 1차전 취소…26일 재개",
+       "url": "https://www.yna.co.kr/view/AKR20261025024900007",
+       "source": "연합뉴스"
+      },
+      {
+       "title": "’종일 비’ 달빛시리즈 내일로 연기…이 시각 대구",
+       "url": "https://www.yonhapnewstv.co.kr/news/MYH20261025144515sN5",
+       "source": "연합뉴스TV"
+      },
+      {
+       "title": "KIA 플레이오프 1차전 선발투수 ‘네일’",
+       "url": "https://news.kbs.co.kr/news/view.do?ncd=8694398",
+       "source": "KBS 뉴스"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=kia%20%EB%8C%80%20%EC%82%BC%EC%84%B1&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1nxTuGwCaWzTxi5HruUtczDLj5p96ilgJqNQLCtF79QN0x0MNRooJcV2m0IQ",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "첼시 대 토트넘",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 20000,
+     "traffic_label": "20000+",
+     "best_rank": 6,
+     "news": [
+      {
+       "title": "첼시-토트넘 경기에서 실시간 얼굴인식 시스템 가동…범죄 예방인가, 관중 감시인가",
+       "url": "https://sports.khan.co.kr/article/202610221358003",
+       "source": "스포츠경향"
+      },
+      {
+       "title": "프리미어 리그 첼시 대 토트넘 생중계 링크",
+       "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-chelsea-vs-tottenham-tai-premier-league-1788618.ldo",
+       "source": "Laodong.vn"
+      },
+      {
+       "title": "프리미어리그: ‘2연승’ 첼시, 안방서 토트넘 상대로 리그 첫 3연승 도전",
+       "url": "https://sbotopkr.tistory.com/2638",
+       "source": "티스토리"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EC%B2%BC%EC%8B%9C%20%EB%8C%80%20%ED%86%A0%ED%8A%B8%EB%84%98&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR369CM3W1FOfcVB437YvgYMLbNSrfP_MncgXpeNTPGr9SS2PuZCGXPnkLorvM",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "닥터x: 하얀 마피아의 시대",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 5000,
+     "traffic_label": "5000+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "5·18 다룬 ‘닥터X’, 방영 중단 청원 등장…“정치적 편향” 주장",
+       "url": "https://sports.khan.co.kr/article/202610250929003",
+       "source": "스포츠경향"
+      },
+      {
+       "title": "‘닥터X’ 6회만 19.5% 돌파…SBS 역대 금토극 공동 5위",
+       "url": "https://www.mk.co.kr/news/hot-issues/12184920",
+       "source": "매일경제"
+      },
+      {
+       "title": "\"518 버스까지\" 잘 나가던 닥터X, 난데없는 정치 논란에 시끌",
+       "url": "https://www.hankyung.com/article/2026102532667",
+       "source": "한국경제"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EB%8B%A5%ED%84%B0x%3A%20%ED%95%98%EC%96%80%20%EB%A7%88%ED%94%BC%EC%95%84%EC%9D%98%20%EC%8B%9C%EB%8C%80&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS9MmB272dahoc7RVa9KMBNOtOk_FNRHmw3rrcuW67WtYILoIi3g9_3kWEr9w",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "이강인",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 5000,
+     "traffic_label": "5000+",
+     "best_rank": 8,
+     "news": [
+      {
+       "title": "이강인, 챔피언스리그 결장 후 라리가 선발 복귀…아틀레티코는 선두 추격 도전",
+       "url": "https://www.jemin.com/news/articleView.html?idxno=845223",
+       "source": "제민일보"
+      },
+      {
+       "title": "이강인, 부상 우려 씻고 67분 활약…아틀레티코 라리가 6연승",
+       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694453",
+       "source": "KBS 뉴스"
+      },
+      {
+       "title": "\"이강인, ATM서 돋보인 몇 안 되는 선수\" 스페인 현지도 인정... \"두 번이나 멋진 골에 가까웠다\" - 머니투데이",
+       "url": "https://www.mt.co.kr/sports/2026/10/25/2026102506433953233",
+       "source": "머니투데이"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EC%9D%B4%EA%B0%95%EC%9D%B8&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTON8bCTLsY2GVBcirWBgmOktg_B8NVT0tgypo-a68i_qrlG5evvfF7nCFrwgc",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "설거지",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 5000,
+     "traffic_label": "5000+",
+     "best_rank": 8,
+     "news": [
+      {
+       "title": "“청소비 냈는데 설거지에 쓰레기까지 치우라고?”…에어비앤비, 결국 규칙 바꿨다",
+       "url": "https://www.seoul.co.kr/news/international/2026/10/25/20261025500089",
+       "source": "서울신문"
+      },
+      {
+       "title": "돈 내고 숙박하는데 “빨래랑 설거지까지 하라고?”…집주인들 과한 요구에 에어비앤비 결국",
+       "url": "https://www.sedaily.com/article/20105438",
+       "source": "서울경제"
+      },
+      {
+       "title": "\"호텔 갈꺼야\" 투숙객 불만에…에어비앤비 '이것' 금지[뉴스럽다]",
+       "url": "https://www.nocutnews.co.kr/news/6596402",
+       "source": "노컷뉴스"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EC%84%A4%EA%B1%B0%EC%A7%80&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVoiuArgSicIbfVlQaFdbrFzVOZu_CFMENbql3HfHoZX_UPFAkEg-fqwOlH6A",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "배당",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 5000,
+     "traffic_label": "5000+",
+     "best_rank": 9,
+     "news": [
+      {
+       "title": "삼성전자, 내년 역대급 배당 준다는데…주당 1만2000원 받을 수 있을까",
+       "url": "https://www.newsis.com/view/NISX20261024_0003839410",
+       "source": "뉴시스"
+      },
+      {
+       "title": "삼성전자 우선주 사볼까…소각 기대감에 본주와 괴리율 절반 축소",
+       "url": "https://www.edaily.co.kr/News/Read?newsId=04326326645614888&mediaCodeNo=257",
+       "source": "이데일리"
+      },
+      {
+       "title": "삼성전자 주주환원에 쏠리는 눈..29일 기업설명회 예정",
+       "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48281",
+       "source": "뉴스톱"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EB%B0%B0%EB%8B%B9&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZKRcFCk0XiJEYjjNWei8_iFPmjTo993xlh92wZHTj4m0PaaBRzm8fg33Vilo",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "황희찬",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "[분데스·리뷰] ‘韓 국대’ 황희찬, 눈도장 찍을 절호의 기회→0공포로 마무리···샬케04 이적 후 첫 선발, ...",
+       "url": "https://sports.khan.co.kr/article/202610250141003",
+       "source": "스포츠경향"
+      },
+      {
+       "title": "대표팀 92-96 갈등?…이재성, 황희찬과 다정한 근황 \"아프지 말자\" - 머니투데이",
+       "url": "https://www.mt.co.kr/society/2026/10/23/2026102308294438574",
+       "source": "머니투데이"
+      },
+      {
+       "title": "'韓 국가대표 공격수' 황희찬, 마침내 '반격 시작'하나...\"첫 선발 출전 기회 생겨\", 감독도 \"HWANG 좋은 옵션\" 평가",
+       "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553639126",
+       "source": "스포탈코리아"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%ED%99%A9%ED%9D%AC%EC%B0%AC&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLaob3gSbvpST1Q9ssgr0jaFO8aemiyYHszsnHOhhjZ4GP4aC45AXc3O2NC1M",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "서장훈",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "\"‘700억 갑부’ 서장훈 집은 35억, 소박하네\"…어딘가 봤더니[누구집]",
+       "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645616528&mediaCodeNo=257",
+       "source": "이데일리"
+      },
+      {
+       "title": "강호동·전현무·서장훈 한자리에…SM C&C ‘핑크빛’ 워크숍",
+       "url": "https://news.jtbc.co.kr/article/NB12324594",
+       "source": "JTBC"
+      },
+      {
+       "title": "수지, 최고 분양가 400억대 고급 빌라 계약…블핑 지수·신세경도",
+       "url": "https://www.news1.kr/realestate/general/6328928",
+       "source": "뉴스1"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EC%84%9C%EC%9E%A5%ED%9B%88&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnIOqbQYZRQ9ydEkegXvt6Kvcqc-V2K0O-NhP0k35jR-L2i_9mO_tdTOhDLWs",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "프리미어리그",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "마레스카, “빌라전 패배, 결정력이 부족했다”",
+       "url": "https://kr.mancity.com/news/mens/enzo-maresca-aston-villa-premier-league-reaction-october-2026-63928457",
+       "source": "Manchester City FC"
+      },
+      {
+       "title": "'김민재 전 동료' 잭슨 원맨쇼! '멀티골' 맹활약, 아스톤 빌라 '중징계 위기' 맨체스터 시티 2-1 제압...7연승 행진 저지",
+       "url": "https://mydaily.co.kr/page/view/2026102423274173084",
+       "source": "마이데일리"
+      },
+      {
+       "title": "맨체스터 시티 초대형 희소식! \"홀란드는 100% 출전할 수 있다\" 24일 애스턴 빌라전 복귀 예고",
+       "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553639727",
+       "source": "스포탈코리아"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%ED%94%84%EB%A6%AC%EB%AF%B8%EC%96%B4%EB%A6%AC%EA%B7%B8&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxilSKqFpMANyXAZdh9mF31Hb2LM1k4_Z51OLmsrL0vUjZcO62bEINGOHrGyo",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "김태형",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "김태형 감독, 롯데와 3년 동행 마침표…재계약 불발로 새 출발 불가피",
+       "url": "https://www.jemin.com/news/articleView.html?idxno=845202",
+       "source": "제민일보"
+      },
+      {
+       "title": "3년 내내 7위…롯데자이언츠, 김태형 감독과 뒤늦은 결별",
+       "url": "https://www.edaily.co.kr/News/Read?newsId=02036886645616200&mediaCodeNo=257",
+       "source": "이데일리"
+      },
+      {
+       "title": "롯데 감독, KIA·삼성·KT서 빼오나 → 이것도 아니면 도대체 왜? 야구계 전체가 궁금한 미스터리",
+       "url": "https://www.chosun.com/sports/baseball/2026/10/25/GFRDGMZQG4ZDGZJXGNTGCMRQGU/",
+       "source": "조선일보"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EA%B9%80%ED%83%9C%ED%98%95&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIPrcjZLpFFp-wbsaYgVCw_K7C6xzYha1af2gfVyAgyEdBVNQpf7dYaQ-L73I",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "사고",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 2000,
+     "traffic_label": "2000+",
+     "best_rank": 10,
+     "news": [
+      {
+       "title": "고속도로 사고 10건 중 7건 발생시각 ‘깜깜이’…인지시간 0분 둔갑",
+       "url": "https://www.munhwa.com/article/11626031",
+       "source": "문화일보"
+      },
+      {
+       "title": "[2026국감] 고속도로 사고 10건 중 7건 발생시각 몰라",
+       "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313889",
+       "source": "스트레이트뉴스"
+      },
+      {
+       "title": "\"고속도로 사고 10건 중 7건은 실제 발생시간 '확인 불가'\"",
+       "url": "https://www.yna.co.kr/view/AKR20261023163400001",
+       "source": "연합뉴스"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EC%82%AC%EA%B3%A0&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQL1q9R6Dw9FGGOP6EkDm9QJ_0sZpy2bZO1mWGYuHJKZne1LzKVaTO19NljZJg",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "중앙일보",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "다우키움 vs CJ, 중앙일보 사주 쟁취는 '다음 세대'의 전쟁",
+       "url": "https://www.investchosun.com/site/data/html_dir/2026/10/22/2026102280099.html",
+       "source": "인베스트조선"
+      },
+      {
+       "title": "‘홍씨 시대’ 저무는 중앙일보…매각까지 남은 관문 셋",
+       "url": "https://marketin.edaily.co.kr/News/Read?newsId=01810566645616200",
+       "source": "마켓인"
+      },
+      {
+       "title": "'스트레이트' 그들이 언론사를 인수한 후…",
+       "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522355",
+       "source": "iMBC 연예"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySqiGbnmSnye2tyjejzgMd7kKhGkSerU0kvj43tnr2zJ21D_sej3Xha1QsZQ",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "이규한",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "\"20년 전부터 솔비 좋아했다, 세상에서 가장 아름다운 분\" 이규한 고백",
+       "url": "https://www.news1.kr/entertain/celebrity-topic/6330619",
+       "source": "뉴스1"
+      },
+      {
+       "title": "이규한, 너스레가 독 됐다..결혼 발표 10일만 욕 먹은 이유 [Oh!쎈 이슈]",
+       "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/HEZTQYRZGJSGGNRUMZRTMZJUMM/",
+       "source": "조선일보"
+      },
+      {
+       "title": "전 연인 남유정은?…이규한 \"솔비 20년 전부터 좋아했다\" - 머니투데이",
+       "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102310240755286",
+       "source": "머니투데이"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EC%9D%B4%EA%B7%9C%ED%95%9C&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUiGP9Kcn3suaUmPdsy-05OZwaJVCumGEbh6a4SB2yWAVHmqOWdNOoBwHWM2A",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "축구 감독",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 4,
+     "news": [
+      {
+       "title": "천안시티FC, 홈에서 안산에 승…시즌 첫 2연승",
+       "url": "https://www.newsis.com/view/NISX20261025_0003840182",
+       "source": "뉴시스"
+      },
+      {
+       "title": "첫 '2연승' 천안시티 박진섭 \"승리했지만 경기력에선 질책 받아야\"",
+       "url": "https://www.newsis.com/view/NISX20261025_0003840200",
+       "source": "뉴시스"
+      },
+      {
+       "title": "“우리나라는 4백 쉽지 않다” 안산 최문식 감독의 소신 [케터뷰]",
+       "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216196",
+       "source": "풋볼리스트"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EC%B6%95%EA%B5%AC%20%EA%B0%90%EB%8F%85&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYP9JUNLbzjqX3j03gcCyRsU7Jk9w3sv2bELauSgLmaBnOAf_VgdppvsMGkMs",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "이다해",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 5,
+     "news": [
+      {
+       "title": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
+       "url": "https://www.newsis.com/view/NISX20261024_0003839708",
+       "source": "뉴시스"
+      },
+      {
+       "title": "이다해, 출산 앞두고 난데없는 성형설..'중국인' 스태프 때문이었다 [핫피플]",
+       "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/MU3TKMZYMJRGMM3FME2TCZRTME/",
+       "source": "조선일보"
+      },
+      {
+       "title": "\"2시간 만에 200억\"…이다해 출연한 中 광군제 라이브커머스 '대박'",
+       "url": "https://www.asiae.co.kr/article/2026102008105864202",
+       "source": "아시아경제"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EC%9D%B4%EB%8B%A4%ED%95%B4&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq-Hinky3HhJBpPjrk0NW2twcBl9qm6mKrD-RTiPt4rvFNxQJq9WuQgmDzLEE",
+     "hours": 1,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "택시",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": 1000,
+     "traffic_label": "1000+",
+     "best_rank": 10,
+     "news": [
+      {
+       "title": "택시 사고 줄었는데 …'아車車!' 고령 기사 사고율은 치솟아",
+       "url": "https://www.mk.co.kr/news/society/12185211",
+       "source": "매일경제"
+      },
+      {
+       "title": "택시 타면 기사 절반은 65세 이상…대구·경북 40세 미만은 0.7%",
+       "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088420",
+       "source": "경북일보"
+      },
+      {
+       "title": "복기왕 “택시기사 절반이 65세 이상…청년 유입 대책 시급”",
+       "url": "https://www.megaccnews.com/news/articleView.html?idxno=8915",
+       "source": "메가충청뉴스"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%ED%83%9D%EC%8B%9C&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucjbFqF4moCMU2EsMZSSl0wpOcZ-miHW7uknZqRW_XOIB9N6-wgLvVhLhy6Y",
+     "hours": 1,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "chelsea vs spurs",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "Premier League predictions & Jones Knows' best bets: Tottenham vs Chelsea, Brighton vs Liverpool, Man Utd vs Bournemouth and much more!",
+       "url": "https://www.skysports.com/football/news/13602410/premier-league-predictions-and-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more",
+       "source": "Sky Sports"
+      },
+      {
+       "title": "Video - Xabi Alonso Issued Chelsea Warning After Learning Spurs Setback Ultimatum",
+       "url": "https://roundtable.io/sports/soccer/premier-league/chelsea/video/xabi-alonso-issued-chelsea-warning-after-learning-spurs-setback-ultimatum",
+       "source": "roundtable.io"
+      },
+      {
+       "title": "EPL: Gusto Fit for Tottenham Clash, Martinez Out for Weeks — Alonso",
+       "url": "https://therealmediang.com/sports/epl-gusto-fit-for-tottenham-clash-martinez-out-for-weeks-alonso",
+       "source": "Real Broadcasting Network"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=chelsea%20vs%20spurs&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWtn8zWl9bc15X7eDVgWK6gjFz7H0GyTisyd9Kj15fRt0NtJyiwv_mV4SfiM",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "kf-21 보라매",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 2,
+     "news": [
+      {
+       "title": "전투기는 국산인데 ‘심장’은 미국산…KF-21에 ‘한국 엔진’ 달면 생기는 일 [밀리터리+]",
+       "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261022601023",
+       "source": "나우뉴스"
+      },
+      {
+       "title": "MBC경남, 창사특집 다큐 '첨단 항공엔진이 온다' 22일 방송",
+       "url": "https://www.fnnews.com/news/202610211441398013",
+       "source": "파이낸셜뉴스"
+      },
+      {
+       "title": "독자개발 훈련기 '웅비'의 튀르키예 수출에 방위사업청이 당황한 이유",
+       "url": "https://www.hankookilbo.com/news/article/A2026101913180001658",
+       "source": "한국일보"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=kf-21%20%EB%B3%B4%EB%9D%BC%EB%A7%A4&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQs5t3SkKwNGwxqr9IYCy1vo-AxY4p6JIIqoef9jVBJw5MWJ86l6iBa-nHt170",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "สภาพอากาศ",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 3,
+     "news": [
+      {
+       "title": "💦🌩️ เริ่มวันนี้ 5 วันเต็มๆ กรมอุตุนิยมวิทยา เตือนฉบับ 2 ฝนตกหนัก อากาศแปรปรวน วันที่ 24-28 ต.ค. เปิดชื่อจังหวัดโดนถล่ม ระวังน้ำท่วม น้ำป่าหลาก วันที่ 24 ต.ค.2569 กรมอุตุนิยมวิทยา ประกาศเรื่อง ฝนตกหนักถึงหนักมากบริเวณภาคใต้ และอากาศแปรปรวนบริเวณประเทศไทยตอนบน (มีผลกร",
+       "url": "https://www.facebook.com/niem1669/posts/%EF%B8%8F-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-5-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%86-%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A-2-%E0%B8%9D%E0%B8%99%E0%B8%95%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81-%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%A7%E0%B8%99-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97/1566209825550450/",
+       "source": "Facebook"
+      },
+      {
+       "title": "รัฐบาลห่วงความปลอดภัยผู้โดยสารกำชับกรมท่าอากาศยานเตรียมพร้อมสนามบินภาคใต้รับฝนหนัก ช่วงวันที่ 24 – 26 ต.ค. 69",
+       "url": "https://today.line.me/th/v3/article/yzGg9yz",
+       "source": "LINE TODAY"
+      },
+      {
+       "title": "เตือน! ฉบับ 1 “ภาคเหนือ” อากาศแปรปรวน ลมแรง-ฝนตกหนักบางแห่ง ช่วง 26-27 ต.ค. นี้",
+       "url": "https://www.cm108.com/w/?p=108343",
+       "source": "www.cm108.com"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSejVAxitMsKVJIBC_YP0PHqeqlA6lmHE3HHE3sUDbqLLikNSq02U4OskRto0E",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "박현호",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 4,
+     "news": [
+      {
+       "title": "은가은♥박현호, 신나는 부부 동반 행사 | KBS 261024 방송",
+       "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026180240-01-000_MFSC3&program_code=T2016-0651&program_id=PS-2026180240-01-000&section_code=04&broadcast_complete_yn=N&section_id=10737",
+       "source": "대한민국 대표 공영미디어 KBS"
+      },
+      {
+       "title": "은가은, 행사장서 헛구역질…박현호 임신테스트기 꺼냈다",
+       "url": "https://www.newsis.com/view/NISX20261024_0003839415",
+       "source": "뉴시스"
+      },
+      {
+       "title": "‘살림남’ 은가은, 엔믹스 설윤 실물에 감탄 “딸도 이렇게 얼굴 작았으면”",
+       "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522340",
+       "source": "iMBC 연예"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EB%B0%95%ED%98%84%ED%98%B8&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPt22CJLShBpfkznuzvu9-Gi-R5I-n4rVuI_QUX4QnpwC5LfvHvhH8T0704W8",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "석유",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 4,
+     "news": [
+      {
+       "title": "[단독] 책임 부담에… 석유 최고액 정산위, 감사원에 SOS",
+       "url": "https://www.chosun.com/economy/industry-company/2026/10/24/SO42KMMWHVG5PEBGQHCEYROHBY/",
+       "source": "조선일보"
+      },
+      {
+       "title": "석유 최고가격제 언제 끝나나…재정 부담 우려도",
+       "url": "https://www.yonhapnewstv.co.kr/news/AKR20261025103040F4m",
+       "source": "연합뉴스TV"
+      },
+      {
+       "title": "[사설] 돈 쓸 궁리만 하는 정부, 프랑스의 길 가려는가",
+       "url": "https://www.koreadaily.com/article/20261023083437705",
+       "source": "미주중앙일보"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EC%84%9D%EC%9C%A0&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQn1dj1HkFpubRGJhv8S3kUn1C3cs2hO1dOc69bcSd8rNDs2j00Xg1xn2Q7hzs",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "노화",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 5,
+     "news": [
+      {
+       "title": "\"출산 후 회복 전 또 임신하면 노화 누적될 가능성\"",
+       "url": "https://www.dongascience.com/ko/news/80497",
+       "source": "DongA Science"
+      },
+      {
+       "title": "출산 후 너무 빨리 다시 임신하면 생물학적 노화에 영향",
+       "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620597",
+       "source": "메디컬투데이"
+      },
+      {
+       "title": "여성, 남성보다 노화에 긍정적…기억력 저하 나타나면 인식 역전",
+       "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620644",
+       "source": "메디컬투데이"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EB%85%B8%ED%99%94&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIGpiF7J4BIDajaqJqXEXhBY3v-6zE9fJzA66FmqGIUmdaiATgv-RvkIlBv5A",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "메이저 리그 사커",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 6,
+     "news": [
+      {
+       "title": "손흥민보다 대단했다…미국서 18경기 13골 6도움 “입단 3개월만 팀 송두리째 바꿔놔”",
+       "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99696",
+       "source": "포포투"
+      },
+      {
+       "title": "한 명은 손흥민 뛰어넘은 대활약, 한 명은 손흥민보다 수준 미달...MLS 적응 희비 엇갈린 '월클 공격수'",
+       "url": "https://www.sportschosun.com/football/2026-10-24/202610240100153170009995",
+       "source": "스포츠조선"
+      },
+      {
+       "title": "이강인에게 ‘7번’ 물려주고 떠난 그리즈만 근황은? ‘14경기 12골 7도움’ 미국 무대 폭격 중",
+       "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216110",
+       "source": "풋볼리스트"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EB%A9%94%EC%9D%B4%EC%A0%80%20%EB%A6%AC%EA%B7%B8%20%EC%82%AC%EC%BB%A4&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyWBAtU7Rg2hB55ueiteQbH4YmVUFDK6HThE9F7ZkEoC2wKrvV1HkaNDmtYFE",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "필라데피아 대 밀워키",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 6,
+     "news": [
+      {
+       "title": "Nick Nurse says that while Joel Embiid will play …",
+       "url": "https://sports.yahoo.com/articles/nick-nurse-says-while-joel-230556476.html",
+       "source": "Yahoo Sports"
+      },
+      {
+       "title": "Joel Embiid to miss a game this weekend",
+       "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-23/joel-embiid-to-miss-a-game-this-weekend",
+       "source": "NBC Sports"
+      },
+      {
+       "title": "Joel Embiid reminded 76ers what their hot start cannot change",
+       "url": "https://thesixersense.com/joel-embiid-reminded-76ers-what-their-hot-start-cannot-change",
+       "source": "The Sixer Sense"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%ED%95%84%EB%9D%BC%EB%8D%B0%ED%94%BC%EC%95%84%20%EB%8C%80%20%EB%B0%80%EC%9B%8C%ED%82%A4&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcuDHKCm9itwLGL4wQy8E72xlgFsCnbSUm4k5ZlHSNWAXZZqSosPBKjLwCz4o",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "배드민턴 프랑스오픈",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 6,
+     "news": [
+      {
+       "title": "세계 2위 잡은 日 돌풍 신예, 인도 배드민턴 여제 앞에서 멈췄다",
+       "url": "https://www.chosun.com/sports/sports_general/2026/10/24/G5RTSNDCGE3WGNDFGQYTSMJXMY/",
+       "source": "조선일보"
+      },
+      {
+       "title": "'승률 98.5%' 배드민턴 안세영, 프랑스오픈 결승행…시즌 10승 눈앞",
+       "url": "https://www.newsis.com/view/NISX20261024_0003839614",
+       "source": "뉴시스"
+      },
+      {
+       "title": "배드민턴: 안세영, 오쿠하라 꺾고 결승 진출 - 프랑스오픈 2026",
+       "url": "https://www.olympics.com/ko/news/badminton-an-seyoung-reaches-final-france-open-2026",
+       "source": "Olympic Channel"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EB%B0%B0%EB%93%9C%EB%AF%BC%ED%84%B4%20%ED%94%84%EB%9E%91%EC%8A%A4%EC%98%A4%ED%94%88&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE3h15WxWm7q3OV5YLUI390UDIKh30z3LFk4QzhNDTDpJuFp-LsbfS9-OCBPo",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "대구날씨",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T23:11:44+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "대구·경북 흐리고 가끔 비…동해안 5∼40㎜",
+       "url": "https://www.yna.co.kr/view/AKR20261025002900053",
+       "source": "연합뉴스"
+      },
+      {
+       "title": "대구·경북 내일까지 비 10~50mm…아침 최저 12~15도",
+       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694388",
+       "source": "KBS 뉴스"
+      },
+      {
+       "title": "'태풍 참피 영향' 대구·경북 25일까지 최고 60mm 비...강풍 '유의'",
+       "url": "https://www.newspim.com/news/view/20261024000014",
+       "source": "뉴스핌"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiwhqprLG86vAgy5TGaNQnXt4NhhoZuAH_dQyp5UXOEdgUZ91NgiVV88suz7s",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "크리스티아누 호날두",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 7,
+     "news": [
+      {
+       "title": "982번째 골 이후 호날두의 예상치 못한 행동",
+       "url": "https://ko.laodong.vn/the-thao/hanh-dong-bat-ngo-cua-ronaldo-sau-ban-thang-thu-982-1788299.ldo",
+       "source": "Laodong.vn"
+      },
+      {
+       "title": "FIFA가 크리스티아누 호날두에게 좋지 않은 소식을 전했다.",
+       "url": "https://www.vietnam.vn/ko/fifa-bao-tin-khong-vui-voi-c-ronaldo",
+       "source": "Vietnam.vn"
+      },
+      {
+       "title": "호날두, 사우디 리그서 개인 통산 982호 골 작렬… 1000골까지 '18골' 남았다",
+       "url": "https://www.koreaes.com/news/articleView.html?idxno=406840",
+       "source": "한국연예스포츠신문"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8B%B0%EC%95%84%EB%88%84%20%ED%98%B8%EB%82%A0%EB%91%90&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZXqcBNkGfW7dmVeTqpZE1vjoQxcNhKw5WPDq8ctCejKl1CVnDgOMN9sTYTvg",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "자산",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 8,
+     "news": [
+      {
+       "title": "청와대 ‘가상자산 과세 유예’ 검토…청년층 민심 고려",
+       "url": "https://weekly.khan.co.kr/article/202610251444001",
+       "source": "주간경향"
+      },
+      {
+       "title": "청, '가상자산 과세 유예' 무게…청년층 여론 등 고려한 듯",
+       "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278481&PAGE_CD=N0002&CMPT_CD=M0112",
+       "source": "OhmyNews"
+      },
+      {
+       "title": "'수익 250만 원 넘으면 22% 세금' 가상자산 과세, 네 번째 유예 기로",
+       "url": "https://www.ytn.co.kr/_ln/0102_202610240522165469",
+       "source": "YTN"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EC%9E%90%EC%82%B0&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2fzSdj_zrGjIVo00EMEG8Bc1kUlNLbIqX8J-f3Dr-3SSXZMxwXJYBwcgYsd0",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "아스날",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T18:07:43+00:00",
+     "traffic": 500,
+     "traffic_label": "500+",
+     "best_rank": 10,
+     "news": [
+      {
+       "title": "왜 아스날은 이번 시즌 프리미어 리그에서 코너킥으로 득점하지 못했을까요?",
+       "url": "https://ko.laodong.vn/bong-da-quoc-te/vi-sao-arsenal-chua-ghi-ban-tu-phat-goc-tai-premier-league-mua-nay-1788514.ldo",
+       "source": "Laodong.vn"
+      },
+      {
+       "title": "아스널 공격수 사카, 허벅지 부상으로 최소 6주 이탈",
+       "url": "https://www.yna.co.kr/view/AKR20261024015000007",
+       "source": "연합뉴스"
+      },
+      {
+       "title": "[EPL] 아스널 사카, 허벅지 부상으로 최소 6주 결장 전망",
+       "url": "https://www.newspim.com/news/view/20261024000029",
+       "source": "뉴스핌"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=%EC%95%84%EC%8A%A4%EB%82%A0&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzeFtSqSUpY0KxBrCs7uBtGLC0p4ZGZ0BdK6qCyhAU8KYYKBPvdAqjhO-86uI",
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "cblol",
+     "geo": "KR",
+     "source": "google",
+     "first_seen": "2026-10-24T20:46:47+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": 200,
+     "traffic_label": "200+",
+     "best_rank": 1,
+     "news": [
+      {
+       "title": "Worlds 2026: ''Eu nunca fugi do meta'', diz LOS Curse às vésperas da estreia",
+       "url": "https://maisesports.com.br/worlds-2026-eu-nunca-fugi-do-meta-diz-los-curse-as-vesperas-da-estreia",
+       "source": "Mais Esports"
+      },
+      {
+       "title": "LØS Duduhh: \"Foi apenas um jogo, o próximo vai ser diferente\"",
+       "url": "https://www.sheepesports.com/pt/articles/los-duduhh-it-was-just-one-game-the-next-one-will-be-different/pt",
+       "source": "Sheep Esports"
+      },
+      {
+       "title": "LOS estreia contra a T1 nesta sexta no Mundial de LoL 2026; veja onde assistir",
+       "url": "https://arenaesports.com.br/league-of-legends/los-estreia-contra-a-t1-nesta-sexta-no-mundial-de-lol-2026-veja-onde-assistir/",
+       "source": "arenaesports.com.br"
+      }
+     ],
+     "url": "https://trends.google.com/trends/explore?q=cblol&geo=KR&date=now%207-d",
+     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3HgUyLEldZ20Ha5EIDdoHnw1E4uQ8PoGTHL4__7iQeXfErmNMrGLugnzChnI",
+     "hours": 1,
+     "is_new": false,
+     "days_seen_7d": 2
+    }
+   ]
+  },
+  {
+   "geo": "CN",
+   "name": "Çin (Baidu)",
+   "flag": "🇨🇳",
+   "trends": [
+    {
+     "term": "金正恩访问丹东",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": null,
+     "traffic_label": "热",
+     "best_rank": 1,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E9%87%91%E6%AD%A3%E6%81%A9%E8%AE%BF%E9%97%AE%E4%B8%B9%E4%B8%9C&sa=fyb_news",
+     "picture": null,
+     "hours": 3,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "太空视角俯瞰台湾 每条街道清晰可见",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": null,
+     "traffic_label": "热",
+     "best_rank": 1,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E4%BF%AF%E7%9E%B0%E5%8F%B0%E6%B9%BE+%E6%AF%8F%E6%9D%A1%E8%A1%97%E9%81%93%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "亚洲最长的地铁环线来了",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 1,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E4%BA%9A%E6%B4%B2%E6%9C%80%E9%95%BF%E7%9A%84%E5%9C%B0%E9%93%81%E7%8E%AF%E7%BA%BF%E6%9D%A5%E4%BA%86&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "人造黄金会不会击穿金价",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 1,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "广州新规：“电鸡”多次违法可扣车",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 2,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%B9%BF%E5%B7%9E%E6%96%B0%E8%A7%84%EF%BC%9A%E2%80%9C%E7%94%B5%E9%B8%A1%E2%80%9D%E5%A4%9A%E6%AC%A1%E8%BF%9D%E6%B3%95%E5%8F%AF%E6%89%A3%E8%BD%A6&sa=fyb_news",
+     "picture": null,
+     "hours": 4,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "人民日报评“人们不愿接陌生电话”",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": null,
+     "traffic_label": "新",
+     "best_rank": 2,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E4%BA%BA%E4%BB%AC%E4%B8%8D%E6%84%BF%E6%8E%A5%E9%99%8C%E7%94%9F%E7%94%B5%E8%AF%9D%E2%80%9D&sa=fyb_news",
+     "picture": null,
+     "hours": 2,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "县委书记拒绝在张雪挑战直播插广告",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": null,
+     "traffic_label": "新",
+     "best_rank": 2,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%9C%A8%E5%BC%A0%E9%9B%AA%E6%8C%91%E6%88%98%E7%9B%B4%E6%92%AD%E6%8F%92%E5%B9%BF%E5%91%8A&sa=fyb_news",
+     "picture": null,
+     "hours": 2,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "央视：美军选特殊时期挑衅已劣迹斑斑",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 2,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%EF%BC%9A%E7%BE%8E%E5%86%9B%E9%80%89%E7%89%B9%E6%AE%8A%E6%97%B6%E6%9C%9F%E6%8C%91%E8%A1%85%E5%B7%B2%E5%8A%A3%E8%BF%B9%E6%96%91%E6%96%91&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "出口首破8万亿 “新”字挑大梁",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 3,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%87%BA%E5%8F%A3%E9%A6%96%E7%A0%B48%E4%B8%87%E4%BA%BF+%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E6%8C%91%E5%A4%A7%E6%A2%81&sa=fyb_news",
+     "picture": null,
+     "hours": 4,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "这不是科幻这是中国智造",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 3,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%B8%8D%E6%98%AF%E7%A7%91%E5%B9%BB%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%99%BA%E9%80%A0&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "海拔4800米的生命救援",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 3,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E6%B5%B7%E6%8B%944800%E7%B1%B3%E7%9A%84%E7%94%9F%E5%91%BD%E6%95%91%E6%8F%B4&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "菲防长提着纸糊的盾牌对中国发起冲锋",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 4,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E8%8F%B2%E9%98%B2%E9%95%BF%E6%8F%90%E7%9D%80%E7%BA%B8%E7%B3%8A%E7%9A%84%E7%9B%BE%E7%89%8C%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8F%91%E8%B5%B7%E5%86%B2%E9%94%8B&sa=fyb_news",
+     "picture": null,
+     "hours": 3,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "女子花3.8万鹤岗买房 搬进去后傻眼",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 4,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B13.8%E4%B8%87%E9%B9%A4%E5%B2%97%E4%B9%B0%E6%88%BF+%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC&sa=fyb_news",
+     "picture": null,
+     "hours": 2,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "泽连斯基：拒绝接受放弃25%领土提议",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 4,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8E%A5%E5%8F%97%E6%94%BE%E5%BC%8325%25%E9%A2%86%E5%9C%9F%E6%8F%90%E8%AE%AE&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "飙涨超200% 这个百亿风口越炒越旺",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": null,
+     "traffic_label": "新",
+     "best_rank": 4,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E9%A3%99%E6%B6%A8%E8%B6%85200%25+%E8%BF%99%E4%B8%AA%E7%99%BE%E4%BA%BF%E9%A3%8E%E5%8F%A3%E8%B6%8A%E7%82%92%E8%B6%8A%E6%97%BA&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "毛不易出席多年好友婚礼致辞引争议",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": null,
+     "traffic_label": "热",
+     "best_rank": 5,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%87%BA%E5%B8%AD%E5%A4%9A%E5%B9%B4%E5%A5%BD%E5%8F%8B%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news",
+     "picture": null,
+     "hours": 4,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "医生走进镜头 专业不能给流量让路",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 5,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%8C%BB%E7%94%9F%E8%B5%B0%E8%BF%9B%E9%95%9C%E5%A4%B4+%E4%B8%93%E4%B8%9A%E4%B8%8D%E8%83%BD%E7%BB%99%E6%B5%81%E9%87%8F%E8%AE%A9%E8%B7%AF&sa=fyb_news",
+     "picture": null,
+     "hours": 4,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "哪些省份的结婚人数多",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T20:46:47+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 5,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%93%AA%E4%BA%9B%E7%9C%81%E4%BB%BD%E7%9A%84%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E5%A4%9A&sa=fyb_news",
+     "picture": null,
+     "hours": 2,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "蒯曼王艺迪亚锦赛女双冠军",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": null,
+     "traffic_label": "新",
+     "best_rank": 5,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E8%92%AF%E6%9B%BC%E7%8E%8B%E8%89%BA%E8%BF%AA%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%A5%B3%E5%8F%8C%E5%86%A0%E5%86%9B&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "农村拼豆店走红 有公司送去442斤拼豆",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 6,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%86%9C%E6%9D%91%E6%8B%BC%E8%B1%86%E5%BA%97%E8%B5%B0%E7%BA%A2+%E6%9C%89%E5%85%AC%E5%8F%B8%E9%80%81%E5%8E%BB442%E6%96%A4%E6%8B%BC%E8%B1%86&sa=fyb_news",
+     "picture": null,
+     "hours": 4,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "“喝大水、睡大觉、练薄肌”",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 6,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%96%9D%E5%A4%A7%E6%B0%B4%E3%80%81%E7%9D%A1%E5%A4%A7%E8%A7%89%E3%80%81%E7%BB%83%E8%96%84%E8%82%8C%E2%80%9D&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "爱吃这种“零食”的人赚了",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": null,
+     "traffic_label": "新",
+     "best_rank": 6,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E7%88%B1%E5%90%83%E8%BF%99%E7%A7%8D%E2%80%9C%E9%9B%B6%E9%A3%9F%E2%80%9D%E7%9A%84%E4%BA%BA%E8%B5%9A%E4%BA%86&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "徐嘉余50米仰泳破世界纪录",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-24T23:11:44+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 7,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%BE%90%E5%98%89%E4%BD%9950%E7%B1%B3%E4%BB%B0%E6%B3%B3%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news",
+     "picture": null,
+     "hours": 3,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "张雪在家乡刷新吉尼斯纪录",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": null,
+     "traffic_label": "打call",
+     "best_rank": 7,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E5%9C%A8%E5%AE%B6%E4%B9%A1%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95&sa=fyb_news",
+     "picture": null,
+     "hours": 2,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "台湾光复纪念日",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 7,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "比亚迪助力足球少年圆梦北京工体",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T11:24:11+00:00",
+     "last_seen": "2026-10-25T11:24:11+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 7,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8A%A9%E5%8A%9B%E8%B6%B3%E7%90%83%E5%B0%91%E5%B9%B4%E5%9C%86%E6%A2%A6%E5%8C%97%E4%BA%AC%E5%B7%A5%E4%BD%93&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "全麻手术后记性会变差吗",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 8,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E5%85%A8%E9%BA%BB%E6%89%8B%E6%9C%AF%E5%90%8E%E8%AE%B0%E6%80%A7%E4%BC%9A%E5%8F%98%E5%B7%AE%E5%90%97&sa=fyb_news",
+     "picture": null,
+     "hours": 4,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "最高法披露“北大包丽案”细节",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-24T18:07:43+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 8,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E6%9C%80%E9%AB%98%E6%B3%95%E6%8A%AB%E9%9C%B2%E2%80%9C%E5%8C%97%E5%A4%A7%E5%8C%85%E4%B8%BD%E6%A1%88%E2%80%9D%E7%BB%86%E8%8A%82&sa=fyb_news",
+     "picture": null,
+     "hours": 4,
+     "is_new": false,
+     "days_seen_7d": 2
+    },
+    {
+     "term": "迪丽热巴红毯蝴蝶飞走是巧合",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T01:08:58+00:00",
+     "last_seen": "2026-10-25T01:08:58+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 8,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E6%AF%AF%E8%9D%B4%E8%9D%B6%E9%A3%9E%E8%B5%B0%E6%98%AF%E5%B7%A7%E5%90%88&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    },
+    {
+     "term": "AI歌曲《过来人》爆火",
+     "geo": "CN",
+     "source": "baidu",
+     "first_seen": "2026-10-25T06:06:03+00:00",
+     "last_seen": "2026-10-25T06:06:03+00:00",
+     "traffic": null,
+     "traffic_label": null,
+     "best_rank": 8,
+     "news": [],
+     "url": "https://m.baidu.com/s?word=AI%E6%AD%8C%E6%9B%B2%E3%80%8A%E8%BF%87%E6%9D%A5%E4%BA%BA%E3%80%8B%E7%88%86%E7%81%AB&sa=fyb_news",
+     "picture": null,
+     "hours": 1,
+     "is_new": true,
+     "days_seen_7d": 1
+    }
+   ]
+  }
+ ],
+ "ai": {
+  "summary": "Gün dört pazarda spor takvimi/yayın bilgisi aramalarıyla domine ediliyor (NBA, World Series, Süper Lig, KBO, Bundesliga); bunlar büyük oyuncuların çözdüğü alanlar. Asıl değerli sinyaller yan konularda: Almanya'daki saat değişimi ve Türk diasporası, TR'de kimlik kartı iptali (belge süresi takibi), DE'de kriz/erzak hazırlığı, KR'de Airbnb temizlik kuralları ve temettü hesapları, CN'de bilinmeyen numaralara cevap vermeme tartışması.",
+  "countries": {
+   "US": "Tamamen spor: World Series hakem tartışması, NBA açılış haftası, kolej futbolu ve Netflix'in 'Mosquito Bowl' filmi. Uygulama sinyali yok, video için 'nasıl izlenir / kim bu' içerikleri işler.",
+   "DE": "VW'de 12.000 kişilik işten çıkarma ve IG Metall, yaz saati bitişi (Türkçe aramalar dahil), üç dilde hava durumu aramaları, darts/kayakla atlama/MotoGP ve kriz-erzak hazırlığı haberi.",
+   "TR": "Süper Lig ve alt lig maç saatleri, BİM aktüel kataloğu (haftalık tekrar eden), TV yayın akışı ve 'milyonların kimlik kartı iptal olacak' haberi öne çıkıyor.",
+   "KR": "Tayfun nedeniyle ertelenen KBO playoff, Chelsea-Tottenham maçındaki yüz tanıma tartışması, Airbnb'nin temizlik/bulaşık kuralını değiştirmesi ve Samsung'un rekor temettü beklentisi.",
+   "CN": "Asya'nın en uzun metro çevre hattı, yapay altın ve altın fiyatı tartışması, Guangzhou e-bisiklet cezaları ve People's Daily'nin 'insanlar bilinmeyen numaraları açmıyor' yorumu; dış politika başlıkları yoğun."
+  },
+  "patterns": [
+   "Dört pazarda da 'bugün hangi maç saat kaçta, hangi kanalda' araması zirvede; bu ihtiyaç kalıcı ama Google/Flashscore/beIN gibi devlerce çözülmüş, sadece video için kullan.",
+   "Resmi belge/sürenin dolması paniği tekrar ediyor: TR'de kimlik kartı iptali, DE'de yaz saati geçişi (Türkçe aranıyor), Guangzhou'da e-bisiklet ceza puanı. İnsanlar son tarihleri hatırlatıcı olmadan kaçırıyor.",
+   "Kriz/afet hazırlığı birden fazla pazarda: DE'de erzak stoğu haberi, KR'de tayfun, US'de süper El Niño kar haritaları.",
+   "Platform kurallarının tüketiciye yüklediği gizli maliyetler viral oluyor: Airbnb temizlik ücreti + bulaşık (KR), yüz tanıma ile stadyum gözetimi (KR), bilinmeyen aramalar (CN).",
+   "Haftalık tekrar eden tüketici ritüelleri: BİM aktüel kataloğu (TR, her hafta trend), TV yayın akışı (TR/DE)."
+  ],
+  "app_ideas": [
+   {
+    "title": "Süresi Doluyor – resmi belge ve son tarih takipçisi",
+    "problem": "Kimlik kartı, pasaport, ehliyet, araç muayene, trafik sigortası, vize, oturma izni gibi belgelerin son tarihleri farklı yerlerde; insanlar haberden öğrenip panikliyor. Mevcut çözüm: takvim notu veya hiç.",
+    "why_now": "TR'de 'milyonların TC kimlik kartı iptal olacak' haberi bugün trend; benzer dalga her yıl pasaport/ehliyet/muayene dönemlerinde tekrar ediyor.",
+    "trends": [
+     "türkiye cumhuriyeti kimlik kartı",
+     "saatler ne zaman geri alınacak 2026 almanya"
+    ],
+    "market": "TR (ikincil: DE'deki Türk diasporası – Aufenthaltstitel, TÜV)",
+    "mvp": "1) Belge türü seçip son tarih girme + 90/30/7 gün önce bildirim, 2) Her belge için 'yenilemek için gerekenler' kısa rehberi ve randevu linki (NVİ, e-Devlet, TÜVTÜRK), 3) Aile üyeleri için çoklu profil.",
+    "effort": "kolay",
+    "competitors": "e-Devlet (süre dolunca proaktif hatırlatmıyor, tek yerde listelemiyor), genel hatırlatıcı uygulamalar (belge rehberi ve gerekli evrak bilgisi yok), tek amaçlı 'araç muayene hatırlatıcı' uygulamaları (sadece bir belge).",
+    "monetization": "Ücretsiz 3 belge; aile profili + sınırsız belge + rehber için tek seferlik 149 TL veya yıllık abonelik. Ödeyen: çocuklu aileler ve yurt dışında yaşayanlar.",
+    "recurring_signal": "Her belgenin 5-10 yıllık döngüsü var; 'kimlik iptal', 'pasaport süresi', 'muayene cezası' haberleri her yıl trend oluyor; muayene gecikme cezası ve eski kart iptali somut para kaybı yaratıyor.",
+    "solo_feasible": "Yerel veritabanı + yerel bildirim, sunucu gerekmez; rehberler statik içerik. En büyük risk: yenileme kurallarının/linklerin güncel tutulması – uzaktan güncellenen JSON ile çözülür.",
+    "confidence": 7
+   },
+   {
+    "title": "Notvorrat – hane bazlı acil durum erzak planlayıcı",
+    "problem": "Almanya'da BBK 10 günlük erzak stoğu öneriyor ama insanlar ne kadar alacağını bilmiyor, aldıklarının son kullanma tarihini kaçırıyor ve stok çürüyor.",
+    "why_now": "DE'de 'lebensmittel' aramasının arkasında kriz hazırlığı haberi var; süper El Niño kış uyarıları, KR'de tayfun, enerji/blackout endişesi aynı hafta gündemde.",
+    "trends": [
+     "lebensmittel",
+     "weather",
+     "kia 대 삼성"
+    ],
+    "market": "DE (ikincil: global)",
+    "mvp": "1) Kişi sayısı/gün sayısı girince BBK listesine göre miktar hesaplayan kontrol listesi, 2) Barkod okutup son kullanma tarihi kaydetme ve 'önce bunu tüket' bildirimi, 3) Su/ilaç/pil gibi gıda dışı kalemler için ayrı checklist.",
+    "effort": "orta",
+    "competitors": "BBK'nın web tabanlı Vorratskalkulator'u (takip ve hatırlatma yok), genel kiler/son kullanma uygulamaları (acil durum miktarı hesaplamıyor), mevcut birkaç küçük Notvorrat uygulaması (barkod ve rotasyon zayıf, eski tasarım).",
+    "monetization": "Tek seferlik 4,99 € Pro (barkod tarama, sınırsız ürün, PDF alışveriş listesi). Ödeyen: Alman aileler ve 'prepper' ilgisi olan 30-55 yaş grubu.",
+    "recurring_signal": "Her kış fırtına/kar uyarısı, her enerji krizi ve BBK'nın yıllık kampanyaları aynı aramayı tekrar tetikliyor; stok döngüsü sürekli yenileme gerektiriyor.",
+    "solo_feasible": "Yerel veri + Open Food Facts barkod API + yerel bildirim; hesaplama tablosu statik. Risk: barkodun bazı ürünlerde eşleşmemesi – manuel giriş fallback'i şart.",
+    "confidence": 6
+   }
+  ],
+  "video_ideas": [
+   {
+    "title": "Almanya'da saat geri alınıyor: Türkiye ile fark bu gece 2 saat oluyor",
+    "format": "Shorts / Reels",
+    "hook": "Bu gece Almanya'da saat değişiyor, Türkiye'deki aileni yanlış saatte arayacaksın.",
+    "trends": [
+     "saatler ne zaman geri alınacak 2026 almanya"
+    ],
+    "market": "TR/DE diasporası",
+    "timing": "bugün"
+   },
+   {
+    "title": "Kimlik kartın iptal mi olacak? 20 saniyede kontrol et",
+    "format": "TikTok / Shorts",
+    "hook": "Milyonların kimlik kartı iptal olacak diyorlar, seninki listede mi?",
+    "trends": [
+     "türkiye cumhuriyeti kimlik kartı"
+    ],
+    "market": "TR",
+    "timing": "bugün"
+   },
+   {
+    "title": "Airbnb'de temizlik ücreti ödedim, bir de bulaşık mı yıkayacağım?",
+    "format": "Reels / TikTok",
+    "hook": "Airbnb sonunda kuralı değiştirdi: artık ev sahibi senden bunu isteyemez.",
+    "trends": [
+     "설거지"
+    ],
+    "market": "global",
+    "timing": "bu hafta"
+   },
+   {
+    "title": "Stadyumda yüzün tarandı: Chelsea-Tottenham'da ne oldu?",
+    "format": "Shorts",
+    "hook": "Maça gittin, bilet kontrolü yok; kameralar yüzünü zaten tanıdı.",
+    "trends": [
+     "첼시 대 토트넘",
+     "프리미어리그"
+    ],
+    "market": "global",
+    "timing": "bu hafta"
+   },
+   {
+    "title": "Almanya'nın resmi 10 günlük erzak listesi (kişi başı gram gram)",
+    "format": "Reels / uzun video",
+    "hook": "Alman devleti her evde 10 günlük yiyecek istiyor; işte tam liste.",
+    "trends": [
+     "lebensmittel",
+     "weather"
+    ],
+    "market": "DE",
+    "timing": "evergreen"
+   },
+   {
+    "title": "Neden kimse artık bilinmeyen numarayı açmıyor?",
+    "format": "Douyin / TikTok",
+    "hook": "Çin'in en büyük gazetesi bile yazdı: bilinmeyen aramayı açmamak artık normal.",
+    "trends": [
+     "人民日报评“人们不愿接陌生电话”"
+    ],
+    "market": "CN/global",
+    "timing": "evergreen"
+   },
+   {
+    "title": "BİM'de bu hafta almaya değer 5 ürün (yağlı radyatör dahil)",
+    "format": "Shorts / TikTok",
+    "hook": "Salı BİM'e gidecekler, bu 5 ürün 1 saatte bitiyor.",
+    "trends": [
+     "bim aktüel",
+     "25 ekim bim kataloğu 2026"
+    ],
+    "market": "TR",
+    "timing": "bugün"
+   },
+   {
+    "title": "Samsung'dan ayda 1 milyon won temettü için kaç hisse lazım?",
+    "format": "Shorts",
+    "hook": "Hisse başı 12.000 won temettü: hesapladım, sonuç şaşırtıcı.",
+    "trends": [
+     "배당"
+    ],
+    "market": "KR",
+    "timing": "bu hafta"
+   },
+   {
+    "title": "Mosquito Bowl gerçek mi? Netflix filminin arkasındaki 1944 maçı",
+    "format": "Shorts / Reels",
+    "hook": "Bu futbol maçının oyuncularının çoğu bir yıl sonra hayatta değildi; Netflix bunu filme çekti.",
+    "trends": [
+     "mosquito bowl"
+    ],
+    "market": "US",
+    "timing": "bu hafta"
+   },
+   {
+    "title": "Asya'nın en uzun metro çevre hattı: bir turu kaç dakika?",
+    "format": "Douyin / Shorts",
+    "hook": "Bu metroya binip inmezsen aynı yere 2 saat sonra dönüyorsun.",
+    "trends": [
+     "亚洲最长的地铁环线来了",
+     "这不是科幻这是中国智造"
+    ],
+    "market": "CN",
+    "timing": "bu hafta"
+   }
+  ]
+ },
+ "ai_error": null
+}
